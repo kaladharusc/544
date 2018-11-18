@@ -1,0 +1,34 @@
+profane words = [sh*t, pi** off, son of b**ch, b**tard, b*tch]
+offensive words = [f**k, pu**y, b**bs, c**t, pe**s, mot***cker, c**k, d*ck]
+
+if no offensive words ( its ok if 1-2 profane words)
+	Rate ‘G’
+
+if no offensive words  but found 2-4 profane words in text:
+	then read the captions, to understand the context :
+		if context was found more of sensual and verbal abuse :
+			rate it PG-13
+		else:
+			rate PG
+else if more than 4 profane words but no offensive words:
+	rate PG
+
+if one or more offensive words are found in text:
+	then read the captions, to understand the context :
+		if context was found more of  sexual and has direct verbal abuse and more offensive words than general use:
+            Rate 'R'
+        else:
+            Rate 'PG-13'
+
+if more than 4-5 offensive words :
+    rate 'R'
+
+
+Aim of caption reading is to understand more of the word context from the text. ( i.e the context in which the word is uttered.)
+we might add more words to the profane and offensive words list.
+
+
+Even after this if we are not able to label the video captions of a particular then we are going to watch the video to make a decision.
+
+Sources : http://www.thestate.org/services/mpaa
+            https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
