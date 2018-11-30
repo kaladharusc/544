@@ -66,7 +66,7 @@ def main():
         text = ''
         file_name = ""
         with open(path.join(dirPath, f)) as file:
-            file_name = file.name
+            file_name = f
             while True:
                 lineNo = file.readline().strip()
                 if not lineNo:
@@ -82,6 +82,8 @@ def main():
                     text += ' ' + lineText
 
         # print text
+        if len(text) == 0:
+            continue
 
         offensiveWords, profaneWords = {}, {}
         with open('bad_words.json') as badwords:
@@ -103,11 +105,15 @@ def main():
 
         proWordCount, offWordCount = 0, 0
         text = text.split()
+        offensive_words_list, profane_words_list = [], []
         for word in text:
             if word in profaneWords:
+
                 if profaneWords[word] == -1:
+                    profane_words_list.append(word)
                     proWordCount += 1
                 else:
+                    total_word = word
                     idx = text.index(word) + 1
                     match = True
                     for w in profaneWords[word][1:]:
@@ -119,14 +125,19 @@ def main():
                             match = False
                             break
                         idx += 1
+                        total_word += w
 
                     if match == True:
+                        profane_words_list.append(total_word)
                         proWordCount += 1
 
             if word in offensiveWords:
+
                 if offensiveWords[word] == -1:
+                    offensive_words_list.append(word)
                     offWordCount += 1
                 else:
+                    total_word = word
                     idx = text.index(word) + 1
                     match = True
                     for w in offensiveWords[word][1:]:
@@ -139,7 +150,10 @@ def main():
                             break
                         idx += 1
 
+                        total_word += w
+
                     if match == True:
+                        offensive_words_list.append(total_word)
                         offWordCount += 1
 
         if offWordCount == 0:
@@ -149,11 +163,12 @@ def main():
             elif proWordCount > 2 and proWordCount <= 4:
                 # ********** Call Kaladhar's Function **********
                 # No context and not sexual
-                review.log_reviewed(file_name, False, [])
-                label = 'PG'
+                review.log_reviewed(file_name, False, [{"offensive":
+                                                        offensive_words_list, "profane": profane_words_list}])
+                label = '#'
 
                 # Context
-                label = 'PG13'
+                # label = 'PG13'
 
             elif proWordCount > 4:
                 label = 'PG13'
@@ -162,11 +177,12 @@ def main():
             print "offensive < 4"
             # ********** Call Kaladhar's Function **********
             # Context Sexual
-            review.log_reviewed(file_name, False, [])
-            label = 'R'
+            review.log_reviewed(file_name, False, [{"offensive":
+                                                    offensive_words_list, "profane": profane_words_list}])
+            label = '#'
 
             # Context not sexual and offWordCount > 1 and offWordCount < 4
-            label = 'PG13'
+            # label = 'PG13'
         else:
             print "offensive >= 4"
             label = 'R'

@@ -1,0 +1,628 @@
+1
+00:00:00,010 --> 00:00:10,940
+so maybe you've heard the news by now
+
+2
+00:00:10,940 --> 00:00:14,610
+but yesterday we announced that I sold
+
+3
+00:00:14,610 --> 00:00:18,439
+my technology company beam to CNN and
+
+4
+00:00:18,439 --> 00:00:21,930
+with CNN and my team at beam and my
+
+5
+00:00:21,930 --> 00:00:23,910
+partner Matt Hackett we're gonna be
+
+6
+00:00:23,910 --> 00:00:26,279
+starting a new like media and technology
+
+7
+00:00:26,279 --> 00:00:29,789
+company it's a very big deal it's a very
+
+8
+00:00:29,789 --> 00:00:32,279
+big announcement and I wanted to explain
+
+9
+00:00:32,279 --> 00:00:34,770
+to you as much of it as I can in a
+
+10
+00:00:34,770 --> 00:00:36,930
+YouTube video so this video is going to
+
+11
+00:00:36,930 --> 00:00:43,040
+be I sold my company told in five parts
+
+12
+00:00:43,040 --> 00:00:48,690
+okay part one the blog a question I've
+
+13
+00:00:48,690 --> 00:00:49,980
+been asked a million times since
+
+14
+00:00:49,980 --> 00:00:52,649
+yesterday is this why I killed the vlog
+
+15
+00:00:52,649 --> 00:00:55,320
+is this why I stopped blogging and the
+
+16
+00:00:55,320 --> 00:00:58,100
+answer is yes and no I was genuinely
+
+17
+00:00:58,100 --> 00:01:01,500
+bored I was exhausted and creatively
+
+18
+00:01:01,500 --> 00:01:03,539
+depleted when it came to making that
+
+19
+00:01:03,539 --> 00:01:05,489
+blog and I felt that way for the last
+
+20
+00:01:05,489 --> 00:01:08,010
+several months and the reason why I kept
+
+21
+00:01:08,010 --> 00:01:09,750
+going is because I wasn't entirely sure
+
+22
+00:01:09,750 --> 00:01:12,990
+what to do next so I would have stepped
+
+23
+00:01:12,990 --> 00:01:14,820
+away from the vlog regardless I don't
+
+24
+00:01:14,820 --> 00:01:16,080
+know what else I would have stepped into
+
+25
+00:01:16,080 --> 00:01:18,479
+and this opportunity definitely provided
+
+26
+00:01:18,479 --> 00:01:21,119
+me with the the catalyst to actually
+
+27
+00:01:21,119 --> 00:01:23,880
+shut the vlog down again just as a
+
+28
+00:01:23,880 --> 00:01:24,659
+caveat
+
+29
+00:01:24,659 --> 00:01:27,240
+I'm not vlogging I'm still youtubing
+
+30
+00:01:27,240 --> 00:01:29,189
+very very much so if you didn't see the
+
+31
+00:01:29,189 --> 00:01:31,259
+video I posted two days ago from Vietnam
+
+32
+00:01:31,259 --> 00:01:36,860
+check it out took me three weeks to make
+
+33
+00:01:36,860 --> 00:01:39,689
+I'm gonna make a whole video about what
+
+34
+00:01:39,689 --> 00:01:41,520
+it means to be an entrepreneur and what
+
+35
+00:01:41,520 --> 00:01:44,100
+my experience was like but I couldn't
+
+36
+00:01:44,100 --> 00:01:45,890
+make this video without talking about
+
+37
+00:01:45,890 --> 00:01:48,390
+fear I've done so many scary things in
+
+38
+00:01:48,390 --> 00:01:49,939
+my life jumping out of airplanes
+
+39
+00:01:49,939 --> 00:01:55,469
+helicopters over Afghanistan is in
+
+40
+00:01:55,469 --> 00:01:58,289
+there is nothing I've ever done that has
+
+41
+00:01:58,289 --> 00:02:00,929
+scared me as much for as long at a time
+
+42
+00:02:00,929 --> 00:02:04,500
+I starting a company and I think the
+
+43
+00:02:04,500 --> 00:02:06,359
+reason why is you know we had to raise
+
+44
+00:02:06,359 --> 00:02:08,489
+millions of dollars to start bheem and
+
+45
+00:02:08,489 --> 00:02:10,229
+in order to do that you have to go to
+
+46
+00:02:10,229 --> 00:02:12,030
+people you trust some people you know
+
+47
+00:02:12,030 --> 00:02:13,920
+some people you don't and you have to
+
+48
+00:02:13,920 --> 00:02:16,410
+put yourself on the line and say believe
+
+49
+00:02:16,410 --> 00:02:19,379
+in me and that belief in you is
+
+50
+00:02:19,379 --> 00:02:21,209
+substantiated by them writing you a huge
+
+51
+00:02:21,209 --> 00:02:23,580
+check tens of thousands hundreds of
+
+52
+00:02:23,580 --> 00:02:26,069
+thousands millions of dollars and the
+
+53
+00:02:26,069 --> 00:02:30,390
+reason why this fear is just omnipresent
+
+54
+00:02:30,390 --> 00:02:32,640
+when you're starting a company is to
+
+55
+00:02:32,640 --> 00:02:35,340
+fail means having to go back to all
+
+56
+00:02:35,340 --> 00:02:37,290
+those people that believed in you the
+
+57
+00:02:37,290 --> 00:02:40,230
+entire amazing brilliant geniuses that
+
+58
+00:02:40,230 --> 00:02:42,629
+are the team at being my partner Matt
+
+59
+00:02:42,629 --> 00:02:44,459
+all of the investors that put their
+
+60
+00:02:44,459 --> 00:02:47,069
+money on the line all of that in
+
+61
+00:02:47,069 --> 00:02:51,859
+aggregate just yielded a terror that I
+
+62
+00:02:51,859 --> 00:02:54,480
+might fail and let down all these people
+
+63
+00:02:54,480 --> 00:02:55,859
+that believed in me I'm not bringing
+
+64
+00:02:55,859 --> 00:02:57,359
+this up to be self congratulatory or
+
+65
+00:02:57,359 --> 00:03:00,389
+anything like that I just but to omit
+
+66
+00:03:00,389 --> 00:03:03,180
+that part of this narrative from this
+
+67
+00:03:03,180 --> 00:03:08,989
+video I think would make this incomplete
+
+68
+00:03:08,989 --> 00:03:11,639
+the future so if you read any one of
+
+69
+00:03:11,639 --> 00:03:13,200
+those like hundred articles about what
+
+70
+00:03:13,200 --> 00:03:16,139
+we're doing none of them actually say
+
+71
+00:03:16,139 --> 00:03:18,030
+what it is we're gonna be doing with CNN
+
+72
+00:03:18,030 --> 00:03:19,500
+are you making an app for them are you
+
+73
+00:03:19,500 --> 00:03:22,470
+gonna have a TV show I have no idea it's
+
+74
+00:03:22,470 --> 00:03:25,739
+probably not gonna be I'm Casey dice dad
+
+75
+00:03:25,739 --> 00:03:28,829
+and this is CNN part of the reason why I
+
+76
+00:03:28,829 --> 00:03:31,650
+was so excited about working with CNN is
+
+77
+00:03:31,650 --> 00:03:34,859
+they believed in me they believed in
+
+78
+00:03:34,859 --> 00:03:36,780
+Matt they believed in our team so much
+
+79
+00:03:36,780 --> 00:03:38,310
+that they just wanted this relationship
+
+80
+00:03:38,310 --> 00:03:40,620
+to happen and then we'd figure out what
+
+81
+00:03:40,620 --> 00:03:42,690
+it is later so that's what our focus has
+
+82
+00:03:42,690 --> 00:03:43,829
+been it's like how do we pull this
+
+83
+00:03:43,829 --> 00:03:45,120
+together how do we make this happen how
+
+84
+00:03:45,120 --> 00:03:46,859
+does this make sense we did all that and
+
+85
+00:03:46,859 --> 00:03:49,620
+now we're gonna figure out what it
+
+86
+00:03:49,620 --> 00:03:53,990
+actually is
+
+87
+00:03:53,990 --> 00:03:56,280
+money everybody loves to talk about
+
+88
+00:03:56,280 --> 00:03:57,930
+money I saw a lot of YouTube videos
+
+89
+00:03:57,930 --> 00:03:59,970
+talking about this CN n partnership the
+
+90
+00:03:59,970 --> 00:04:01,860
+CNN deal and everyone just wants to talk
+
+91
+00:04:01,860 --> 00:04:03,630
+about the money there are a lot of huge
+
+92
+00:04:03,630 --> 00:04:05,160
+numbers being thrown around out there
+
+93
+00:04:05,160 --> 00:04:09,480
+and and this is not winning the lottery
+
+94
+00:04:09,480 --> 00:04:11,250
+there are a lot of people involved in
+
+95
+00:04:11,250 --> 00:04:14,070
+this this is in no way just this deal is
+
+96
+00:04:14,070 --> 00:04:17,459
+in no way just me also just as part of
+
+97
+00:04:17,459 --> 00:04:19,380
+that I don't know why but for whatever
+
+98
+00:04:19,380 --> 00:04:23,669
+reason making money on YouTube or as a
+
+99
+00:04:23,669 --> 00:04:26,790
+social media person or in general is
+
+100
+00:04:26,790 --> 00:04:28,860
+something that people love to all
+
+101
+00:04:28,860 --> 00:04:30,330
+over on YouTube that's something I will
+
+102
+00:04:30,330 --> 00:04:32,580
+never understand I think if you watch
+
+103
+00:04:32,580 --> 00:04:33,870
+this channel you know a little bit of my
+
+104
+00:04:33,870 --> 00:04:35,970
+background and you know that that when I
+
+105
+00:04:35,970 --> 00:04:38,820
+started my career at age 17 I was on
+
+106
+00:04:38,820 --> 00:04:41,490
+welfare I had nothing everything I have
+
+107
+00:04:41,490 --> 00:04:44,160
+in my life has been owned and I'm very
+
+108
+00:04:44,160 --> 00:04:45,720
+proud of that and I don't hide from that
+
+109
+00:04:45,720 --> 00:04:48,150
+but I'm excited about what this means
+
+110
+00:04:48,150 --> 00:04:49,770
+I'm excited that this means that I will
+
+111
+00:04:49,770 --> 00:04:51,210
+be able to continue to provide for my
+
+112
+00:04:51,210 --> 00:04:54,120
+family but I'm not gonna be buying a
+
+113
+00:04:54,120 --> 00:04:56,490
+private jet anytime soon or driving a
+
+114
+00:04:56,490 --> 00:04:57,090
+Ferrari
+
+115
+00:04:57,090 --> 00:05:03,540
+I don't just thank you for watching
+
+116
+00:05:03,540 --> 00:05:06,479
+these videos but if I didn't have people
+
+117
+00:05:06,479 --> 00:05:08,460
+that cared about for whatever reason
+
+118
+00:05:08,460 --> 00:05:10,710
+about what I share I wouldn't have any
+
+119
+00:05:10,710 --> 00:05:13,680
+of this and whatever this next journey
+
+120
+00:05:13,680 --> 00:05:16,140
+brings I hope you're interested enough
+
+121
+00:05:16,140 --> 00:05:17,610
+and to at least check it out or come
+
+122
+00:05:17,610 --> 00:05:19,770
+along with me but everything I've ever
+
+123
+00:05:19,770 --> 00:05:21,660
+done has been because of people like you
+
+124
+00:05:21,660 --> 00:05:23,780
+who have shared your time in watching
+
+125
+00:05:23,780 --> 00:05:26,520
+what it is that I put out there so I
+
+126
+00:05:26,520 --> 00:05:31,270
+mean it what I say thank you
+
+127
+00:05:31,270 --> 00:05:33,680
+so that's kind of it I hope that this
+
+128
+00:05:33,680 --> 00:05:35,750
+shared I hope that this sheds a little
+
+129
+00:05:35,750 --> 00:05:38,630
+light on what's going on and look I
+
+130
+00:05:38,630 --> 00:05:41,330
+really I don't know what's next I don't
+
+131
+00:05:41,330 --> 00:05:44,000
+know what the future holds for me and my
+
+132
+00:05:44,000 --> 00:05:46,040
+career and YouTube and this new company
+
+133
+00:05:46,040 --> 00:05:48,320
+and this whole thing I have no idea but
+
+134
+00:05:48,320 --> 00:05:49,760
+I can tell you when I look back at my
+
+135
+00:05:49,760 --> 00:05:51,800
+life there are a lot of times when I've
+
+136
+00:05:51,800 --> 00:05:53,120
+stood at the bottom of a gigantic
+
+137
+00:05:53,120 --> 00:05:55,280
+mountain sometimes figuratively like
+
+138
+00:05:55,280 --> 00:05:58,670
+when I was 17 and had a baby and
+
+139
+00:05:58,670 --> 00:06:00,140
+sometimes literally like when I had
+
+140
+00:06:00,140 --> 00:06:02,180
+actually climbed gigantic mountains this
+
+141
+00:06:02,180 --> 00:06:04,640
+is me summoning the tallest mountain in
+
+142
+00:06:04,640 --> 00:06:07,580
+the southern in Western Hemisphere and I
+
+143
+00:06:07,580 --> 00:06:09,440
+can tell you all those journeys all
+
+144
+00:06:09,440 --> 00:06:11,900
+those journeys have taken in life I've
+
+145
+00:06:11,900 --> 00:06:14,510
+never known how to get to the top of
+
+146
+00:06:14,510 --> 00:06:16,790
+that mountain I've had no idea what that
+
+147
+00:06:16,790 --> 00:06:18,830
+would look like or how to do that but I
+
+148
+00:06:18,830 --> 00:06:19,760
+always knew where to start
+
+149
+00:06:19,760 --> 00:06:22,030
+because every journey big or small
+
+150
+00:06:22,030 --> 00:06:24,740
+professional or personal figurative or
+
+151
+00:06:24,740 --> 00:06:26,780
+literal every journey starts the same
+
+152
+00:06:26,780 --> 00:06:29,540
+way you take one step forward one step
+
+153
+00:06:29,540 --> 00:06:32,120
+closer to where you want to be and this
+
+154
+00:06:32,120 --> 00:06:34,820
+this whole new company CNN thing this is
+
+155
+00:06:34,820 --> 00:06:38,410
+the next mountain that I want to climb I
+
+156
+00:06:38,410 --> 00:06:41,930
+hope you'll come with me and today today
+
+157
+00:06:41,930 --> 00:06:59,000
+is step one
+

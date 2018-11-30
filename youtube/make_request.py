@@ -53,6 +53,7 @@ class Youtube:
         if not os.path.exists(dir_name):
             os.makedirs(dir_name)
         self.alreadyFiles = os.listdir(dir_name)
+        self.alreadyFiles = [x.decode('utf-8') for x in self.alreadyFiles]
         url = "{}channelId={}&part=snippet,id&order=date&maxResults=10".format(
             self.youtube_search_url, channelId)
         r = requests.get(url)
@@ -72,6 +73,7 @@ class Youtube:
         fileName = name + ".txt"
         # print(fileName)
         if fileName in self.alreadyFiles:
+            print("exists: ", fileName)
             return
         r = requests.get("https://www.diycaptions.com/php/start.php?id=" + id)
         r = requests.post(
