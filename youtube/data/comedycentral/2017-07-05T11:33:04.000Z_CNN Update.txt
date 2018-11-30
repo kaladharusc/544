@@ -1,0 +1,1564 @@
+1
+00:00:00,010 --> 00:00:11,849
+okay people keep asking what's up with
+
+2
+00:00:11,849 --> 00:00:13,320
+my CNN thing so I thought I'd make a
+
+3
+00:00:13,320 --> 00:00:15,389
+quick video explaining what's up with my
+
+4
+00:00:15,389 --> 00:00:23,880
+CNN thing I want to start with a little
+
+5
+00:00:23,880 --> 00:00:26,099
+bit of historical context you know to
+
+6
+00:00:26,099 --> 00:00:39,570
+shape the story out all right the CNN
+
+7
+00:00:39,570 --> 00:00:42,510
+thing this is a brief history so in
+
+8
+00:00:42,510 --> 00:00:45,360
+early 2015 I founded a technology
+
+9
+00:00:45,360 --> 00:00:48,360
+company called beam with Matt Hackett he
+
+10
+00:00:48,360 --> 00:00:50,460
+was my partner then at the end of March
+
+11
+00:00:50,460 --> 00:00:52,020
+that year I launched the vlog the
+
+12
+00:00:52,020 --> 00:00:53,699
+purpose of the vlog initially was just
+
+13
+00:00:53,699 --> 00:00:55,559
+to talk about me starting a new company
+
+14
+00:00:55,559 --> 00:00:56,940
+and then it spiraled into something
+
+15
+00:00:56,940 --> 00:00:59,820
+bigger and then summer 2015 mid-june we
+
+16
+00:00:59,820 --> 00:01:02,520
+publicly launched being the app a video
+
+17
+00:01:02,520 --> 00:01:04,589
+sharing app like snapchat or Instagram
+
+18
+00:01:04,589 --> 00:01:06,450
+or something like that and largely
+
+19
+00:01:06,450 --> 00:01:08,700
+driven by the popularity of the vlog and
+
+20
+00:01:08,700 --> 00:01:10,340
+I think people liked the idea of being
+
+21
+00:01:10,340 --> 00:01:13,380
+downloads skyrocketed the app did really
+
+22
+00:01:13,380 --> 00:01:15,420
+really well through summer and then
+
+23
+00:01:15,420 --> 00:01:19,979
+slowly falling following and not
+
+24
+00:01:19,979 --> 00:01:21,720
+recovering we had a good app we had a
+
+25
+00:01:21,720 --> 00:01:24,330
+great idea but snapchat was better and
+
+26
+00:01:24,330 --> 00:01:26,490
+Instagram was a better idea we got our
+
+27
+00:01:26,490 --> 00:01:29,369
+asses kicked then some summer 2016 not
+
+28
+00:01:29,369 --> 00:01:30,150
+now we're trying to figure out the
+
+29
+00:01:30,150 --> 00:01:32,640
+future of the company was CNN bought
+
+30
+00:01:32,640 --> 00:01:35,280
+bean now a lot of people ask why would
+
+31
+00:01:35,280 --> 00:01:39,030
+CNN buy a failed video sharing app well
+
+32
+00:01:39,030 --> 00:01:40,590
+they didn't buy the app they bought the
+
+33
+00:01:40,590 --> 00:01:42,689
+technology company that was behind that
+
+34
+00:01:42,689 --> 00:01:45,299
+app there's a tremendous amount of value
+
+35
+00:01:45,299 --> 00:01:47,310
+in putting together a team and building
+
+36
+00:01:47,310 --> 00:01:48,840
+a company in the infrastructure and the
+
+37
+00:01:48,840 --> 00:01:50,939
+IP that we create there's a lot of value
+
+38
+00:01:50,939 --> 00:01:52,950
+behind that one app and that's what CNN
+
+39
+00:01:52,950 --> 00:01:54,509
+was interested in there are also
+
+40
+00:01:54,509 --> 00:01:56,250
+interested in me because of what I'd
+
+41
+00:01:56,250 --> 00:01:59,009
+done on the blog now one very important
+
+42
+00:01:59,009 --> 00:02:00,450
+distinction I've said this before but a
+
+43
+00:02:00,450 --> 00:02:02,610
+very important distinction CNN did not
+
+44
+00:02:02,610 --> 00:02:04,409
+buy and does not own in any capacity
+
+45
+00:02:04,409 --> 00:02:06,930
+this YouTube channel my youtube channel
+
+46
+00:02:06,930 --> 00:02:08,429
+that was not part of the deal I'll
+
+47
+00:02:08,429 --> 00:02:09,780
+always continue to post wherever the
+
+48
+00:02:09,780 --> 00:02:12,000
+hell I want to post on this channel beam
+
+49
+00:02:12,000 --> 00:02:12,950
+CNN
+
+50
+00:02:12,950 --> 00:02:15,620
+separate entities and that's the history
+
+51
+00:02:15,620 --> 00:02:17,269
+portion of this video
+
+52
+00:02:17,269 --> 00:02:24,650
+what's beam up to now so we that is me
+
+53
+00:02:24,650 --> 00:02:27,980
+and Matt and our new partners from CNN
+
+54
+00:02:27,980 --> 00:02:30,140
+spent the first part of this year kind
+
+55
+00:02:30,140 --> 00:02:31,940
+of defining what it is we wanted to do
+
+56
+00:02:31,940 --> 00:02:33,680
+and we knew we wanted to continue in
+
+57
+00:02:33,680 --> 00:02:35,180
+technology we knew we wanted to
+
+58
+00:02:35,180 --> 00:02:37,880
+introduce more media that is like videos
+
+59
+00:02:37,880 --> 00:02:40,099
+and movies and YouTube and and want to
+
+60
+00:02:40,099 --> 00:02:41,870
+build something completely new the old
+
+61
+00:02:41,870 --> 00:02:43,879
+beam that app that we killed has nothing
+
+62
+00:02:43,879 --> 00:02:46,099
+to do with the new company but we still
+
+63
+00:02:46,099 --> 00:02:48,019
+have the same people the same team we've
+
+64
+00:02:48,019 --> 00:02:50,120
+actually been hiring quite a bit our
+
+65
+00:02:50,120 --> 00:02:54,580
+team now is well it's you
+
+66
+00:02:54,580 --> 00:03:22,760
+[Music]
+
+67
+00:03:22,760 --> 00:03:24,260
+and something that's super important
+
+68
+00:03:24,260 --> 00:03:27,349
+understand is that CNN owns being but we
+
+69
+00:03:27,349 --> 00:03:29,299
+operate separately so CNN's in this
+
+70
+00:03:29,299 --> 00:03:31,640
+gigantic glass tower in Midtown and we
+
+71
+00:03:31,640 --> 00:03:33,590
+work out of an old fucked up former
+
+72
+00:03:33,590 --> 00:03:36,080
+furniture store in Chinatown CNN has
+
+73
+00:03:36,080 --> 00:03:38,180
+like a gazillion employees and they wear
+
+74
+00:03:38,180 --> 00:03:40,549
+suits and stuff like that we we work in
+
+75
+00:03:40,549 --> 00:03:43,849
+a basement in Chinatown so we really do
+
+76
+00:03:43,849 --> 00:03:45,890
+operate on our own and that's not to say
+
+77
+00:03:45,890 --> 00:03:47,330
+if we start screwing up that's and I
+
+78
+00:03:47,330 --> 00:03:50,060
+might not step in but so far we still
+
+79
+00:03:50,060 --> 00:03:52,099
+run this company like a startup we want
+
+80
+00:03:52,099 --> 00:03:53,720
+to make all kinds of shows all kinds of
+
+81
+00:03:53,720 --> 00:03:55,579
+content we want to release a lot of it
+
+82
+00:03:55,579 --> 00:03:57,140
+here on YouTube but we're also not
+
+83
+00:03:57,140 --> 00:03:58,790
+against like trying other platforms
+
+84
+00:03:58,790 --> 00:04:00,769
+newer platforms but we're starting here
+
+85
+00:04:00,769 --> 00:04:02,420
+on YouTube just parenthetically we
+
+86
+00:04:02,420 --> 00:04:03,890
+haven't launched the YouTube channel yet
+
+87
+00:04:03,890 --> 00:04:06,290
+I'll let you know but there's no we're
+
+88
+00:04:06,290 --> 00:04:08,000
+not up yet the first show we want to
+
+89
+00:04:08,000 --> 00:04:09,859
+launch we're calling beam news and we
+
+90
+00:04:09,859 --> 00:04:11,299
+want it to be like it'll probably four
+
+91
+00:04:11,299 --> 00:04:12,890
+days a week when we launched it we want
+
+92
+00:04:12,890 --> 00:04:15,109
+to get it to seven days a week I'm going
+
+93
+00:04:15,109 --> 00:04:17,239
+to host it a little bit and then we're
+
+94
+00:04:17,239 --> 00:04:19,250
+going to other people host it it has to
+
+95
+00:04:19,250 --> 00:04:21,109
+be bigger than me to succeed and I don't
+
+96
+00:04:21,109 --> 00:04:22,880
+want to be the k/t show we got like a
+
+97
+00:04:22,880 --> 00:04:25,760
+really smart team of journalists and
+
+98
+00:04:25,760 --> 00:04:28,400
+researchers and writers helping us make
+
+99
+00:04:28,400 --> 00:04:30,320
+that show we'll never be like a regular
+
+100
+00:04:30,320 --> 00:04:31,970
+journalist hosting it'll be probably
+
+101
+00:04:31,970 --> 00:04:33,950
+somebody like me or a youtuber like Jake
+
+102
+00:04:33,950 --> 00:04:35,930
+Jake we've met before Jake is our head
+
+103
+00:04:35,930 --> 00:04:38,139
+of production it's a nice sounding title
+
+104
+00:04:38,139 --> 00:04:42,950
+but I'm alone and I feel Head of
+
+105
+00:04:42,950 --> 00:04:46,250
+Production alone and he's like really
+
+106
+00:04:46,250 --> 00:04:49,070
+leading the charge on the media stuff
+
+107
+00:04:49,070 --> 00:04:51,680
+including the Daily Show now editorial I
+
+108
+00:04:51,680 --> 00:04:53,110
+know there's a lot of questions behind
+
+109
+00:04:53,110 --> 00:04:55,610
+editorial editorial meaning like you
+
+110
+00:04:55,610 --> 00:04:57,620
+know what are our political leanings and
+
+111
+00:04:57,620 --> 00:04:59,630
+what can be the content of the show the
+
+112
+00:04:59,630 --> 00:05:01,460
+show is not going to be a politically
+
+113
+00:05:01,460 --> 00:05:03,410
+motivated show we're not going to be
+
+114
+00:05:03,410 --> 00:05:05,570
+trying to convince anyone to do anything
+
+115
+00:05:05,570 --> 00:05:07,070
+in this show politically in fact
+
+116
+00:05:07,070 --> 00:05:09,169
+politics will make up at most a tiny
+
+117
+00:05:09,169 --> 00:05:10,880
+tiny piece of this show and that's
+
+118
+00:05:10,880 --> 00:05:12,349
+challenging we're fighting against the
+
+119
+00:05:12,349 --> 00:05:14,660
+baggage that comes with CNN a lot of
+
+120
+00:05:14,660 --> 00:05:15,860
+people like CNN for certain reason
+
+121
+00:05:15,860 --> 00:05:17,780
+people hate CNN for certain reasons and
+
+122
+00:05:17,780 --> 00:05:19,310
+then we have to sort of push back into
+
+123
+00:05:19,310 --> 00:05:21,860
+my own baggage I will be voting for
+
+124
+00:05:21,860 --> 00:05:23,690
+Hillary yes that was a little
+
+125
+00:05:23,690 --> 00:05:25,820
+heavy-handed I realize that you know let
+
+126
+00:05:25,820 --> 00:05:27,289
+me take a second and explain my own
+
+127
+00:05:27,289 --> 00:05:29,539
+political position and again my politics
+
+128
+00:05:29,539 --> 00:05:32,539
+will have a little role in this show in
+
+129
+00:05:32,539 --> 00:05:34,789
+my hosting of it as humanly possible but
+
+130
+00:05:34,789 --> 00:05:36,650
+it is important for me to share with you
+
+131
+00:05:36,650 --> 00:05:39,259
+where I stand politically so well you
+
+132
+00:05:39,259 --> 00:05:40,699
+can watch the content through that lens
+
+133
+00:05:40,699 --> 00:05:42,440
+now besides like a lot of folks on
+
+134
+00:05:42,440 --> 00:05:44,479
+reddit and whoever else labeling me like
+
+135
+00:05:44,479 --> 00:05:48,830
+a snowflake a liberal snowflake Lib tard
+
+136
+00:05:48,830 --> 00:05:50,330
+I think is the title actually I
+
+137
+00:05:50,330 --> 00:05:51,800
+personally identify with a lot of
+
+138
+00:05:51,800 --> 00:05:54,259
+conservative values identify with some
+
+139
+00:05:54,259 --> 00:05:57,139
+liberal values and a lot of libertarian
+
+140
+00:05:57,139 --> 00:05:59,600
+values I'm scattered and I certainly
+
+141
+00:05:59,600 --> 00:06:01,130
+don't subscribe to any one political
+
+142
+00:06:01,130 --> 00:06:03,740
+label I do subscribe to a set of morals
+
+143
+00:06:03,740 --> 00:06:05,750
+and a set of principles and when I look
+
+144
+00:06:05,750 --> 00:06:08,720
+to politician to a like who I don't like
+
+145
+00:06:08,720 --> 00:06:10,130
+I typically like the ones that are
+
+146
+00:06:10,130 --> 00:06:13,400
+rooted in principle in values more so
+
+147
+00:06:13,400 --> 00:06:16,430
+than a political party or affiliations
+
+148
+00:06:16,430 --> 00:06:18,080
+or things like that I know it's very
+
+149
+00:06:18,080 --> 00:06:19,880
+heavy-handed in the last presidential
+
+150
+00:06:19,880 --> 00:06:22,820
+campaign but look I hated the 2016
+
+151
+00:06:22,820 --> 00:06:24,530
+presidential campaign we had two
+
+152
+00:06:24,530 --> 00:06:26,630
+candidates neither of which I liked one
+
+153
+00:06:26,630 --> 00:06:28,220
+of which I dislike more than the other
+
+154
+00:06:28,220 --> 00:06:30,020
+one that I dislike I don't love what's
+
+155
+00:06:30,020 --> 00:06:31,729
+around in Washington that's both sides
+
+156
+00:06:31,729 --> 00:06:33,860
+of the aisle I have huge issues with
+
+157
+00:06:33,860 --> 00:06:35,419
+politics in the United States of America
+
+158
+00:06:35,419 --> 00:06:36,410
+as a whole
+
+159
+00:06:36,410 --> 00:06:39,020
+and that's where I stand politically I
+
+160
+00:06:39,020 --> 00:06:40,550
+don't even know if that's appropriate
+
+161
+00:06:40,550 --> 00:06:43,070
+for to be in this video but I think
+
+162
+00:06:43,070 --> 00:06:44,419
+there's a lot of misconceptions about
+
+163
+00:06:44,419 --> 00:06:46,220
+Who I am and where I stand politically
+
+164
+00:06:46,220 --> 00:06:47,330
+so I wanted to share that with you
+
+165
+00:06:47,330 --> 00:06:49,099
+themed news will not be politically
+
+166
+00:06:49,099 --> 00:06:50,720
+focused politics are only gonna play a
+
+167
+00:06:50,720 --> 00:06:53,270
+tiny if any role in that show itself
+
+168
+00:06:53,270 --> 00:06:55,669
+instead it's a daily news show about the
+
+169
+00:06:55,669 --> 00:06:57,169
+things that interests us that is the
+
+170
+00:06:57,169 --> 00:06:58,970
+team that's making it and where we are
+
+171
+00:06:58,970 --> 00:07:00,590
+the show now actually we are producing
+
+172
+00:07:00,590 --> 00:07:02,900
+it we're making a show right now and we
+
+173
+00:07:02,900 --> 00:07:04,760
+make something we look at it internally
+
+174
+00:07:04,760 --> 00:07:06,860
+and we're like what sucks about this and
+
+175
+00:07:06,860 --> 00:07:08,930
+we try to correct that and right now I
+
+176
+00:07:08,930 --> 00:07:11,840
+say this show is good we want to get it
+
+177
+00:07:11,840 --> 00:07:13,909
+to very good and when it's very good
+
+178
+00:07:13,909 --> 00:07:15,320
+we're going to launch it publicly and
+
+179
+00:07:15,320 --> 00:07:17,360
+then someday we want to make it great
+
+180
+00:07:17,360 --> 00:07:19,400
+very good is good enough to put it out
+
+181
+00:07:19,400 --> 00:07:20,750
+there and then we want to hear back from
+
+182
+00:07:20,750 --> 00:07:23,570
+people and and ultimately together make
+
+183
+00:07:23,570 --> 00:07:25,430
+it great and that when I think of like
+
+184
+00:07:25,430 --> 00:07:27,320
+my blog I think the first episodes tend
+
+185
+00:07:27,320 --> 00:07:28,210
+to suck but
+
+186
+00:07:28,210 --> 00:07:36,340
+[Music]
+
+187
+00:07:36,340 --> 00:07:43,820
+like look beam identity design so that's
+
+188
+00:07:43,820 --> 00:07:45,920
+this isn't final but like that's what
+
+189
+00:07:45,920 --> 00:07:49,400
+we're thinking for fonts and like being
+
+190
+00:07:49,400 --> 00:07:51,440
+news beam tales being Doc's being
+
+191
+00:07:51,440 --> 00:07:52,940
+productions like the different things
+
+192
+00:07:52,940 --> 00:07:55,040
+that we're going to do under beam and
+
+193
+00:07:55,040 --> 00:07:57,320
+those are like slightly different fonts
+
+194
+00:07:57,320 --> 00:07:59,720
+this was an earlier version of the logo
+
+195
+00:07:59,720 --> 00:08:02,720
+this logo I liked but and then we landed
+
+196
+00:08:02,720 --> 00:08:04,400
+on this I don't think that this is
+
+197
+00:08:04,400 --> 00:08:06,620
+finalized either but this is the idea I
+
+198
+00:08:06,620 --> 00:08:08,540
+hope you think that's cool I'm very very
+
+199
+00:08:08,540 --> 00:08:09,980
+excited about that design I think it
+
+200
+00:08:09,980 --> 00:08:11,600
+feels fresh and smart and also like a
+
+201
+00:08:11,600 --> 00:08:14,030
+little bit nostalgic like kind of weirdo
+
+202
+00:08:14,030 --> 00:08:17,600
+1980s local news but in all the right
+
+203
+00:08:17,600 --> 00:08:17,840
+ways
+
+204
+00:08:17,840 --> 00:08:19,730
+this is give me the first time anyone
+
+205
+00:08:19,730 --> 00:08:21,860
+look how thin I am this is the first
+
+206
+00:08:21,860 --> 00:08:24,910
+time anyone's seen any of beam news
+
+207
+00:08:24,910 --> 00:08:28,100
+actual beam news this is just a test
+
+208
+00:08:28,100 --> 00:08:30,020
+this is not for publishing on being
+
+209
+00:08:30,020 --> 00:08:33,320
+music what I need to know okay when
+
+210
+00:08:33,320 --> 00:08:34,610
+Costa spit not me
+
+211
+00:08:34,610 --> 00:08:37,040
+the I hosted it Casey is very tan I did
+
+212
+00:08:37,040 --> 00:08:38,510
+look at the screen we try to talk about
+
+213
+00:08:38,510 --> 00:08:39,770
+we found this interesting story that we
+
+214
+00:08:39,770 --> 00:08:42,020
+liked about click farms and that's
+
+215
+00:08:42,020 --> 00:08:44,000
+basically the thing that instigates the
+
+216
+00:08:44,000 --> 00:08:45,830
+whole entire piece is click farms how
+
+217
+00:08:45,830 --> 00:08:47,840
+easy it is to get clicks but this is a
+
+218
+00:08:47,840 --> 00:08:50,150
+good this is it sort of teaser to show
+
+219
+00:08:50,150 --> 00:08:51,950
+you a little bit of like the things that
+
+220
+00:08:51,950 --> 00:08:54,170
+we are interested by we I mean the whole
+
+221
+00:08:54,170 --> 00:08:56,210
+team is interested in it's not politics
+
+222
+00:08:56,210 --> 00:08:57,950
+it's not the news that your parents
+
+223
+00:08:57,950 --> 00:09:00,020
+watch or whatever this is like but it is
+
+224
+00:09:00,020 --> 00:09:02,360
+news news but it's more of an experience
+
+225
+00:09:02,360 --> 00:09:04,070
+I think is what we're trying to go for
+
+226
+00:09:04,070 --> 00:09:07,040
+hey now no ok here comes the first-ever
+
+227
+00:09:07,040 --> 00:09:09,560
+case of a little bit of a beam news
+
+228
+00:09:09,560 --> 00:09:16,250
+might this is something that I found to
+
+229
+00:09:16,250 --> 00:09:18,140
+be particularly interesting happened on
+
+230
+00:09:18,140 --> 00:09:19,580
+Monday and that is that police and
+
+231
+00:09:19,580 --> 00:09:21,830
+Thailand raided a clique farm and we've
+
+232
+00:09:21,830 --> 00:09:23,270
+heard about put farms before especially
+
+233
+00:09:23,270 --> 00:09:25,550
+on platforms like YouTube but in case
+
+234
+00:09:25,550 --> 00:09:27,590
+you haven't they are places that sell
+
+235
+00:09:27,590 --> 00:09:29,360
+social media likes follows and views to
+
+236
+00:09:29,360 --> 00:09:31,370
+companies or individuals who want to
+
+237
+00:09:31,370 --> 00:09:33,530
+boost their online popularity that could
+
+238
+00:09:33,530 --> 00:09:35,240
+farm in Thailand like other click farms
+
+239
+00:09:35,240 --> 00:09:37,280
+in India Bangladesh and elsewhere have
+
+240
+00:09:37,280 --> 00:09:39,140
+these janky looking racks filled with
+
+241
+00:09:39,140 --> 00:09:40,880
+hundreds of cell phone workers then
+
+242
+00:09:40,880 --> 00:09:43,580
+rotate hundreds of thousands of SIM
+
+243
+00:09:43,580 --> 00:09:44,990
+cards through these phones to make a
+
+244
+00:09:44,990 --> 00:09:45,329
+look
+
+245
+00:09:45,329 --> 00:09:46,980
+different users were liking or viewing
+
+246
+00:09:46,980 --> 00:09:49,049
+or friending or whatever it is that
+
+247
+00:09:49,049 --> 00:09:52,170
+people do now let's be clear to me this
+
+248
+00:09:52,170 --> 00:09:54,299
+is a form of cheating and a lot of
+
+249
+00:09:54,299 --> 00:09:55,889
+platforms and online stores prohibit
+
+250
+00:09:55,889 --> 00:09:56,970
+stuff like this in their Terms of
+
+251
+00:09:56,970 --> 00:09:58,799
+Service and they might even kick you off
+
+252
+00:09:58,799 --> 00:10:00,299
+their site or delete your fake followers
+
+253
+00:10:00,299 --> 00:10:02,879
+and views and likes reviews if you do
+
+254
+00:10:02,879 --> 00:10:04,889
+business with a click farmer other fake
+
+255
+00:10:04,889 --> 00:10:08,999
+users but also legal the three guys who
+
+256
+00:10:08,999 --> 00:10:10,290
+were arrested in that Thailand raid
+
+257
+00:10:10,290 --> 00:10:11,939
+weren't arrested for running a clip farm
+
+258
+00:10:11,939 --> 00:10:13,829
+according to the AP they were actually
+
+259
+00:10:13,829 --> 00:10:15,209
+arrested on charges that included not
+
+260
+00:10:15,209 --> 00:10:17,999
+paying taxes on those hundreds of cell
+
+261
+00:10:17,999 --> 00:10:19,559
+phones and we wanted to figure out just
+
+262
+00:10:19,559 --> 00:10:23,519
+how easy this is spoiler alert it's
+
+263
+00:10:23,519 --> 00:10:25,829
+actually pretty easy for example there
+
+264
+00:10:25,829 --> 00:10:27,239
+are vending machines in Russia where you
+
+265
+00:10:27,239 --> 00:10:28,920
+can buy Instagram likes as if they were
+
+266
+00:10:28,920 --> 00:10:32,899
+skittle
+
+267
+00:10:32,899 --> 00:10:35,790
+so all this gave us an idea to try two
+
+268
+00:10:35,790 --> 00:10:38,850
+things one let's actually buy some fake
+
+269
+00:10:38,850 --> 00:10:41,369
+Instagram followers and two what if we
+
+270
+00:10:41,369 --> 00:10:42,689
+did it for one of the people working
+
+271
+00:10:42,689 --> 00:10:45,299
+upstairs at the beam office and then we
+
+272
+00:10:45,299 --> 00:10:49,429
+just didn't tell them about it
+
+273
+00:10:49,429 --> 00:10:51,899
+hey Jack so who should we buy some
+
+274
+00:10:51,899 --> 00:10:55,679
+Instagram collars for Steve all right so
+
+275
+00:10:55,679 --> 00:10:56,369
+it's pretty easy
+
+276
+00:10:56,369 --> 00:10:57,569
+we found this website and we have some
+
+277
+00:10:57,569 --> 00:10:58,889
+few options for how many followers we
+
+278
+00:10:58,889 --> 00:10:59,819
+should get what do you think we should
+
+279
+00:10:59,819 --> 00:11:01,860
+go with one hundred timeout I like that
+
+280
+00:11:01,860 --> 00:11:03,989
+it's quality followers yeah the best
+
+281
+00:11:03,989 --> 00:11:06,179
+only the best well that's for Steve all
+
+282
+00:11:06,179 --> 00:11:08,249
+right we can do $39.99 because we have
+
+283
+00:11:08,249 --> 00:11:09,569
+pnn money
+
+284
+00:11:09,569 --> 00:11:13,589
+oh there's Wow yes that is we have a
+
+285
+00:11:13,589 --> 00:11:15,419
+plane while I do this you go upstairs
+
+286
+00:11:15,419 --> 00:11:17,369
+and see if we can capture the moment
+
+287
+00:11:17,369 --> 00:11:21,000
+when it happening yes
+
+288
+00:11:21,000 --> 00:11:24,040
+all right you can walk up and try and
+
+289
+00:11:24,040 --> 00:11:26,380
+not have speed see me doing this but
+
+290
+00:11:26,380 --> 00:11:29,190
+it's going to be kind of obvious I think
+
+291
+00:11:29,190 --> 00:11:33,699
+what's up man yeah well you were firing
+
+292
+00:11:33,699 --> 00:11:34,660
+partner Joey
+
+293
+00:11:34,660 --> 00:11:37,079
+strike a pose okay there were pain now
+
+294
+00:11:37,079 --> 00:11:43,620
+see what happened okay did we paid 300
+
+295
+00:11:43,620 --> 00:11:48,600
+for the camera hey Rick Rick for the kid
+
+296
+00:11:48,600 --> 00:11:51,670
+very aware that I want to tape if you're
+
+297
+00:11:51,670 --> 00:11:54,399
+Mike Patton in five minutes so read that
+
+298
+00:11:54,399 --> 00:11:58,510
+as well Justin just in case picked up to
+
+299
+00:11:58,510 --> 00:12:02,110
+265 lead I had to like in the comments
+
+300
+00:12:02,110 --> 00:12:04,750
+now let's just refresh this thing and
+
+301
+00:12:04,750 --> 00:12:06,310
+see when it takes place and this works
+
+302
+00:12:06,310 --> 00:12:07,300
+I'm going to freak out
+
+303
+00:12:07,300 --> 00:12:09,970
+yes it's happening that's 53 lights
+
+304
+00:12:09,970 --> 00:12:15,970
+right now 77 like 86,000 905 951 I feel
+
+305
+00:12:15,970 --> 00:12:19,899
+really bad notification you're kind of
+
+306
+00:12:19,899 --> 00:12:22,930
+blowing up right on IG what did you do
+
+307
+00:12:22,930 --> 00:12:26,410
+why do I have 2000 like Sonic 3 what not
+
+308
+00:12:26,410 --> 00:12:28,449
+somewhere in there almost 200 times more
+
+309
+00:12:28,449 --> 00:12:30,519
+people taking my photos than regular now
+
+310
+00:12:30,519 --> 00:12:31,149
+we're going to talk a little bit
+
+311
+00:12:31,149 --> 00:12:32,560
+philosophically this isn't the news
+
+312
+00:12:32,560 --> 00:12:34,420
+anymore but what I find especially from
+
+313
+00:12:34,420 --> 00:12:36,430
+living in social media I mean my career
+
+314
+00:12:36,430 --> 00:12:38,860
+was made off of social media is that
+
+315
+00:12:38,860 --> 00:12:40,839
+it's an extension of our selves to a
+
+316
+00:12:40,839 --> 00:12:43,269
+degree it's allowing us to share these
+
+317
+00:12:43,269 --> 00:12:45,519
+moments of our lives with others and we
+
+318
+00:12:45,519 --> 00:12:47,199
+want people to appreciate them is that
+
+319
+00:12:47,199 --> 00:12:48,850
+in the form of a like or view probably
+
+320
+00:12:48,850 --> 00:12:51,850
+yes and so there is some meaningfulness
+
+321
+00:12:51,850 --> 00:12:54,970
+to that all right that is the new I'm
+
+322
+00:12:54,970 --> 00:12:58,180
+Jake this was being new and remember to
+
+323
+00:12:58,180 --> 00:12:59,920
+smash that like button because it's the
+
+324
+00:12:59,920 --> 00:13:01,930
+only thing that makes me feel valuable
+
+325
+00:13:01,930 --> 00:13:03,279
+or important in this life and hagas why
+
+326
+00:13:03,279 --> 00:13:05,010
+follow me on Instagram Twitter Facebook
+
+327
+00:13:05,010 --> 00:13:08,290
+snapchat I would say beam I'm head apps
+
+328
+00:13:08,290 --> 00:13:11,279
+dead All Right see you later
+
+329
+00:13:11,279 --> 00:13:14,769
+is it 3,000 likes now wow that's awful
+
+330
+00:13:14,769 --> 00:13:17,470
+did you go to song or simple I'm in
+
+331
+00:13:17,470 --> 00:13:18,600
+first
+
+332
+00:13:18,600 --> 00:13:20,730
+I really can't deal with having to clean
+
+333
+00:13:20,730 --> 00:13:24,449
+that up okay yeah okay are you gonna be
+
+334
+00:13:24,449 --> 00:13:27,300
+that pilot it is possible we hope to
+
+335
+00:13:27,300 --> 00:13:30,240
+launch that show soon ish like you know
+
+336
+00:13:30,240 --> 00:13:33,089
+weeks maybe a month something like that
+
+337
+00:13:33,089 --> 00:13:34,829
+like I said we're making it now this is
+
+338
+00:13:34,829 --> 00:13:35,639
+not ready yet
+
+339
+00:13:35,639 --> 00:13:37,440
+the second show that I'm anxious to do
+
+340
+00:13:37,440 --> 00:13:39,209
+is an investigative reporting show like
+
+341
+00:13:39,209 --> 00:13:41,550
+a once a week show where we like dive
+
+342
+00:13:41,550 --> 00:13:43,980
+really deep into one issue and pull that
+
+343
+00:13:43,980 --> 00:13:46,170
+apart and after that like I'd love to do
+
+344
+00:13:46,170 --> 00:13:48,000
+something that sports focused maybe
+
+345
+00:13:48,000 --> 00:13:49,860
+would live I'd love to do something that
+
+346
+00:13:49,860 --> 00:13:52,019
+is music or fashion focus that's more
+
+347
+00:13:52,019 --> 00:13:54,209
+cultural but that's the scope of the
+
+348
+00:13:54,209 --> 00:13:56,190
+ambition on the media side like it's
+
+349
+00:13:56,190 --> 00:13:58,680
+it's this is not talking head news we
+
+350
+00:13:58,680 --> 00:14:00,389
+want to really broaden our scope in what
+
+351
+00:14:00,389 --> 00:14:02,190
+we're doing and we want all the content
+
+352
+00:14:02,190 --> 00:14:04,500
+to be very like YouTube centric so I
+
+353
+00:14:04,500 --> 00:14:06,000
+hope that helps give you a better
+
+354
+00:14:06,000 --> 00:14:08,069
+understanding of what we're doing what
+
+355
+00:14:08,069 --> 00:14:09,660
+I've been focusing a lot of my time on
+
+356
+00:14:09,660 --> 00:14:12,269
+and and maybe even gets you a little bit
+
+357
+00:14:12,269 --> 00:14:14,279
+there's the Sun it's like impossible
+
+358
+00:14:14,279 --> 00:14:16,500
+that even lighting me and I will of
+
+359
+00:14:16,500 --> 00:14:18,990
+course say this like I think a lot of
+
+360
+00:14:18,990 --> 00:14:21,449
+people have concerns that CNN the
+
+361
+00:14:21,449 --> 00:14:23,069
+company might be heavy-handed in what
+
+362
+00:14:23,069 --> 00:14:24,779
+we're doing I think a lot of people have
+
+363
+00:14:24,779 --> 00:14:26,279
+concerns that what we're doing is going
+
+364
+00:14:26,279 --> 00:14:28,980
+to be like crazy liberal bullshit I
+
+365
+00:14:28,980 --> 00:14:30,569
+think people have concerns that like
+
+366
+00:14:30,569 --> 00:14:33,540
+it's not going to be me and when I don't
+
+367
+00:14:33,540 --> 00:14:34,949
+understand something I am immediately
+
+368
+00:14:34,949 --> 00:14:37,170
+skeptical of it so I would expect that
+
+369
+00:14:37,170 --> 00:14:40,680
+of you about this new thing that I
+
+370
+00:14:40,680 --> 00:14:42,569
+haven't done a good job explaining yet
+
+371
+00:14:42,569 --> 00:14:44,490
+but I say this
+
+372
+00:14:44,490 --> 00:14:47,130
+whether you are suspect of CNN suspect
+
+373
+00:14:47,130 --> 00:14:50,399
+of news or a new thing or whatever
+
+374
+00:14:50,399 --> 00:14:52,649
+here's my ass just check it out when we
+
+375
+00:14:52,649 --> 00:14:55,560
+launch if you think it's shit call us
+
+376
+00:14:55,560 --> 00:14:57,689
+out and tell us why it's shit if you
+
+377
+00:14:57,689 --> 00:14:59,759
+think it's really shit just never watch
+
+378
+00:14:59,759 --> 00:15:02,459
+it again but if you like it like let us
+
+379
+00:15:02,459 --> 00:15:04,470
+know let me know and let us know why and
+
+380
+00:15:04,470 --> 00:15:06,389
+that's the that's the very best I can do
+
+381
+00:15:06,389 --> 00:15:08,459
+if it is garbage and you don't like it
+
+382
+00:15:08,459 --> 00:15:10,680
+totally cool unsubscribe never watch it
+
+383
+00:15:10,680 --> 00:15:12,509
+again stop watching me but I think that
+
+384
+00:15:12,509 --> 00:15:14,160
+we are doing something interesting and
+
+385
+00:15:14,160 --> 00:15:14,910
+something new
+
+386
+00:15:14,910 --> 00:15:17,160
+we got awesome people working on it and
+
+387
+00:15:17,160 --> 00:15:18,569
+I hope that we're able to turn something
+
+388
+00:15:18,569 --> 00:15:21,959
+out that you're pumped for okay beam
+
+389
+00:15:21,959 --> 00:15:24,970
+coming to
+
+390
+00:15:24,970 --> 00:15:27,010
+Oh
+
+391
+00:15:27,010 --> 00:15:39,000
+[Music]
+

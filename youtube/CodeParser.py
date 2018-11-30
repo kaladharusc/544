@@ -44,7 +44,7 @@ def main():
                 else:
                     text += ' ' + lineText
 
-        # print text
+        print text
 
         match = re.search('_(.*)', f)
         fileName = match.groups()[0]
@@ -53,7 +53,7 @@ def main():
         jsonFile["corpus"].append({
             'data': text,
             'label': 'U'
-        })
+        })  
 
     # print subtitles
     with open('final.json', 'w') as file:
