@@ -49,7 +49,7 @@ class Youtube:
                     video['snippet']['title'], video['snippet']['publishedAt'], video['id']['videoId'], dir_name)
 
     def makeYouTube(self, channel_name, channelId):
-        dir_name = self.dir_path+"/"+channel_name+"/"
+        dir_name = self.dir_path+"/data/"+channel_name+"/"
         if not os.path.exists(dir_name):
             os.makedirs(dir_name)
         self.alreadyFiles = os.listdir(dir_name)
