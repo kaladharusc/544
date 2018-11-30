@@ -158,7 +158,8 @@ def main():
             elif proWordCount > 4:
                 label = 'PG13'
 
-        elif offWordCount > 1:
+        elif offWordCount < 4:
+            print "offensive < 4"
             # ********** Call Kaladhar's Function **********
             # Context Sexual
             review.log_reviewed(file_name, False, [])
@@ -166,6 +167,9 @@ def main():
 
             # Context not sexual and offWordCount > 1 and offWordCount < 4
             label = 'PG13'
+        else:
+            print "offensive >= 4"
+            label = 'R'
 
         # match = re.search('_(.*)', f)
         # fileName = match.groups()[0]
@@ -176,6 +180,7 @@ def main():
             'label': label,
         })
 
+    review.write_to_file()
     # print subtitles
     with open('final.json', 'w') as file:
         json.dump(jsonFile, file)
