@@ -1,0 +1,916 @@
+1
+00:00:00,010 --> 00:00:14,210
+[Music]
+
+2
+00:00:14,210 --> 00:00:16,560
+hey hey everybody how's it going
+
+3
+00:00:16,560 --> 00:00:18,660
+dalworth here bringing you another rapid
+
+4
+00:00:18,660 --> 00:00:21,180
+fire style review this time for the game
+
+5
+00:00:21,180 --> 00:00:24,119
+vault Curia Chronicles for while period
+
+6
+00:00:24,119 --> 00:00:25,710
+chronicles 4 was both developed and
+
+7
+00:00:25,710 --> 00:00:28,109
+published by good old Sega for anyone
+
+8
+00:00:28,109 --> 00:00:29,849
+I'm familiar with Vulcania chronicles
+
+9
+00:00:29,849 --> 00:00:31,410
+the best way to summarize it is that
+
+10
+00:00:31,410 --> 00:00:33,360
+it's a unique take on an alternate
+
+11
+00:00:33,360 --> 00:00:36,630
+reality JRPG World War two where units
+
+12
+00:00:36,630 --> 00:00:37,980
+are controlled and turn-based combat
+
+13
+00:00:37,980 --> 00:00:40,379
+through real-time aiming and actions who
+
+14
+00:00:40,379 --> 00:00:42,090
+anyone unfamiliar with the series that's
+
+15
+00:00:42,090 --> 00:00:43,770
+going to send confusing but it works
+
+16
+00:00:43,770 --> 00:00:46,260
+extremely well in practice now before I
+
+17
+00:00:46,260 --> 00:00:47,579
+get started I want to straight up say
+
+18
+00:00:47,579 --> 00:00:49,230
+that the last Vout game I played was the
+
+19
+00:00:49,230 --> 00:00:51,300
+original and I didn't have personal
+
+20
+00:00:51,300 --> 00:00:53,219
+experience with two or three I did
+
+21
+00:00:53,219 --> 00:00:54,510
+however play through the first game
+
+22
+00:00:54,510 --> 00:00:56,160
+extensively in and out and this one
+
+23
+00:00:56,160 --> 00:00:58,350
+being called a sequel to the way the
+
+24
+00:00:58,350 --> 00:01:00,059
+first Valcke was designed I felt right
+
+25
+00:01:00,059 --> 00:01:02,129
+at home I'm not gonna procrastinate I'm
+
+26
+00:01:02,129 --> 00:01:03,510
+straight-up going to say that this game
+
+27
+00:01:03,510 --> 00:01:06,689
+is absolutely fantastic for anyone who
+
+28
+00:01:06,689 --> 00:01:08,700
+loved the original Vulgaria Chronicles
+
+29
+00:01:08,700 --> 00:01:10,650
+almost every aspect has been improved
+
+30
+00:01:10,650 --> 00:01:12,510
+upon from the original and it truly does
+
+31
+00:01:12,510 --> 00:01:14,490
+seem like a successor to the original
+
+32
+00:01:14,490 --> 00:01:16,920
+format of valve 1 valve 4 story is
+
+33
+00:01:16,920 --> 00:01:18,869
+pretty easy to summarize you control a
+
+34
+00:01:18,869 --> 00:01:21,000
+group of soldiers from Galia the primary
+
+35
+00:01:21,000 --> 00:01:22,770
+country and the other games and squaddie
+
+36
+00:01:22,770 --> 00:01:25,049
+of the federation fighting against the
+
+37
+00:01:25,049 --> 00:01:27,000
+evil imperial alliance which is the
+
+38
+00:01:27,000 --> 00:01:29,100
+primary story focus it's far less
+
+39
+00:01:29,100 --> 00:01:31,229
+personal than the other games and you
+
+40
+00:01:31,229 --> 00:01:32,549
+feel like you're less involved with
+
+41
+00:01:32,549 --> 00:01:33,930
+events specifically related to
+
+42
+00:01:33,930 --> 00:01:35,939
+individual characters but that's not
+
+43
+00:01:35,939 --> 00:01:38,009
+necessarily a bad thing this time might
+
+44
+00:01:38,009 --> 00:01:39,930
+run simultaneously to the one that
+
+45
+00:01:39,930 --> 00:01:41,850
+happens in the original game I won't go
+
+46
+00:01:41,850 --> 00:01:43,799
+into any specific details but overall
+
+47
+00:01:43,799 --> 00:01:45,450
+the story is a pretty dang good one
+
+48
+00:01:45,450 --> 00:01:47,040
+filled with a good amount of emotional
+
+49
+00:01:47,040 --> 00:01:48,540
+events and a few twists along the way
+
+50
+00:01:48,540 --> 00:01:50,460
+that kept me interested throughout also
+
+51
+00:01:50,460 --> 00:01:52,439
+as a side note almost every soldier you
+
+52
+00:01:52,439 --> 00:01:53,610
+get in the game will be involved in
+
+53
+00:01:53,610 --> 00:01:55,320
+cutscenes and directly involved in the
+
+54
+00:01:55,320 --> 00:01:57,630
+story so losing them in combat ends up
+
+55
+00:01:57,630 --> 00:01:59,880
+sucking twice as much this sucks even
+
+56
+00:01:59,880 --> 00:02:01,409
+more when you find out later that if
+
+57
+00:02:01,409 --> 00:02:03,329
+they die in combat you lose access to
+
+58
+00:02:03,329 --> 00:02:04,979
+the stories and cutscenes related to
+
+59
+00:02:04,979 --> 00:02:07,049
+them but overall I honestly found this
+
+60
+00:02:07,049 --> 00:02:09,209
+added an awesome tension to everything
+
+61
+00:02:09,209 --> 00:02:09,590
+that
+
+62
+00:02:09,590 --> 00:02:11,540
+graphically the game is great for the
+
+63
+00:02:11,540 --> 00:02:13,370
+art style and direction it goes it looks
+
+64
+00:02:13,370 --> 00:02:15,800
+well like an interactive turn-based
+
+65
+00:02:15,800 --> 00:02:17,599
+anime and does it the best in my opinion
+
+66
+00:02:17,599 --> 00:02:19,790
+it can do with the theme the maps are
+
+67
+00:02:19,790 --> 00:02:21,860
+sprawling in rather large battlefields
+
+68
+00:02:21,860 --> 00:02:23,930
+in most cases and feel almost identical
+
+69
+00:02:23,930 --> 00:02:25,430
+to how the first games Maps were
+
+70
+00:02:25,430 --> 00:02:27,290
+designed these battlefields are highly
+
+71
+00:02:27,290 --> 00:02:29,060
+detailed and functional with almost
+
+72
+00:02:29,060 --> 00:02:30,769
+everything placed on the map serving
+
+73
+00:02:30,769 --> 00:02:32,420
+some sort of tactical advantage or
+
+74
+00:02:32,420 --> 00:02:34,459
+purposed not a single one of the
+
+75
+00:02:34,459 --> 00:02:36,080
+battlefield layouts I've fought in and
+
+76
+00:02:36,080 --> 00:02:38,180
+there are dozens looked awful or even
+
+77
+00:02:38,180 --> 00:02:40,069
+below average and they all were original
+
+78
+00:02:40,069 --> 00:02:41,720
+had their own unique look and feel
+
+79
+00:02:41,720 --> 00:02:43,670
+characters in valve 4 are all extremely
+
+80
+00:02:43,670 --> 00:02:45,950
+colorful as they were in other games and
+
+81
+00:02:45,950 --> 00:02:47,540
+their personalities definitely match
+
+82
+00:02:47,540 --> 00:02:49,640
+their visual design I was constantly
+
+83
+00:02:49,640 --> 00:02:52,130
+surprised at how each new recruit I got
+
+84
+00:02:52,130 --> 00:02:53,930
+looked and it just added to the whole
+
+85
+00:02:53,930 --> 00:02:55,580
+charm of the game I also have to make
+
+86
+00:02:55,580 --> 00:02:57,080
+mention that the English voice actors
+
+87
+00:02:57,080 --> 00:02:59,150
+for Val 4 were pretty damn good and I
+
+88
+00:02:59,150 --> 00:03:01,099
+ended up playing entirely through with
+
+89
+00:03:01,099 --> 00:03:02,810
+them enabled a lot of times in anime
+
+90
+00:03:02,810 --> 00:03:04,430
+games I'll find it off-putting but in
+
+91
+00:03:04,430 --> 00:03:19,609
+Val 4 they were great combat mechanics
+
+92
+00:03:19,609 --> 00:03:22,010
+though are where Val 4 really shines to
+
+93
+00:03:22,010 --> 00:03:24,230
+me as a game you feel a team of up to 10
+
+94
+00:03:24,230 --> 00:03:26,060
+soldiers and vehicles that you select at
+
+95
+00:03:26,060 --> 00:03:27,530
+the beginning of a mission in place on
+
+96
+00:03:27,530 --> 00:03:29,030
+the map that you have access to during
+
+97
+00:03:29,030 --> 00:03:31,730
+your turn soldiers are divided into five
+
+98
+00:03:31,730 --> 00:03:33,709
+classes storm troopers which are the
+
+99
+00:03:33,709 --> 00:03:35,780
+assault rifle guys snipers the
+
+100
+00:03:35,780 --> 00:03:38,120
+long-range anti-infantry Lancers the
+
+101
+00:03:38,120 --> 00:03:40,850
+anti-tank engineers the ammo and repair
+
+102
+00:03:40,850 --> 00:03:43,940
+guys of course Scouts that Scout and a
+
+103
+00:03:43,940 --> 00:03:45,590
+new class to this game Grenadier is
+
+104
+00:03:45,590 --> 00:03:47,630
+which function like mobile artillery you
+
+105
+00:03:47,630 --> 00:03:49,160
+start each term with a specific amount
+
+106
+00:03:49,160 --> 00:03:51,170
+of control points that can be increased
+
+107
+00:03:51,170 --> 00:03:53,150
+by fielding specific officer characters
+
+108
+00:03:53,150 --> 00:03:55,370
+and are able to issue a command to one
+
+109
+00:03:55,370 --> 00:03:57,440
+unit per point when you run out of point
+
+110
+00:03:57,440 --> 00:03:59,000
+it switches to the enemy turn and they
+
+111
+00:03:59,000 --> 00:04:00,859
+get to use theirs once you select a unit
+
+112
+00:04:00,859 --> 00:04:01,970
+or vehicle you're put into a
+
+113
+00:04:01,970 --> 00:04:04,190
+third-person camera sort of thing and
+
+114
+00:04:04,190 --> 00:04:06,139
+able to control them directly moving
+
+115
+00:04:06,139 --> 00:04:07,790
+them around the map and then taking one
+
+116
+00:04:07,790 --> 00:04:10,040
+primary action this action can be
+
+117
+00:04:10,040 --> 00:04:11,630
+something like shooting an enemy which
+
+118
+00:04:11,630 --> 00:04:14,000
+you aim manually for maximum effect
+
+119
+00:04:14,000 --> 00:04:16,190
+repairing a vehicle or healing an ally
+
+120
+00:04:16,190 --> 00:04:18,620
+you can also issued massive orders with
+
+121
+00:04:18,620 --> 00:04:19,579
+your commander that
+
+122
+00:04:19,579 --> 00:04:21,349
+do things like revive soldiers buff
+
+123
+00:04:21,349 --> 00:04:22,789
+soldiers are calling things like
+
+124
+00:04:22,789 --> 00:04:24,800
+artillery enemies can't move during your
+
+125
+00:04:24,800 --> 00:04:26,389
+turns so you can do things like flank
+
+126
+00:04:26,389 --> 00:04:27,590
+and get surprise attacks
+
+127
+00:04:27,590 --> 00:04:29,449
+but they will definitely shoot at you if
+
+128
+00:04:29,449 --> 00:04:31,009
+you run across their field of vision oh
+
+129
+00:04:31,009 --> 00:04:32,810
+yeah and the bosses in this game have
+
+130
+00:04:32,810 --> 00:04:34,340
+unique abilities and actions that they
+
+131
+00:04:34,340 --> 00:04:36,469
+can take which will without a doubt make
+
+132
+00:04:36,469 --> 00:04:38,509
+you completely swap up your tactics to
+
+133
+00:04:38,509 --> 00:04:40,550
+deal with them soldiers and vehicles can
+
+134
+00:04:40,550 --> 00:04:42,620
+also be called upon multiple times with
+
+135
+00:04:42,620 --> 00:04:44,539
+the reduced movement penalty and if they
+
+136
+00:04:44,539 --> 00:04:46,280
+have ammo which can allow you to do very
+
+137
+00:04:46,280 --> 00:04:48,560
+strategic things with certain classes in
+
+138
+00:04:48,560 --> 00:04:50,900
+specific orders like having a tank fire
+
+139
+00:04:50,900 --> 00:04:53,210
+three times switching to an engineer to
+
+140
+00:04:53,210 --> 00:04:54,919
+resupply them and then having that same
+
+141
+00:04:54,919 --> 00:04:56,870
+tank fire another three times it goes
+
+142
+00:04:56,870 --> 00:04:58,580
+without saying that with limited actions
+
+143
+00:04:58,580 --> 00:04:59,990
+that positioning and tactics are
+
+144
+00:04:59,990 --> 00:05:01,879
+incredibly important leading this to be
+
+145
+00:05:01,879 --> 00:05:03,530
+an awesome blend of a third-person
+
+146
+00:05:03,530 --> 00:05:05,900
+combat and turn-based strategy the likes
+
+147
+00:05:05,900 --> 00:05:07,280
+of which I've never played anything
+
+148
+00:05:07,280 --> 00:05:09,860
+close to before valve 4 also has a solid
+
+149
+00:05:09,860 --> 00:05:11,690
+equipment an upgrade system in between
+
+150
+00:05:11,690 --> 00:05:13,069
+missions you'll be able to visit your
+
+151
+00:05:13,069 --> 00:05:14,719
+headquarters spending money and
+
+152
+00:05:14,719 --> 00:05:16,129
+experience that you earned throughout
+
+153
+00:05:16,129 --> 00:05:17,750
+your playthrough to improve various
+
+154
+00:05:17,750 --> 00:05:19,520
+different aspects of your army infantry
+
+155
+00:05:19,520 --> 00:05:21,830
+classes can be directly leveled up with
+
+156
+00:05:21,830 --> 00:05:23,930
+experience that powers up all of your
+
+157
+00:05:23,930 --> 00:05:25,969
+soldiers of that class allowing you to
+
+158
+00:05:25,969 --> 00:05:27,830
+pick and choose which specializations
+
+159
+00:05:27,830 --> 00:05:30,020
+you want to focus on funds are used to
+
+160
+00:05:30,020 --> 00:05:31,969
+progress down various tech trees related
+
+161
+00:05:31,969 --> 00:05:33,620
+to weapons and armor vehicles
+
+162
+00:05:33,620 --> 00:05:35,659
+development something that you'll have
+
+163
+00:05:35,659 --> 00:05:37,190
+to pick and choose from as you have a
+
+164
+00:05:37,190 --> 00:05:38,750
+limited amount of cash throughout the
+
+165
+00:05:38,750 --> 00:05:39,169
+game
+
+166
+00:05:39,169 --> 00:05:41,180
+I noticed that vehicles will also change
+
+167
+00:05:41,180 --> 00:05:42,919
+an appearance further down the upgrades
+
+168
+00:05:42,919 --> 00:05:45,110
+trees and tech lines resulting in some
+
+169
+00:05:45,110 --> 00:05:47,120
+pretty awesome visuals late into the
+
+170
+00:05:47,120 --> 00:05:49,159
+game to me there was only one downside
+
+171
+00:05:49,159 --> 00:05:50,990
+to Vout 4 as a whole and that was the
+
+172
+00:05:50,990 --> 00:05:52,759
+pacing of the game story in-between the
+
+173
+00:05:52,759 --> 00:05:54,949
+battles themselves it uses a chapter
+
+174
+00:05:54,949 --> 00:05:57,020
+scrapbook sort of system telling the
+
+175
+00:05:57,020 --> 00:05:58,699
+game story like it's being read from a
+
+176
+00:05:58,699 --> 00:06:00,860
+book each cutscene being an individual
+
+177
+00:06:00,860 --> 00:06:02,900
+photo in the scrapbook the cutscenes
+
+178
+00:06:02,900 --> 00:06:04,669
+themselves are all divided and cut up
+
+179
+00:06:04,669 --> 00:06:06,770
+into very brief small segments instead
+
+180
+00:06:06,770 --> 00:06:08,569
+of one continuous chunk in between
+
+181
+00:06:08,569 --> 00:06:11,719
+missions resulting in an extremely long
+
+182
+00:06:11,719 --> 00:06:12,710
+time in-between
+
+183
+00:06:12,710 --> 00:06:15,050
+well actually playing and doing the
+
+184
+00:06:15,050 --> 00:06:16,250
+missions themselves
+
+185
+00:06:16,250 --> 00:06:17,629
+there were times even though I
+
+186
+00:06:17,629 --> 00:06:19,190
+appreciated a good amount of the
+
+187
+00:06:19,190 --> 00:06:21,080
+exposition and dialogue that I became
+
+188
+00:06:21,080 --> 00:06:23,509
+incredibly bored and frustrated with the
+
+189
+00:06:23,509 --> 00:06:25,490
+pacing spending up to 30 minutes just
+
+190
+00:06:25,490 --> 00:06:27,379
+listening to chunk after chunk of
+
+191
+00:06:27,379 --> 00:06:29,120
+characters talking and doing
+
+192
+00:06:29,120 --> 00:06:31,460
+things when I honestly just wanted to
+
+193
+00:06:31,460 --> 00:06:33,169
+get back to the fighting it kind of
+
+194
+00:06:33,169 --> 00:06:34,880
+removed the sense of urgency
+
+195
+00:06:34,880 --> 00:06:36,199
+then amount of it seemed entirely
+
+196
+00:06:36,199 --> 00:06:38,030
+pointless and I would say for the first
+
+197
+00:06:38,030 --> 00:06:40,760
+half of the game I definitely spent more
+
+198
+00:06:40,760 --> 00:06:42,710
+time listening to people talk then
+
+199
+00:06:42,710 --> 00:06:44,780
+actually fighting in the war overall I
+
+200
+00:06:44,780 --> 00:06:45,979
+have to say without a doubt that
+
+201
+00:06:45,979 --> 00:06:48,680
+Valkyria Chronicles 4 is the best sequel
+
+202
+00:06:48,680 --> 00:06:50,510
+of the first game so far and if you've
+
+203
+00:06:50,510 --> 00:06:52,340
+played any of them that you pick it up
+
+204
+00:06:52,340 --> 00:06:53,990
+as soon as you can and give it a shot
+
+205
+00:06:53,990 --> 00:06:56,120
+for newcomers of the Valkyria Chronicles
+
+206
+00:06:56,120 --> 00:06:57,620
+franchise this game would also be a
+
+207
+00:06:57,620 --> 00:06:59,540
+great starting point it does a fantastic
+
+208
+00:06:59,540 --> 00:07:01,610
+job of setting up the universe and
+
+209
+00:07:01,610 --> 00:07:03,169
+explaining itself in a way that is more
+
+210
+00:07:03,169 --> 00:07:04,610
+than understandable if you don't have
+
+211
+00:07:04,610 --> 00:07:06,530
+any prior knowledge of what's going on
+
+212
+00:07:06,530 --> 00:07:08,120
+all in all I'm going to give Valkyria
+
+213
+00:07:08,120 --> 00:07:10,610
+Chronicles for an extremely high 9 out
+
+214
+00:07:10,610 --> 00:07:13,100
+of 10 a game that I enjoyed immensely
+
+215
+00:07:13,100 --> 00:07:14,660
+and will most likely be playing through
+
+216
+00:07:14,660 --> 00:07:16,729
+a second time in the near future anyway
+
+217
+00:07:16,729 --> 00:07:19,010
+guys that's it for this rapid fire style
+
+218
+00:07:19,010 --> 00:07:20,870
+review if you liked the video do me a
+
+219
+00:07:20,870 --> 00:07:22,310
+favor and support the channel by
+
+220
+00:07:22,310 --> 00:07:24,110
+clicking that subscribe button and if
+
+221
+00:07:24,110 --> 00:07:25,550
+you're already subscribed click that
+
+222
+00:07:25,550 --> 00:07:26,780
+bell to make sure you get notifications
+
+223
+00:07:26,780 --> 00:07:28,970
+when show post new videos thanks for
+
+224
+00:07:28,970 --> 00:07:30,710
+watching and until the next review this
+
+225
+00:07:30,710 --> 00:07:45,880
+is delyth I'll be seeing you
+
+226
+00:07:45,880 --> 00:07:52,200
+[Music]
+
+227
+00:07:52,200 --> 00:07:57,390
+[Music]
+
+228
+00:07:57,390 --> 00:08:03,530
+[Music]
+
+229
+00:08:03,530 --> 00:08:23,000
+[Music]
+

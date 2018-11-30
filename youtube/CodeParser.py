@@ -18,6 +18,11 @@ import json
 #             fileName = match.groups()[0]
 #             os.rename(dirPath+"/"+f, dirPath+"/"+fileName)
 #         print(match)
+def count_final():
+    import json
+    with open("final.json", 'r') as f:
+        json_data = json.loads(f.read())
+    print(len(json_data['corpus']))
 
 
 class Review:
@@ -62,6 +67,7 @@ def main():
 
     jsonFile["description"] = "This project attempt to annotate and classify Youtube videos taking into account the content of the video and its composition. While youtube flags content inappropriate for young audiences by requiring viewers to sign in, a lot of youtube content is generally unaudited if the uploader of the video does not flag it so. Also there is no distinction between which content is appropriate for what age groups. We will classify content based the film rating system: G, PG, PG-13 and R. We will also apply a binary classification for classifying clickbait videos."
     jsonFile["corpus"] = []
+    empty_files = []
     for f in listdir(dirPath):
         text = ''
         file_name = ""
@@ -82,7 +88,9 @@ def main():
                     text += ' ' + lineText
 
         # print text
+
         if len(text) == 0:
+            empty_files.append(file_name)
             continue
 
         offensiveWords, profaneWords = {}, {}
@@ -195,6 +203,7 @@ def main():
             'data': " ".join(text),
             'label': label,
         })
+    print("empty_files", len(empty_files))
 
     review.write_to_file()
     # print subtitles

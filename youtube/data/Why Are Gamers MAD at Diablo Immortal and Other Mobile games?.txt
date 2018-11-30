@@ -1,0 +1,1408 @@
+1
+00:00:00,010 --> 00:00:01,589
+what's up ladies and gentlemen of
+
+2
+00:00:01,589 --> 00:00:03,510
+YouTube boogie2988 coming at your levels
+
+3
+00:00:03,510 --> 00:00:05,040
+again through the power of the internet
+
+4
+00:00:05,040 --> 00:00:06,960
+never since Diablo immortal got
+
+5
+00:00:06,960 --> 00:00:09,260
+announced there has been a bit of a
+
+6
+00:00:09,260 --> 00:00:12,330
+internet culture war going on on one
+
+7
+00:00:12,330 --> 00:00:14,309
+side you have a lot of gamers who are
+
+8
+00:00:14,309 --> 00:00:17,070
+into video games but despised mobile
+
+9
+00:00:17,070 --> 00:00:19,050
+gaming for some reason and on the other
+
+10
+00:00:19,050 --> 00:00:20,670
+side you have a lot of culture warriors
+
+11
+00:00:20,670 --> 00:00:23,189
+who are defending Blizzard defending
+
+12
+00:00:23,189 --> 00:00:25,230
+mobile gaming who don't seem to really
+
+13
+00:00:25,230 --> 00:00:27,869
+understand why the other group is so
+
+14
+00:00:27,869 --> 00:00:29,580
+upset so today I thought it would make a
+
+15
+00:00:29,580 --> 00:00:31,740
+video trying to explain to people why
+
+16
+00:00:31,740 --> 00:00:34,230
+traditional gamers entrenched gamers
+
+17
+00:00:34,230 --> 00:00:37,200
+tend to hate mobile games so very very
+
+18
+00:00:37,200 --> 00:00:38,940
+much before we try to break this down
+
+19
+00:00:38,940 --> 00:00:40,829
+here's an important statistic you should
+
+20
+00:00:40,829 --> 00:00:44,129
+know the global games market for 2018 if
+
+21
+00:00:44,129 --> 00:00:45,450
+you look at this chart you'll see the
+
+22
+00:00:45,450 --> 00:00:47,940
+mobile gaming has brought in 70 point
+
+23
+00:00:47,940 --> 00:00:50,039
+three billion dollars so far this year
+
+24
+00:00:50,039 --> 00:00:52,320
+whereas PC gaming is brought in about
+
+25
+00:00:52,320 --> 00:00:54,539
+thirty two point nine billion and
+
+26
+00:00:54,539 --> 00:00:55,800
+console gaming has brought in about
+
+27
+00:00:55,800 --> 00:00:58,469
+thirty four billion so mobile gaming so
+
+28
+00:00:58,469 --> 00:01:01,140
+far in 2018 has made twice as much money
+
+29
+00:01:01,140 --> 00:01:03,420
+as PC gaming or twice as much as console
+
+30
+00:01:03,420 --> 00:01:05,510
+gaming or as much as both of those
+
+31
+00:01:05,510 --> 00:01:07,740
+combined and so you can see where a
+
+32
+00:01:07,740 --> 00:01:09,180
+company like Blizzard would absolutely
+
+33
+00:01:09,180 --> 00:01:12,030
+want to get involved with that and I
+
+34
+00:01:12,030 --> 00:01:13,320
+think when you start to compare and
+
+35
+00:01:13,320 --> 00:01:15,030
+contrast the highest grossing of PC
+
+36
+00:01:15,030 --> 00:01:16,830
+games highest-grossing console games
+
+37
+00:01:16,830 --> 00:01:19,530
+versus the highest-grossing mobile games
+
+38
+00:01:19,530 --> 00:01:21,060
+you begin to understand why traditional
+
+39
+00:01:21,060 --> 00:01:23,729
+gamers don't care for that genre so much
+
+40
+00:01:23,729 --> 00:01:25,710
+I mean take a look at this list of the
+
+41
+00:01:25,710 --> 00:01:28,320
+best-selling console slash PC games of
+
+42
+00:01:28,320 --> 00:01:30,840
+from 2018 and this was published back in
+
+43
+00:01:30,840 --> 00:01:33,360
+July so you're looking at far cry 5 God
+
+44
+00:01:33,360 --> 00:01:36,119
+of War 2018 Monster Hunter World Call of
+
+45
+00:01:36,119 --> 00:01:38,970
+Duty World War 2 Dragonball Fighters
+
+46
+00:01:38,970 --> 00:01:43,020
+Grand Theft Auto five NBA 2018 MLB 18
+
+47
+00:01:43,020 --> 00:01:45,119
+the show Mario Kart 8 and player
+
+48
+00:01:45,119 --> 00:01:47,280
+unknowns battlegrounds all of these
+
+49
+00:01:47,280 --> 00:01:48,420
+games have plenty of stuff in common
+
+50
+00:01:48,420 --> 00:01:50,369
+obviously they're built for the big
+
+51
+00:01:50,369 --> 00:01:52,049
+screen they're built for nice 1080p or
+
+52
+00:01:52,049 --> 00:01:54,119
+4k television they're built to be played
+
+53
+00:01:54,119 --> 00:01:55,680
+on the console or a PC so they're made
+
+54
+00:01:55,680 --> 00:01:57,540
+to be played with mouse and keyboard or
+
+55
+00:01:57,540 --> 00:01:59,670
+with the controller and sure they do
+
+56
+00:01:59,670 --> 00:02:02,070
+have some level of microtransactions but
+
+57
+00:02:02,070 --> 00:02:04,530
+all of these games are very very deep
+
+58
+00:02:04,530 --> 00:02:07,439
+very detailed with high-end graphics the
+
+59
+00:02:07,439 --> 00:02:08,789
+kind of stuff that the average Western
+
+60
+00:02:08,789 --> 00:02:10,950
+gamer including myself likes to enjoy
+
+61
+00:02:10,950 --> 00:02:12,450
+and when we take a look at the
+
+62
+00:02:12,450 --> 00:02:13,740
+top-grossing iPhone
+
+63
+00:02:13,740 --> 00:02:15,330
+we do have fortnight on that list which
+
+64
+00:02:15,330 --> 00:02:17,040
+is kind of cool but candy crush saga
+
+65
+00:02:17,040 --> 00:02:19,830
+Pokemon go toon blast clash of clans
+
+66
+00:02:19,830 --> 00:02:23,100
+roblox candy crush soda saga slotto
+
+67
+00:02:23,100 --> 00:02:27,030
+mania Vegas casino slots toy blast clash
+
+68
+00:02:27,030 --> 00:02:30,480
+royale home escapes these games all have
+
+69
+00:02:30,480 --> 00:02:32,760
+something in common - there's the
+
+70
+00:02:32,760 --> 00:02:34,230
+obvious cosmetic stuff all of these
+
+71
+00:02:34,230 --> 00:02:35,790
+games are designed for a small screen a
+
+72
+00:02:35,790 --> 00:02:37,620
+lot of them use touchscreen controls
+
+73
+00:02:37,620 --> 00:02:39,420
+they tend to be much simpler games
+
+74
+00:02:39,420 --> 00:02:41,400
+rather than deeper story games like
+
+75
+00:02:41,400 --> 00:02:44,490
+you'd find on a PC or a console but
+
+76
+00:02:44,490 --> 00:02:46,380
+that's not the one I think we all take
+
+77
+00:02:46,380 --> 00:02:49,320
+issue with a traditional console game or
+
+78
+00:02:49,320 --> 00:02:51,630
+a traditional PC game might start as
+
+79
+00:02:51,630 --> 00:02:53,520
+cheap as twenty or forty dollars you
+
+80
+00:02:53,520 --> 00:02:55,290
+might spend as much as 60 bucks on the
+
+81
+00:02:55,290 --> 00:02:56,970
+basic edition and if you want to get the
+
+82
+00:02:56,970 --> 00:02:59,100
+DLC the season pass and all of the stuff
+
+83
+00:02:59,100 --> 00:03:00,900
+that's in it you might expect to spend
+
+84
+00:03:00,900 --> 00:03:02,880
+as much as a hundred sometimes as much
+
+85
+00:03:02,880 --> 00:03:05,610
+as a hundred and twenty dollars total on
+
+86
+00:03:05,610 --> 00:03:06,780
+that game
+
+87
+00:03:06,780 --> 00:03:09,150
+and that's a lot of money to us candy
+
+88
+00:03:09,150 --> 00:03:10,620
+crush on the other hand is billed as a
+
+89
+00:03:10,620 --> 00:03:12,600
+free-to-play game except you could spend
+
+90
+00:03:12,600 --> 00:03:17,310
+$14 19 20 40 maybe even $74 in it you
+
+91
+00:03:17,310 --> 00:03:19,080
+could spend more for just
+
+92
+00:03:19,080 --> 00:03:20,820
+microtransactions in this free-to-play
+
+93
+00:03:20,820 --> 00:03:22,650
+game than you would spend on an entire
+
+94
+00:03:22,650 --> 00:03:26,070
+copy of a game like God of War fortnight
+
+95
+00:03:26,070 --> 00:03:28,560
+also has a $10 package for V bucks or 25
+
+96
+00:03:28,560 --> 00:03:32,070
+bucks or 60 bucks or even 99 bucks if
+
+97
+00:03:32,070 --> 00:03:33,720
+you want to start downloading cosmetics
+
+98
+00:03:33,720 --> 00:03:35,070
+for your free-to-play game and that
+
+99
+00:03:35,070 --> 00:03:36,750
+tends to be the case for almost every
+
+100
+00:03:36,750 --> 00:03:38,700
+mobile game specifically the ones that
+
+101
+00:03:38,700 --> 00:03:40,530
+are on the top grossing list they tend
+
+102
+00:03:40,530 --> 00:03:42,630
+to be very very simple games designed
+
+103
+00:03:42,630 --> 00:03:45,150
+around high-end microtransactions of 60
+
+104
+00:03:45,150 --> 00:03:48,180
+70 $90 you don't get the graphics you
+
+105
+00:03:48,180 --> 00:03:50,580
+don't get the gameplay you don't get
+
+106
+00:03:50,580 --> 00:03:52,770
+anything other than a game designed
+
+107
+00:03:52,770 --> 00:03:55,020
+around milking you out of those micro
+
+108
+00:03:55,020 --> 00:03:56,430
+transactions that's free to start
+
+109
+00:03:56,430 --> 00:03:58,200
+eventually hit a pay wall and either you
+
+110
+00:03:58,200 --> 00:03:59,550
+uninstall the game when you hit that pay
+
+111
+00:03:59,550 --> 00:04:01,620
+wall or you start spending money and
+
+112
+00:04:01,620 --> 00:04:03,090
+nobody's saying that these games are not
+
+113
+00:04:03,090 --> 00:04:04,680
+fun some of these games are very very
+
+114
+00:04:04,680 --> 00:04:06,780
+fun fortnight is a very popular game I
+
+115
+00:04:06,780 --> 00:04:08,910
+still play pokemon go every once in a
+
+116
+00:04:08,910 --> 00:04:10,530
+while as an excuse to get out into the
+
+117
+00:04:10,530 --> 00:04:12,330
+world and do a little bit of walking but
+
+118
+00:04:12,330 --> 00:04:13,410
+there's still a striking difference
+
+119
+00:04:13,410 --> 00:04:15,360
+between these games and traditional
+
+120
+00:04:15,360 --> 00:04:17,250
+games I mean if you grow up on something
+
+121
+00:04:17,250 --> 00:04:25,569
+like this
+
+122
+00:04:25,569 --> 00:04:27,860
+then you might realize it's a little bit
+
+123
+00:04:27,860 --> 00:04:29,360
+jarring when the world is obsessed with
+
+124
+00:04:29,360 --> 00:04:30,240
+with this
+
+125
+00:04:30,240 --> 00:04:40,309
+[Music]
+
+126
+00:04:40,309 --> 00:04:42,869
+but where becomes really frustrating is
+
+127
+00:04:42,869 --> 00:04:44,459
+when you realize god of war only cost
+
+128
+00:04:44,459 --> 00:04:47,399
+$60 and $60 for the micro transactions
+
+129
+00:04:47,399 --> 00:04:49,139
+and candy crush it's only gonna help you
+
+130
+00:04:49,139 --> 00:04:50,909
+beat like ten levels when it comes to
+
+131
+00:04:50,909 --> 00:04:52,499
+the Diablo franchise you have to realize
+
+132
+00:04:52,499 --> 00:04:54,509
+it is one of the deepest franchise and
+
+133
+00:04:54,509 --> 00:04:56,579
+longest-running franchises to exist
+
+134
+00:04:56,579 --> 00:04:57,929
+there's three different games to choose
+
+135
+00:04:57,929 --> 00:04:59,849
+from each more deep than the last but
+
+136
+00:04:59,849 --> 00:05:01,949
+Diablo 2 is still getting played right
+
+137
+00:05:01,949 --> 00:05:03,659
+now to this day the servers are online
+
+138
+00:05:03,659 --> 00:05:05,819
+people are still buying copies of that
+
+139
+00:05:05,819 --> 00:05:07,169
+game and that game is almost twenty
+
+140
+00:05:07,169 --> 00:05:08,159
+years old now
+
+141
+00:05:08,159 --> 00:05:09,809
+every game of the Diablo franchise has
+
+142
+00:05:09,809 --> 00:05:12,239
+dozens of different Maps tons of bosses
+
+143
+00:05:12,239 --> 00:05:14,129
+to fight thousands of items to collect
+
+144
+00:05:14,129 --> 00:05:15,779
+several different classes to play them
+
+145
+00:05:15,779 --> 00:05:18,179
+with I mean they are incredibly deep
+
+146
+00:05:18,179 --> 00:05:20,009
+games that have some repetitious
+
+147
+00:05:20,009 --> 00:05:21,749
+gameplay but rewards you for that
+
+148
+00:05:21,749 --> 00:05:23,219
+repetition and when it comes to that
+
+149
+00:05:23,219 --> 00:05:24,779
+repetitious gameplay when it comes to
+
+150
+00:05:24,779 --> 00:05:26,639
+that addicting gameplay that Diablo is
+
+151
+00:05:26,639 --> 00:05:28,829
+known for that does sound kind of
+
+152
+00:05:28,829 --> 00:05:30,209
+familiar because it might sound a lot
+
+153
+00:05:30,209 --> 00:05:32,099
+like Fortnight it might sound a lot like
+
+154
+00:05:32,099 --> 00:05:35,279
+Pokemon go it might sound a lot like
+
+155
+00:05:35,279 --> 00:05:37,439
+candy crush except the Diablo games have
+
+156
+00:05:37,439 --> 00:05:40,049
+always historically only run you $60 and
+
+157
+00:05:40,049 --> 00:05:41,789
+then it was all you can eat buffet you
+
+158
+00:05:41,789 --> 00:05:43,139
+could play as much as you want you could
+
+159
+00:05:43,139 --> 00:05:44,999
+hit that loot pinata as often as you
+
+160
+00:05:44,999 --> 00:05:47,219
+wanted no microtransaction stores no
+
+161
+00:05:47,219 --> 00:05:50,759
+exploitive practices no $99 gem packs
+
+162
+00:05:50,759 --> 00:05:52,199
+that you could buy once a month or god
+
+163
+00:05:52,199 --> 00:05:54,329
+forbid the way some people do it once a
+
+164
+00:05:54,329 --> 00:05:56,879
+week a lot of the most successful mobile
+
+165
+00:05:56,879 --> 00:05:58,679
+games took some of the mechanics you
+
+166
+00:05:58,679 --> 00:06:01,679
+find in Diablo the the loot pinatas the
+
+167
+00:06:01,679 --> 00:06:04,169
+exploration the repetition and then
+
+168
+00:06:04,169 --> 00:06:06,599
+monetized them to make literal billions
+
+169
+00:06:06,599 --> 00:06:09,149
+of dollars on a free-to-play game Diablo
+
+170
+00:06:09,149 --> 00:06:10,859
+has always been right for this and lord
+
+171
+00:06:10,859 --> 00:06:12,779
+knows they tried to do it with Diablo 3
+
+172
+00:06:12,779 --> 00:06:14,609
+with the real money auction house and
+
+173
+00:06:14,609 --> 00:06:16,439
+Lord knows when they bring it to mobile
+
+174
+00:06:16,439 --> 00:06:18,179
+they're definitely gonna do it there and
+
+175
+00:06:18,179 --> 00:06:20,009
+think about the player who bought Diablo
+
+176
+00:06:20,009 --> 00:06:23,189
+3 five years ago for $60 and has been
+
+177
+00:06:23,189 --> 00:06:24,989
+playing that game off and on ever since
+
+178
+00:06:24,989 --> 00:06:27,029
+think about the player who paid $60 for
+
+179
+00:06:27,029 --> 00:06:29,939
+Diablo 2 almost two decades ago and has
+
+180
+00:06:29,939 --> 00:06:32,309
+been playing that game ever since for
+
+181
+00:06:32,309 --> 00:06:34,679
+that $60 it's an obsession it is an
+
+182
+00:06:34,679 --> 00:06:36,689
+addiction it is a game that they love to
+
+183
+00:06:36,689 --> 00:06:38,369
+play and they've been terrified that
+
+184
+00:06:38,369 --> 00:06:40,739
+Blizzard would monetize it and you know
+
+185
+00:06:40,739 --> 00:06:42,929
+that they will when they move to mobile
+
+186
+00:06:42,929 --> 00:06:44,519
+and that's what the outrage is about
+
+187
+00:06:44,519 --> 00:06:46,229
+Blizzard knows exactly what they are
+
+188
+00:06:46,229 --> 00:06:48,360
+doing they are taking a game that is
+
+189
+00:06:48,360 --> 00:06:50,429
+designed on addictive gameplay and they
+
+190
+00:06:50,429 --> 00:06:50,940
+are going to
+
+191
+00:06:50,940 --> 00:06:52,950
+monetize it in a hopes to get certain
+
+192
+00:06:52,950 --> 00:06:54,990
+whales certain addictive personalities
+
+193
+00:06:54,990 --> 00:06:57,420
+to spend hundreds of dollars thousands
+
+194
+00:06:57,420 --> 00:06:59,820
+of dollars tens of thousands of dollars
+
+195
+00:06:59,820 --> 00:07:02,670
+per individual on that addictive
+
+196
+00:07:02,670 --> 00:07:04,770
+gameplay that's exactly what they're
+
+197
+00:07:04,770 --> 00:07:05,940
+going to do with this game and that's
+
+198
+00:07:05,940 --> 00:07:07,500
+what everybody's afraid of that's what
+
+199
+00:07:07,500 --> 00:07:10,230
+everybody's upset of the blizzard and
+
+200
+00:07:10,230 --> 00:07:11,970
+Activision is willing to literally
+
+201
+00:07:11,970 --> 00:07:14,790
+destroy lives and put people into debt
+
+202
+00:07:14,790 --> 00:07:17,460
+using addictive gameplay rather than
+
+203
+00:07:17,460 --> 00:07:20,210
+just sell it to everybody for 60 bucks
+
+204
+00:07:20,210 --> 00:07:22,770
+you're damn right we're upset and if you
+
+205
+00:07:22,770 --> 00:07:24,210
+don't believe that people get addicted
+
+206
+00:07:24,210 --> 00:07:25,860
+to these mobile games and these micro
+
+207
+00:07:25,860 --> 00:07:27,660
+transactions and spend hundreds of
+
+208
+00:07:27,660 --> 00:07:28,770
+thousands of dollars then you've not
+
+209
+00:07:28,770 --> 00:07:30,510
+been paying attention a simple Google
+
+210
+00:07:30,510 --> 00:07:32,400
+search will show you people who's ruined
+
+211
+00:07:32,400 --> 00:07:34,620
+their lives being addicted to these
+
+212
+00:07:34,620 --> 00:07:36,300
+games but yes there are plenty of
+
+213
+00:07:36,300 --> 00:07:37,980
+players who are upset about the fact
+
+214
+00:07:37,980 --> 00:07:39,840
+that we're ditching the mouse and
+
+215
+00:07:39,840 --> 00:07:41,490
+keyboard and we're ditching the
+
+216
+00:07:41,490 --> 00:07:43,170
+controller and a favor for a crappy
+
+217
+00:07:43,170 --> 00:07:45,510
+touchscreen control setup and there's
+
+218
+00:07:45,510 --> 00:07:46,500
+plenty of players who are upset about
+
+219
+00:07:46,500 --> 00:07:47,940
+the fact that recording from their giant
+
+220
+00:07:47,940 --> 00:07:50,130
+60-inch television or their 30-inch
+
+221
+00:07:50,130 --> 00:07:52,140
+monitor tie it down to their tiny little
+
+222
+00:07:52,140 --> 00:07:54,330
+8 inch screen and there's some of us who
+
+223
+00:07:54,330 --> 00:07:55,919
+spend a lot of money on our high-end
+
+224
+00:07:55,919 --> 00:07:57,360
+processors for our computers and
+
+225
+00:07:57,360 --> 00:07:58,230
+graphics cards
+
+226
+00:07:58,230 --> 00:08:00,360
+we're upset that we're going to go with
+
+227
+00:08:00,360 --> 00:08:02,130
+our tiny little microchip and our phones
+
+228
+00:08:02,130 --> 00:08:03,870
+instead yes that is an accurate
+
+229
+00:08:03,870 --> 00:08:05,940
+complaint and I think it's a viable one
+
+230
+00:08:05,940 --> 00:08:08,220
+as well but the mass majority of us who
+
+231
+00:08:08,220 --> 00:08:10,050
+are upset by diablo immoral and the mass
+
+232
+00:08:10,050 --> 00:08:12,060
+majority of us who are upset by mobile
+
+233
+00:08:12,060 --> 00:08:14,430
+gaming in general are mostly upset about
+
+234
+00:08:14,430 --> 00:08:16,530
+the fact that mobile gaming is designed
+
+235
+00:08:16,530 --> 00:08:19,350
+to milk the consumer oversimplified
+
+236
+00:08:19,350 --> 00:08:21,690
+gameplay built around gamblers fallacy
+
+237
+00:08:21,690 --> 00:08:24,810
+built around loot boxes built about wait
+
+238
+00:08:24,810 --> 00:08:27,720
+time and built around frustration also
+
+239
+00:08:27,720 --> 00:08:29,760
+that you can spend microtransactions and
+
+240
+00:08:29,760 --> 00:08:31,890
+micro is being very kind there because
+
+241
+00:08:31,890 --> 00:08:35,130
+we're talking $99 bundles to bypass
+
+242
+00:08:35,130 --> 00:08:37,320
+those frustrations to get back into your
+
+243
+00:08:37,320 --> 00:08:39,839
+oversimplified - gameplay now compare
+
+244
+00:08:39,839 --> 00:08:41,969
+that to the Diablo 3 compare that to
+
+245
+00:08:41,969 --> 00:08:43,919
+game a God of War compare that to the
+
+246
+00:08:43,919 --> 00:08:46,500
+new Spider Man game and you can see the
+
+247
+00:08:46,500 --> 00:08:48,420
+source of frustration the biggest client
+
+248
+00:08:48,420 --> 00:08:50,190
+back I have seen here is two things
+
+249
+00:08:50,190 --> 00:08:52,110
+number one this game isn't designed for
+
+250
+00:08:52,110 --> 00:08:54,660
+you boogie and number two you don't have
+
+251
+00:08:54,660 --> 00:08:56,850
+to play it but Blizzard knows that
+
+252
+00:08:56,850 --> 00:08:58,530
+there's plenty of players who are going
+
+253
+00:08:58,530 --> 00:09:00,480
+to play this game even but grudgingly
+
+254
+00:09:00,480 --> 00:09:02,760
+plenty of people in the Asian markets
+
+255
+00:09:02,760 --> 00:09:04,140
+are just going to love this game being
+
+256
+00:09:04,140 --> 00:09:04,540
+on
+
+257
+00:09:04,540 --> 00:09:05,800
+and they're going to play it deeply and
+
+258
+00:09:05,800 --> 00:09:07,960
+spend millions of dollars doing and but
+
+259
+00:09:07,960 --> 00:09:09,490
+a lot of Western gamers who've been
+
+260
+00:09:09,490 --> 00:09:11,590
+waiting for six years for a new Diablo
+
+261
+00:09:11,590 --> 00:09:13,120
+game some people who are disappointed
+
+262
+00:09:13,120 --> 00:09:14,380
+with Diablo 3 who've been waiting since
+
+263
+00:09:14,380 --> 00:09:17,020
+Diablo 2 to play a Diablo game they are
+
+264
+00:09:17,020 --> 00:09:19,150
+going to be grudgingly and frustratingly
+
+265
+00:09:19,150 --> 00:09:20,890
+play this game even if it is a
+
+266
+00:09:20,890 --> 00:09:22,960
+simplified game scheme even if it is
+
+267
+00:09:22,960 --> 00:09:24,850
+designed to milk them because they love
+
+268
+00:09:24,850 --> 00:09:26,410
+the world of Diablo they love the
+
+269
+00:09:26,410 --> 00:09:28,480
+storyline they love everything about
+
+270
+00:09:28,480 --> 00:09:30,520
+that world and instead of selling it to
+
+271
+00:09:30,520 --> 00:09:32,500
+them for $60 maybe with a season pass
+
+272
+00:09:32,500 --> 00:09:34,540
+maybe with some DLC maybe with some
+
+273
+00:09:34,540 --> 00:09:37,030
+cosmetics instead they're selling it to
+
+274
+00:09:37,030 --> 00:09:38,980
+you on mobile on a platform you don't
+
+275
+00:09:38,980 --> 00:09:41,200
+want to play it on a place that you
+
+276
+00:09:41,200 --> 00:09:42,460
+don't experience with the controls that
+
+277
+00:09:42,460 --> 00:09:44,830
+you hate and they're going to monetize
+
+278
+00:09:44,830 --> 00:09:46,750
+the living hell out of it to try to milk
+
+279
+00:09:46,750 --> 00:09:48,810
+you for as much money as possible
+
+280
+00:09:48,810 --> 00:09:51,010
+players are gonna put up with it but
+
+281
+00:09:51,010 --> 00:09:52,270
+we're gonna be damn mad about in the
+
+282
+00:09:52,270 --> 00:09:53,680
+meantime and as for a sense of
+
+283
+00:09:53,680 --> 00:09:55,420
+entitlement yes I do feel a little bit
+
+284
+00:09:55,420 --> 00:09:56,860
+entitled because I bought the first
+
+285
+00:09:56,860 --> 00:09:58,360
+Diablo a couple of times
+
+286
+00:09:58,360 --> 00:10:00,640
+I bought Diablo 2 several times and I
+
+287
+00:10:00,640 --> 00:10:02,320
+bought every expansion and I bought
+
+288
+00:10:02,320 --> 00:10:04,030
+Diablo 3 and I bought the collector's
+
+289
+00:10:04,030 --> 00:10:06,190
+edition and I've invested hundreds of
+
+290
+00:10:06,190 --> 00:10:08,770
+dollars into the Diablo franchise so I
+
+291
+00:10:08,770 --> 00:10:11,110
+do feel not just as a gaming commentator
+
+292
+00:10:11,110 --> 00:10:13,240
+but as a player and a supporter of the
+
+293
+00:10:13,240 --> 00:10:15,130
+franchise I do have a right to complain
+
+294
+00:10:15,130 --> 00:10:16,990
+about something I don't want and I do
+
+295
+00:10:16,990 --> 00:10:19,330
+have a right to ask for what I do want I
+
+296
+00:10:19,330 --> 00:10:21,880
+do feel that I I cannot understand why I
+
+297
+00:10:21,880 --> 00:10:23,710
+wouldn't have that right you'd need to
+
+298
+00:10:23,710 --> 00:10:24,910
+explain that to me in the comment
+
+299
+00:10:24,910 --> 00:10:26,560
+section below and I'll admit some
+
+300
+00:10:26,560 --> 00:10:28,690
+players may take it too far with the the
+
+301
+00:10:28,690 --> 00:10:30,580
+personal insults and the attacks on
+
+302
+00:10:30,580 --> 00:10:32,740
+Twitter and things along that lines I
+
+303
+00:10:32,740 --> 00:10:34,270
+think that's never welcomed but to make
+
+304
+00:10:34,270 --> 00:10:35,800
+a video like this to complain about it
+
+305
+00:10:35,800 --> 00:10:37,630
+to make posts about it on reddit to say
+
+306
+00:10:37,630 --> 00:10:38,890
+that it feels like a slap in the face
+
+307
+00:10:38,890 --> 00:10:40,810
+for a franchise that you've supported
+
+308
+00:10:40,810 --> 00:10:42,520
+for 20 years I think all of that's fine
+
+309
+00:10:42,520 --> 00:10:43,870
+I think there's absolutely no problem in
+
+310
+00:10:43,870 --> 00:10:45,160
+that and if you do have a problem with
+
+311
+00:10:45,160 --> 00:10:47,230
+that maybe you shouldn't be watching my
+
+312
+00:10:47,230 --> 00:10:48,910
+channel honestly if you have a problem
+
+313
+00:10:48,910 --> 00:10:50,050
+with that then you don't understand
+
+314
+00:10:50,050 --> 00:10:52,450
+basic supply versus the man you need to
+
+315
+00:10:52,450 --> 00:10:54,310
+take an economy course or business
+
+316
+00:10:54,310 --> 00:10:56,230
+course because you should need a college
+
+317
+00:10:56,230 --> 00:10:57,820
+course to teach it to you but it'll help
+
+318
+00:10:57,820 --> 00:10:59,620
+but as usual this is one man's opinion
+
+319
+00:10:59,620 --> 00:11:02,080
+now I did ask you guys on Twitter what
+
+320
+00:11:02,080 --> 00:11:03,520
+your opinion was about mobile games in
+
+321
+00:11:03,520 --> 00:11:05,140
+diablo immortal and i used a lot of that
+
+322
+00:11:05,140 --> 00:11:06,670
+for this video but i will be reading
+
+323
+00:11:06,670 --> 00:11:08,140
+more comments as we go so leave a
+
+324
+00:11:08,140 --> 00:11:09,760
+comment in the comment section below let
+
+325
+00:11:09,760 --> 00:11:11,020
+me know what you thought about this
+
+326
+00:11:11,020 --> 00:11:11,950
+video what you thought about this
+
+327
+00:11:11,950 --> 00:11:13,900
+opinion whether or not you love mobile
+
+328
+00:11:13,900 --> 00:11:15,250
+gaming whether you hate mobile gaming
+
+329
+00:11:15,250 --> 00:11:15,800
+what your
+
+330
+00:11:15,800 --> 00:11:17,269
+is with Diablo immortal or whether or
+
+331
+00:11:17,269 --> 00:11:18,920
+not you're excited for that game I'm
+
+332
+00:11:18,920 --> 00:11:21,170
+always interested in opposing opinions
+
+333
+00:11:21,170 --> 00:11:22,910
+and hearing them especially because then
+
+334
+00:11:22,910 --> 00:11:24,110
+I can make a video about it and tear
+
+335
+00:11:24,110 --> 00:11:27,019
+them just kidding just kidding I like I
+
+336
+00:11:27,019 --> 00:11:28,519
+like opposing points of views I like to
+
+337
+00:11:28,519 --> 00:11:30,560
+educate myself I like to learn about the
+
+338
+00:11:30,560 --> 00:11:32,269
+kind of person who spends a few thousand
+
+339
+00:11:32,269 --> 00:11:33,860
+dollars each month on candy crush if
+
+340
+00:11:33,860 --> 00:11:35,180
+you're that person let me know in the
+
+341
+00:11:35,180 --> 00:11:36,320
+comments section below while you're down
+
+342
+00:11:36,320 --> 00:11:37,940
+there do me a favor drop a like on this
+
+343
+00:11:37,940 --> 00:11:39,350
+video hit subscribe if you want to see
+
+344
+00:11:39,350 --> 00:11:40,490
+more videos like this hit that
+
+345
+00:11:40,490 --> 00:11:41,810
+notification bell if you want to be one
+
+346
+00:11:41,810 --> 00:11:43,399
+of the first people to see a video when
+
+347
+00:11:43,399 --> 00:11:45,320
+it goes live and know that if you are
+
+348
+00:11:45,320 --> 00:11:46,910
+one of those people that rush to type in
+
+349
+00:11:46,910 --> 00:11:48,380
+first you are helping me out quite a bit
+
+350
+00:11:48,380 --> 00:11:50,779
+guys as always thanks for watching I
+
+351
+00:11:50,779 --> 00:11:52,790
+love you very much and I'll speak with
+
+352
+00:11:52,790 --> 00:11:55,000
+you again soon
+

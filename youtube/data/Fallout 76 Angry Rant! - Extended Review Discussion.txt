@@ -1,0 +1,6132 @@
+1
+00:00:00,010 --> 00:00:02,370
+hey guys we're gonna try something new
+
+2
+00:00:02,370 --> 00:00:04,230
+well we've done it before an extended
+
+3
+00:00:04,230 --> 00:00:07,200
+discussion on one of our reviews here
+
+4
+00:00:07,200 --> 00:00:09,960
+with me I got del and I got other Jo so
+
+5
+00:00:09,960 --> 00:00:13,950
+guys okay so Bethesda has finally graced
+
+6
+00:00:13,950 --> 00:00:16,710
+us with a reply after what feels like
+
+7
+00:00:16,710 --> 00:00:20,480
+radio silence forever on pretty much
+
+8
+00:00:20,480 --> 00:00:24,420
+acknowledging a little bit in their PR
+
+9
+00:00:24,420 --> 00:00:28,230
+way the disaster that is fallout 76 of
+
+10
+00:00:28,230 --> 00:00:30,810
+course they don't consider it a disaster
+
+11
+00:00:30,810 --> 00:00:32,969
+I've got their press release here
+
+12
+00:00:32,969 --> 00:00:36,000
+November 27th huge thanks to all of you
+
+13
+00:00:36,000 --> 00:00:38,190
+plant who have been playing Fallout 76
+
+14
+00:00:38,190 --> 00:00:45,930
+you mean millions of you are playing the
+
+15
+00:00:45,930 --> 00:00:52,379
+game and playing it a lot millions
+
+16
+00:00:52,379 --> 00:00:55,140
+anyway regardless you know the quality
+
+17
+00:00:55,140 --> 00:00:58,020
+of the product at release so we continue
+
+18
+00:00:58,020 --> 00:00:59,579
+to read your feedback and watch your
+
+19
+00:00:59,579 --> 00:01:01,500
+streams well hopefully you watched my
+
+20
+00:01:01,500 --> 00:01:03,059
+review and hopefully you're watching
+
+21
+00:01:03,059 --> 00:01:05,159
+this extended discussion and you haven't
+
+22
+00:01:05,159 --> 00:01:07,020
+blacklisted us and if you watched my
+
+23
+00:01:07,020 --> 00:01:11,520
+streams yes sorry not sorry so here's
+
+24
+00:01:11,520 --> 00:01:14,340
+the upcoming patches we're eager to get
+
+25
+00:01:14,340 --> 00:01:17,159
+improvements into Fallout 76 as soon as
+
+26
+00:01:17,159 --> 00:01:20,369
+we can why wasn't it there from the
+
+27
+00:01:20,369 --> 00:01:22,890
+beginning it we have all all these
+
+28
+00:01:22,890 --> 00:01:25,770
+discussed extended discussion and
+
+29
+00:01:25,770 --> 00:01:27,990
+questions that will go after we look
+
+30
+00:01:27,990 --> 00:01:30,479
+through these patches together so here
+
+31
+00:01:30,479 --> 00:01:31,860
+let's take a look at what's coming up
+
+32
+00:01:31,860 --> 00:01:34,439
+over the next few weeks December 4 I
+
+33
+00:01:34,439 --> 00:01:36,450
+just want to say none of this matters it
+
+34
+00:01:36,450 --> 00:01:38,670
+doesn't matter I'm done I'm done with
+
+35
+00:01:38,670 --> 00:01:40,979
+fallout 76 now it's great for people
+
+36
+00:01:40,979 --> 00:01:43,079
+that maybe are considering purchasing it
+
+37
+00:01:43,079 --> 00:01:45,119
+in the future which I probably wouldn't
+
+38
+00:01:45,119 --> 00:01:48,060
+recommend you do until February until
+
+39
+00:01:48,060 --> 00:01:51,689
+it's like 20 bucks it's down right so
+
+40
+00:01:51,689 --> 00:01:53,520
+util goes free-to-play
+
+41
+00:01:53,520 --> 00:01:55,229
+that's something another thing I wanted
+
+42
+00:01:55,229 --> 00:01:56,969
+to discuss free-to-play but I'm saying
+
+43
+00:01:56,969 --> 00:01:58,460
+it doesn't matter because guess what
+
+44
+00:01:58,460 --> 00:02:01,200
+millions of players have already played
+
+45
+00:02:01,200 --> 00:02:02,880
+the game and I and they're pretty much
+
+46
+00:02:02,880 --> 00:02:04,770
+done with it at this point because there
+
+47
+00:02:04,770 --> 00:02:07,439
+is no endgame there's nothing to do and
+
+48
+00:02:07,439 --> 00:02:09,420
+yet again something we need to discuss
+
+49
+00:02:09,420 --> 00:02:12,030
+but ok so so here are the fixes that are
+
+50
+00:02:12,030 --> 00:02:13,770
+coming for the player
+
+51
+00:02:13,770 --> 00:02:15,810
+who might purchase it in the future or
+
+52
+00:02:15,810 --> 00:02:19,500
+return to it the December 4th next week
+
+53
+00:02:19,500 --> 00:02:21,360
+they're going to increase the stash
+
+54
+00:02:21,360 --> 00:02:25,550
+limit really now you get more glue
+
+55
+00:02:25,550 --> 00:02:29,100
+increasing it for 400 to 600 and that's
+
+56
+00:02:29,100 --> 00:02:31,740
+good because I mean obviously the stash
+
+57
+00:02:31,740 --> 00:02:34,410
+thing was so fucking annoying numbered
+
+58
+00:02:34,410 --> 00:02:35,580
+all the time
+
+59
+00:02:35,580 --> 00:02:37,860
+well that is tied to what what the
+
+60
+00:02:37,860 --> 00:02:40,080
+server can handle cuz obviously the
+
+61
+00:02:40,080 --> 00:02:41,670
+server needs to figure out you know how
+
+62
+00:02:41,670 --> 00:02:43,230
+many items you have what they are and
+
+63
+00:02:43,230 --> 00:02:45,600
+take it from server to server so that's
+
+64
+00:02:45,600 --> 00:02:47,760
+fine boss lute player should correctly
+
+65
+00:02:47,760 --> 00:02:50,280
+receive two or three items after taking
+
+66
+00:02:50,280 --> 00:02:51,900
+down of Oz and that's something that we
+
+67
+00:02:51,900 --> 00:02:53,640
+talked about a little bit in the review
+
+68
+00:02:53,640 --> 00:02:57,030
+getting randomly not getting legendaries
+
+69
+00:02:57,030 --> 00:02:59,250
+number one even though you're fighting
+
+70
+00:02:59,250 --> 00:03:01,620
+legendary people and then sometimes just
+
+71
+00:03:01,620 --> 00:03:04,830
+getting like one-star legendaries from
+
+72
+00:03:04,830 --> 00:03:07,830
+fucking and a really difficult boss
+
+73
+00:03:07,830 --> 00:03:10,020
+battle so they know and they're fixing
+
+74
+00:03:10,020 --> 00:03:13,410
+that yeah they're rewards it's really
+
+75
+00:03:13,410 --> 00:03:15,720
+bad cryolator effects players hit with a
+
+76
+00:03:15,720 --> 00:03:17,910
+cry later now chilled frosted froze and
+
+77
+00:03:17,910 --> 00:03:19,560
+depending on how many are hit without it
+
+78
+00:03:19,560 --> 00:03:22,200
+wow that was a problem respawning went
+
+79
+00:03:22,200 --> 00:03:23,880
+over encumbered we resolved in issue
+
+80
+00:03:23,880 --> 00:03:25,470
+affecting players who died wall over
+
+81
+00:03:25,470 --> 00:03:26,820
+encumbered that only allowed them to
+
+82
+00:03:26,820 --> 00:03:28,950
+respawn at ball 70 say sometimes it
+
+83
+00:03:28,950 --> 00:03:30,420
+didn't anyone it didn't even let you
+
+84
+00:03:30,420 --> 00:03:33,690
+respawn you had to just close the entire
+
+85
+00:03:33,690 --> 00:03:36,660
+game and then stuck in power armor we've
+
+86
+00:03:36,660 --> 00:03:37,950
+addressed an issue in this patch rate
+
+87
+00:03:37,950 --> 00:03:39,570
+you could cause you know I'm stuck in
+
+88
+00:03:39,570 --> 00:03:41,430
+power arm yo there's the patch that they
+
+89
+00:03:41,430 --> 00:03:43,110
+didn't do three years ago instead they
+
+90
+00:03:43,110 --> 00:03:45,600
+still not doing the patch that's not it
+
+91
+00:03:45,600 --> 00:03:48,060
+that doesn't resolve that I think that's
+
+92
+00:03:48,060 --> 00:03:50,100
+actually a problem with the engine and
+
+93
+00:03:50,100 --> 00:03:52,470
+their peoples are other engines fine and
+
+94
+00:03:52,470 --> 00:03:55,100
+dude guys work on that fucking engine
+
+95
+00:03:55,100 --> 00:03:58,170
+seriously I mean you don't need to throw
+
+96
+00:03:58,170 --> 00:04:00,660
+it completely out I'm not of that camp
+
+97
+00:04:00,660 --> 00:04:03,300
+that thinks that you need to throw their
+
+98
+00:04:03,300 --> 00:04:04,860
+engine could bleed out it makes me
+
+99
+00:04:04,860 --> 00:04:07,500
+worried as fuck that star field and
+
+100
+00:04:07,500 --> 00:04:09,750
+Elder Scrolls six better look nothing
+
+101
+00:04:09,750 --> 00:04:13,350
+like fallout nothing like fallout 76
+
+102
+00:04:13,350 --> 00:04:16,500
+that engine better be backtracking on
+
+103
+00:04:16,500 --> 00:04:18,390
+that so much different what do you mean
+
+104
+00:04:18,390 --> 00:04:19,370
+backtracking
+
+105
+00:04:19,370 --> 00:04:22,169
+fallout 4 look way better oh yeah yeah
+
+106
+00:04:22,169 --> 00:04:24,120
+well I I don't know if I would say way
+
+107
+00:04:24,120 --> 00:04:26,010
+better I think that the color really
+
+108
+00:04:26,010 --> 00:04:27,060
+helps out
+
+109
+00:04:27,060 --> 00:04:28,620
+it was it was I would say this looks
+
+110
+00:04:28,620 --> 00:04:31,680
+slightly better than follow me it's it's
+
+111
+00:04:31,680 --> 00:04:33,870
+just because fallout 4 was so driving
+
+112
+00:04:33,870 --> 00:04:35,520
+and I was just and I'm glad there's
+
+113
+00:04:35,520 --> 00:04:37,200
+color here so then so that's all
+
+114
+00:04:37,200 --> 00:04:40,050
+December 4th then December 11th the next
+
+115
+00:04:40,050 --> 00:04:42,210
+update you'll have PC additions
+
+116
+00:04:42,210 --> 00:04:47,280
+push-to-talk setting December 11
+
+117
+00:04:47,280 --> 00:04:49,980
+multiple we had to wait for three weeks
+
+118
+00:04:49,980 --> 00:04:53,669
+to do this that it blows my mind that
+
+119
+00:04:53,669 --> 00:04:55,560
+that wasn't it's like it's like these
+
+120
+00:04:55,560 --> 00:04:57,389
+people when they get in their design
+
+121
+00:04:57,389 --> 00:04:59,340
+meetings they don't talk about anything
+
+122
+00:04:59,340 --> 00:05:01,080
+and they're goofing off or doing
+
+123
+00:05:01,080 --> 00:05:03,030
+something I have everybody with thumbs
+
+124
+00:05:03,030 --> 00:05:04,800
+up their asses because that should have
+
+125
+00:05:04,800 --> 00:05:06,600
+been like the very first thing have you
+
+126
+00:05:06,600 --> 00:05:08,729
+never played an online game but there's
+
+127
+00:05:08,729 --> 00:05:10,590
+it it seems like nobody in your office
+
+128
+00:05:10,590 --> 00:05:12,419
+has a branded this is your first online
+
+129
+00:05:12,419 --> 00:05:15,840
+game no technically well there's well
+
+130
+00:05:15,840 --> 00:05:18,990
+yeah but that's the game studios but
+
+131
+00:05:18,990 --> 00:05:20,850
+you're right in that Elder Scrolls
+
+132
+00:05:20,850 --> 00:05:22,500
+online so you should have learned some
+
+133
+00:05:22,500 --> 00:05:24,419
+of these lessons or ZeniMax especially
+
+134
+00:05:24,419 --> 00:05:26,070
+since ZeniMax their publisher like
+
+135
+00:05:26,070 --> 00:05:27,840
+ZeniMax would have been like hey what
+
+136
+00:05:27,840 --> 00:05:30,300
+guys that you need to do these things
+
+137
+00:05:30,300 --> 00:05:37,200
+because players you know as the fov
+
+138
+00:05:37,200 --> 00:05:41,669
+slider mentioned there yeah 12 21 by 9
+
+139
+00:05:41,669 --> 00:05:43,410
+and a field of view settings are all
+
+140
+00:05:43,410 --> 00:05:45,240
+being implemented on PC with this update
+
+141
+00:05:45,240 --> 00:05:47,880
+if it was that easy why wasn't it in the
+
+142
+00:05:47,880 --> 00:05:49,620
+original you can do it through the any
+
+143
+00:05:49,620 --> 00:05:51,479
+like you like you send your review but
+
+144
+00:05:51,479 --> 00:05:53,490
+like were they really that lazy not to
+
+145
+00:05:53,490 --> 00:05:55,710
+just put that in the freaking settings I
+
+146
+00:05:55,710 --> 00:05:57,389
+read somewhere that because of the
+
+147
+00:05:57,389 --> 00:05:59,940
+engine it like fucks with trees and in
+
+148
+00:05:59,940 --> 00:06:04,740
+Lego kid I know that's what confuses me
+
+149
+00:06:04,740 --> 00:06:07,200
+so maybe that that shit wasn't correct
+
+150
+00:06:07,200 --> 00:06:10,139
+but we got a special respect after level
+
+151
+00:06:10,139 --> 00:06:11,669
+50 you'll finally be able to choose
+
+152
+00:06:11,669 --> 00:06:13,320
+between a new perk card or moving a
+
+153
+00:06:13,320 --> 00:06:14,729
+special point you had previously
+
+154
+00:06:14,729 --> 00:06:17,370
+allocated so they're letting you respect
+
+155
+00:06:17,370 --> 00:06:18,479
+but they're letting you respect like
+
+156
+00:06:18,479 --> 00:06:21,330
+super slow so it's basically you either
+
+157
+00:06:21,330 --> 00:06:23,460
+choose a perk card or you choose to move
+
+158
+00:06:23,460 --> 00:06:26,490
+a point right yeah well at least it's
+
+159
+00:06:26,490 --> 00:06:27,810
+there it should have been there from the
+
+160
+00:06:27,810 --> 00:06:30,690
+beginning camp placement this is
+
+161
+00:06:30,690 --> 00:06:33,060
+something that that todd said you could
+
+162
+00:06:33,060 --> 00:06:36,360
+build anywhere like previous fall outs
+
+163
+00:06:36,360 --> 00:06:39,490
+you can play this game so low in quest
+
+164
+00:06:39,490 --> 00:06:41,889
+but the easiest way to survive in the
+
+165
+00:06:41,889 --> 00:06:44,500
+wasteland is to team up and build
+
+166
+00:06:44,500 --> 00:06:47,370
+together and in this one you can build
+
+167
+00:06:47,370 --> 00:06:50,800
+wherever you want and you can also then
+
+168
+00:06:50,800 --> 00:06:56,139
+move that to wherever you want and you
+
+169
+00:06:56,139 --> 00:06:58,240
+can't build anywhere it's so there's
+
+170
+00:06:58,240 --> 00:07:00,400
+always like you're running around trying
+
+171
+00:07:00,400 --> 00:07:02,740
+to put your fucking camp down and you
+
+172
+00:07:02,740 --> 00:07:04,720
+can't put it in cool ass places
+
+173
+00:07:04,720 --> 00:07:06,550
+ironically there's a lot of places that
+
+174
+00:07:06,550 --> 00:07:08,440
+you shouldn't be able to put it but you
+
+175
+00:07:08,440 --> 00:07:10,270
+can and then the places you should be
+
+176
+00:07:10,270 --> 00:07:14,020
+overly yeah like I just found like I
+
+177
+00:07:14,020 --> 00:07:15,789
+mean we didn't show in the review but I
+
+178
+00:07:15,789 --> 00:07:18,190
+found like a legendary boss spawn in one
+
+179
+00:07:18,190 --> 00:07:19,569
+of the actual buildings you're not
+
+180
+00:07:19,569 --> 00:07:21,220
+supposed to be able to build in and I
+
+181
+00:07:21,220 --> 00:07:22,599
+said screw it I dropped my camp there
+
+182
+00:07:22,599 --> 00:07:23,979
+put turrets up where it couldn't attack
+
+183
+00:07:23,979 --> 00:07:25,449
+and every time I load into a server just
+
+184
+00:07:25,449 --> 00:07:26,050
+dies
+
+185
+00:07:26,050 --> 00:07:27,819
+and now they got something called
+
+186
+00:07:27,819 --> 00:07:29,740
+bulldozer this is a new camp feature it
+
+187
+00:07:29,740 --> 00:07:31,150
+allow you to remove small trees rocks
+
+188
+00:07:31,150 --> 00:07:32,800
+and other obstructions so it's easier to
+
+189
+00:07:32,800 --> 00:07:34,720
+place your camp great players are not
+
+190
+00:07:34,720 --> 00:07:36,759
+gonna bulldoze everything I was in
+
+191
+00:07:36,759 --> 00:07:37,449
+fallout 4
+
+192
+00:07:37,449 --> 00:07:40,750
+- no they won't they won't bulldoze
+
+193
+00:07:40,750 --> 00:07:42,370
+important things it probably won't be
+
+194
+00:07:42,370 --> 00:07:44,500
+able to actually bulldoze those elements
+
+195
+00:07:44,500 --> 00:07:47,349
+but that's good that's going to all help
+
+196
+00:07:47,349 --> 00:07:50,380
+the game but this is in very very minor
+
+197
+00:07:50,380 --> 00:07:53,409
+ways and that's December 4 December 11
+
+198
+00:07:53,409 --> 00:07:55,659
+so as you can see in December you're not
+
+199
+00:07:55,659 --> 00:07:59,169
+really getting anything major and you
+
+200
+00:07:59,169 --> 00:08:00,669
+gotta believe that because they're
+
+201
+00:08:00,669 --> 00:08:02,800
+working on all these fixes they're
+
+202
+00:08:02,800 --> 00:08:04,960
+taking time away from their updates yeah
+
+203
+00:08:04,960 --> 00:08:07,150
+I mean there's a lot of like caught new
+
+204
+00:08:07,150 --> 00:08:09,310
+content yeah but I mean like at this
+
+205
+00:08:09,310 --> 00:08:11,259
+point I don't even care about new
+
+206
+00:08:11,259 --> 00:08:12,759
+content I want to be able to play the
+
+207
+00:08:12,759 --> 00:08:14,590
+game for five minutes without a game
+
+208
+00:08:14,590 --> 00:08:16,150
+breaking bugs like they're not even
+
+209
+00:08:16,150 --> 00:08:18,310
+mentioning that you do no damage bug
+
+210
+00:08:18,310 --> 00:08:20,169
+that 70% of the player base is
+
+211
+00:08:20,169 --> 00:08:21,819
+encountering you look at your riff that
+
+212
+00:08:21,819 --> 00:08:23,650
+completely breaks again we've showed
+
+213
+00:08:23,650 --> 00:08:25,569
+that off multiple time it happens it
+
+214
+00:08:25,569 --> 00:08:28,000
+happens with every gun randomly and like
+
+215
+00:08:28,000 --> 00:08:29,500
+you go look at the YouTube comments in
+
+216
+00:08:29,500 --> 00:08:30,250
+the review and there's people
+
+217
+00:08:30,250 --> 00:08:32,050
+straight-up saying I can't play the game
+
+218
+00:08:32,050 --> 00:08:33,459
+for more than five minutes without this
+
+219
+00:08:33,459 --> 00:08:35,890
+happening and it's it's they're not
+
+220
+00:08:35,890 --> 00:08:38,469
+talking about it and I can't even play
+
+221
+00:08:38,469 --> 00:08:40,450
+it anymore for hilarity sake because I
+
+222
+00:08:40,450 --> 00:08:42,880
+just I log in 11 seconds in I got the
+
+223
+00:08:42,880 --> 00:08:44,740
+bug last time I tried to play yesterday
+
+224
+00:08:44,740 --> 00:08:46,089
+and I was like I'm done just all that
+
+225
+00:08:46,089 --> 00:08:47,380
+Ford and just didn't even look at it
+
+226
+00:08:47,380 --> 00:08:49,839
+again yeah losing items a lot of these
+
+227
+00:08:49,839 --> 00:08:53,020
+different types of bugs the power armor
+
+228
+00:08:53,020 --> 00:08:55,240
+and okay so let's actually get into the
+
+229
+00:08:55,240 --> 00:08:57,430
+extended discussion the spoilers
+
+230
+00:08:57,430 --> 00:08:59,650
+discussion where we weren't really able
+
+231
+00:08:59,650 --> 00:09:02,290
+to jam some of this in the review it's a
+
+232
+00:09:02,290 --> 00:09:04,150
+forty minute review guys I hope you
+
+233
+00:09:04,150 --> 00:09:06,190
+enjoyed but I had to cut some parts out
+
+234
+00:09:06,190 --> 00:09:08,470
+so first off a lot of you said I was
+
+235
+00:09:08,470 --> 00:09:11,350
+generous with my score of three out of
+
+236
+00:09:11,350 --> 00:09:13,390
+ten I'll be honest with you I actually
+
+237
+00:09:13,390 --> 00:09:15,520
+gave it a two out of ten I could play a
+
+238
+00:09:15,520 --> 00:09:18,520
+clip here you know that I was I was
+
+239
+00:09:18,520 --> 00:09:20,529
+showing stream that I recorded a two out
+
+240
+00:09:20,529 --> 00:09:24,190
+of ten but so check this out the final
+
+241
+00:09:24,190 --> 00:09:28,210
+verdict for fallout 76 is it to a two
+
+242
+00:09:28,210 --> 00:09:30,400
+out of ten maybe it could have pulled a
+
+243
+00:09:30,400 --> 00:09:34,089
+4 or a 3 but to release in this state to
+
+244
+00:09:34,089 --> 00:09:36,790
+rely to us this month to charge everyone
+
+245
+00:09:36,790 --> 00:09:40,380
+that much in microtransactions for this
+
+246
+00:09:40,380 --> 00:09:44,080
+never again alright so that that was the
+
+247
+00:09:44,080 --> 00:09:45,760
+original but at the last minute and
+
+248
+00:09:45,760 --> 00:09:47,740
+that's why the final score section is
+
+249
+00:09:47,740 --> 00:09:49,750
+kind of jiggered around it's all messed
+
+250
+00:09:49,750 --> 00:09:53,529
+up and I gave it a 2 or I gave it a 3
+
+251
+00:09:53,529 --> 00:09:56,650
+when I really feel that after watching
+
+252
+00:09:56,650 --> 00:09:59,860
+my own damn review and after watching so
+
+253
+00:09:59,860 --> 00:10:01,960
+many other issues from other players a 2
+
+254
+00:10:01,960 --> 00:10:04,360
+would have been a statement you know to
+
+255
+00:10:04,360 --> 00:10:06,930
+Bethesda this this is like super
+
+256
+00:10:06,930 --> 00:10:09,790
+unacceptable but you know over time I
+
+257
+00:10:09,790 --> 00:10:12,700
+mean Dell did reach on and forty hundred
+
+258
+00:10:12,700 --> 00:10:14,890
+and eighty hundred eighty you couldn't
+
+259
+00:10:14,890 --> 00:10:16,570
+play the game that long well number one
+
+260
+00:10:16,570 --> 00:10:20,380
+it's his job so he has to but other than
+
+261
+00:10:20,380 --> 00:10:22,360
+that do you think it's a two out of ten
+
+262
+00:10:22,360 --> 00:10:23,860
+or you think is a three out of ten I
+
+263
+00:10:23,860 --> 00:10:26,110
+mean now it is I can't even fucking play
+
+264
+00:10:26,110 --> 00:10:26,710
+it anymore
+
+265
+00:10:26,710 --> 00:10:29,110
+yeah at least when I said hey I'm at a
+
+266
+00:10:29,110 --> 00:10:31,030
+three it was because I could play for
+
+267
+00:10:31,030 --> 00:10:32,560
+like an hour or two without my game
+
+268
+00:10:32,560 --> 00:10:34,540
+completely breaking but they did a patch
+
+269
+00:10:34,540 --> 00:10:37,270
+and they broke it even more and it's
+
+270
+00:10:37,270 --> 00:10:40,180
+like I can't do anything now it feels
+
+271
+00:10:40,180 --> 00:10:42,400
+like the server's go down every like
+
+272
+00:10:42,400 --> 00:10:44,500
+five minutes I'm in a match I can't do
+
+273
+00:10:44,500 --> 00:10:47,860
+damage my UI glitches out my inventory
+
+274
+00:10:47,860 --> 00:10:50,470
+breaks it's just not playing well it's
+
+275
+00:10:50,470 --> 00:10:52,360
+not playable anymore I think Joe the
+
+276
+00:10:52,360 --> 00:10:54,550
+reason why because you know we gave it a
+
+277
+00:10:54,550 --> 00:10:58,240
+three is because you know it's a time
+
+278
+00:10:58,240 --> 00:11:00,580
+waster you know it's really good at you
+
+279
+00:11:00,580 --> 00:11:02,770
+you it could waste your time when you're
+
+280
+00:11:02,770 --> 00:11:04,180
+playing with friends is fun but that's
+
+281
+00:11:04,180 --> 00:11:06,730
+you know well not even really that
+
+282
+00:11:06,730 --> 00:11:10,839
+fun ouch but no the game not playing
+
+283
+00:11:10,839 --> 00:11:12,910
+with you obviously see that's probably
+
+284
+00:11:12,910 --> 00:11:15,399
+what got me playing with Joe play with
+
+285
+00:11:15,399 --> 00:11:16,990
+Joe is always fun playing with Dell is
+
+286
+00:11:16,990 --> 00:11:19,300
+always fun so that probably got a pity
+
+287
+00:11:19,300 --> 00:11:20,769
+point from me and it's the fact that
+
+288
+00:11:20,769 --> 00:11:23,050
+it's Bethesda and I am literally a
+
+289
+00:11:23,050 --> 00:11:26,500
+Bethesda family ok it but I'm starting
+
+290
+00:11:26,500 --> 00:11:28,449
+to have my eyes open if you guys watched
+
+291
+00:11:28,449 --> 00:11:30,699
+Jim Sterling's video he made this great
+
+292
+00:11:30,699 --> 00:11:33,190
+point it's like me you know the idea was
+
+293
+00:11:33,190 --> 00:11:34,959
+that maybe we've had rose-colored
+
+294
+00:11:34,959 --> 00:11:36,699
+glasses a little bit and if you go back
+
+295
+00:11:36,699 --> 00:11:37,779
+and you look at some of the other
+
+296
+00:11:37,779 --> 00:11:40,680
+releases this isn't anything like
+
+297
+00:11:40,680 --> 00:11:43,570
+massively new no that's all doesn't it
+
+298
+00:11:43,570 --> 00:11:45,760
+be this broken I mean it's been broken
+
+299
+00:11:45,760 --> 00:11:48,190
+in the past but this is to me this is
+
+300
+00:11:48,190 --> 00:11:50,230
+something new this is unplayable this is
+
+301
+00:11:50,230 --> 00:11:51,820
+so boring I don't want to play people
+
+302
+00:11:51,820 --> 00:11:53,290
+were so used to it they even made that
+
+303
+00:11:53,290 --> 00:11:55,029
+joke at their press conference like oh
+
+304
+00:11:55,029 --> 00:11:56,529
+the internet says our games are very
+
+305
+00:11:56,529 --> 00:11:59,110
+buggy on launch like yeah that's a
+
+306
+00:11:59,110 --> 00:12:01,029
+problem why are you making fun yeah it
+
+307
+00:12:01,029 --> 00:12:04,209
+like it goes from cute to that this shit
+
+308
+00:12:04,209 --> 00:12:06,120
+ain't funny anymore like dude do not
+
+309
+00:12:06,120 --> 00:12:08,709
+reference that again without an apology
+
+310
+00:12:08,709 --> 00:12:11,260
+all right that's this is not cute
+
+311
+00:12:11,260 --> 00:12:14,649
+okay so all right so let's talk about so
+
+312
+00:12:14,649 --> 00:12:16,360
+in their press release they said they
+
+313
+00:12:16,360 --> 00:12:17,889
+you know they got the list of fixes
+
+314
+00:12:17,889 --> 00:12:21,550
+there they say Oh a million players why
+
+315
+00:12:21,550 --> 00:12:23,709
+do you gotta brag when you're trying to
+
+316
+00:12:23,709 --> 00:12:26,350
+apologize that's basically like fuck you
+
+317
+00:12:26,350 --> 00:12:28,180
+well it's basically like look at all
+
+318
+00:12:28,180 --> 00:12:30,940
+these people we conned it's it's like we
+
+319
+00:12:30,940 --> 00:12:32,889
+conda million people instead let's tell
+
+320
+00:12:32,889 --> 00:12:34,240
+you how many people we fooled
+
+321
+00:12:34,240 --> 00:12:35,529
+yeah instead of just saying we're sorry
+
+322
+00:12:35,529 --> 00:12:36,970
+for the issues with the game they're
+
+323
+00:12:36,970 --> 00:12:38,649
+like yeah but millions of people are
+
+324
+00:12:38,649 --> 00:12:40,600
+playing in it's like that just seems
+
+325
+00:12:40,600 --> 00:12:43,240
+super high to me yeah it sucks that it's
+
+326
+00:12:43,240 --> 00:12:46,420
+not on Steam anymore because on
+
+327
+00:12:46,420 --> 00:12:48,100
+Bethesda's they didn't you can't tell
+
+328
+00:12:48,100 --> 00:12:49,870
+how many people I think I know why that
+
+329
+00:12:49,870 --> 00:12:51,760
+is - because they're not offering
+
+330
+00:12:51,760 --> 00:12:53,680
+refunds and if they had been on Steam
+
+331
+00:12:53,680 --> 00:12:55,449
+they would have had to abide the steams
+
+332
+00:12:55,449 --> 00:12:58,060
+refund policy and they don't want it so
+
+333
+00:12:58,060 --> 00:13:00,579
+there's this whole thing with you know a
+
+334
+00:13:00,579 --> 00:13:03,399
+potential Clause class-action lawsuit
+
+335
+00:13:03,399 --> 00:13:05,319
+I'm not into those kinds of things I
+
+336
+00:13:05,319 --> 00:13:07,600
+think maybe a lawsuit is a little too
+
+337
+00:13:07,600 --> 00:13:09,610
+excessive it's a little too extreme
+
+338
+00:13:09,610 --> 00:13:13,209
+there for certain games maybe like when
+
+339
+00:13:13,209 --> 00:13:15,550
+they come out completely broken that I'm
+
+340
+00:13:15,550 --> 00:13:17,980
+oh but I was able to play this one but I
+
+341
+00:13:17,980 --> 00:13:19,720
+hear from some people they weren't you
+
+342
+00:13:19,720 --> 00:13:22,870
+able to play so I don't know in lawsuit
+
+343
+00:13:22,870 --> 00:13:26,139
+no lawsuit just revolves around how hey
+
+344
+00:13:26,139 --> 00:13:28,120
+we were giving refunds and then they
+
+345
+00:13:28,120 --> 00:13:29,949
+stripped that away and so it's deceptive
+
+346
+00:13:29,949 --> 00:13:32,199
+business practice which is hey you yeah
+
+347
+00:13:32,199 --> 00:13:33,939
+these people are legally entitled to a
+
+348
+00:13:33,939 --> 00:13:35,800
+refund so when you tell somebody we're
+
+349
+00:13:35,800 --> 00:13:37,149
+gonna give me a refund and then later on
+
+350
+00:13:37,149 --> 00:13:38,290
+you're like we're not going you really
+
+351
+00:13:38,290 --> 00:13:40,779
+fun it's like no fuck you and so that's
+
+352
+00:13:40,779 --> 00:13:42,129
+why they're doing something they're like
+
+353
+00:13:42,129 --> 00:13:43,930
+all right well if you're gonna do that
+
+354
+00:13:43,930 --> 00:13:46,060
+to us we're gonna find some pretty much
+
+355
+00:13:46,060 --> 00:13:48,129
+all you can do yeah all right so yeah I
+
+356
+00:13:48,129 --> 00:13:49,600
+understand that
+
+357
+00:13:49,600 --> 00:13:51,879
+but yeah so players like what I said
+
+358
+00:13:51,879 --> 00:13:54,550
+here's players are done with fallout 76
+
+359
+00:13:54,550 --> 00:13:56,980
+pretty much mostly I mean they'll likely
+
+360
+00:13:56,980 --> 00:13:59,889
+only get back about you know twenty five
+
+361
+00:13:59,889 --> 00:14:01,779
+percent of their users after they fix
+
+362
+00:14:01,779 --> 00:14:02,980
+all this I mean they're they're not
+
+363
+00:14:02,980 --> 00:14:05,350
+addressing from those patch notes the
+
+364
+00:14:05,350 --> 00:14:07,029
+the fourth which is like they need to
+
+365
+00:14:07,029 --> 00:14:09,160
+get big stuff fixed they're not
+
+366
+00:14:09,160 --> 00:14:10,750
+addressing the fact that the final boss
+
+367
+00:14:10,750 --> 00:14:12,160
+scales with player level and is
+
+368
+00:14:12,160 --> 00:14:13,959
+unkillable if you don't cheese the game
+
+369
+00:14:13,959 --> 00:14:16,209
+they're not addressing like any sort of
+
+370
+00:14:16,209 --> 00:14:18,699
+the major game breaking issues like the
+
+371
+00:14:18,699 --> 00:14:21,339
+damage bug like we said or the server
+
+372
+00:14:21,339 --> 00:14:23,769
+crashes stability anything there it's
+
+373
+00:14:23,769 --> 00:14:26,259
+they're not fixing what they need to and
+
+374
+00:14:26,259 --> 00:14:28,089
+it's like yeah things like an fov slider
+
+375
+00:14:28,089 --> 00:14:30,339
+and push-to-talk or cool but it doesn't
+
+376
+00:14:30,339 --> 00:14:32,740
+matter if I can't even log in like and
+
+377
+00:14:32,740 --> 00:14:34,600
+it doesn't matter of so many different
+
+378
+00:14:34,600 --> 00:14:36,189
+game elements of the game are broken
+
+379
+00:14:36,189 --> 00:14:39,279
+we're gonna go over those now but to add
+
+380
+00:14:39,279 --> 00:14:40,509
+on to my point people have already
+
+381
+00:14:40,509 --> 00:14:44,110
+played 30 hours 40 hours 80 hours 120
+
+382
+00:14:44,110 --> 00:14:46,899
+hours that's why it's so important to
+
+383
+00:14:46,899 --> 00:14:50,139
+get your game dawn on release and and
+
+384
+00:14:50,139 --> 00:14:52,540
+get it right the first time okay cuz
+
+385
+00:14:52,540 --> 00:14:54,699
+they're done with it I'm telling you
+
+386
+00:14:54,699 --> 00:14:56,740
+even if you fix it very few players are
+
+387
+00:14:56,740 --> 00:14:59,709
+coming back but maybe for this I don't
+
+388
+00:14:59,709 --> 00:15:01,839
+want them to not fix it because this is
+
+389
+00:15:01,839 --> 00:15:04,149
+something they owe all of us yeah I
+
+390
+00:15:04,149 --> 00:15:08,410
+spent $200 on this plus tax it's
+
+391
+00:15:08,410 --> 00:15:10,569
+ridiculous so you need to fucking fix
+
+392
+00:15:10,569 --> 00:15:11,800
+that but like you said it's probably
+
+393
+00:15:11,800 --> 00:15:14,639
+gonna take forever so anyways I
+
+394
+00:15:14,639 --> 00:15:17,439
+something I had to pull out of my review
+
+395
+00:15:17,439 --> 00:15:19,420
+is the framerate on consoles I really
+
+396
+00:15:19,420 --> 00:15:20,860
+wanted to show you guys this clip from
+
+397
+00:15:20,860 --> 00:15:23,379
+YouTube and these guys did great work
+
+398
+00:15:23,379 --> 00:15:25,689
+baffles show horrendous slow down even
+
+399
+00:15:25,689 --> 00:15:27,639
+patched with frame time spikes all over
+
+400
+00:15:27,639 --> 00:15:29,980
+the place on the Left graph pulling the
+
+401
+00:15:29,980 --> 00:15:31,929
+trigger on any gun and especially for
+
+402
+00:15:31,929 --> 00:15:34,060
+automatics will chew into frame rate
+
+403
+00:15:34,060 --> 00:15:36,010
+until the clips unloaded so what that
+
+404
+00:15:36,010 --> 00:15:37,690
+means is the one moment you need that
+
+405
+00:15:37,690 --> 00:15:39,640
+solid performance is taken away from you
+
+406
+00:15:39,640 --> 00:15:41,980
+taking down enemies with grenades makes
+
+407
+00:15:41,980 --> 00:15:44,350
+it plummet further on ps4 and it becomes
+
+408
+00:15:44,350 --> 00:15:45,940
+too erratic to hold your target reticle
+
+409
+00:15:45,940 --> 00:15:47,710
+on any enemy for much longer than a
+
+410
+00:15:47,710 --> 00:15:50,200
+second this was a problem in fallout 4
+
+411
+00:15:50,200 --> 00:15:52,150
+but it can't go on like this for an
+
+412
+00:15:52,150 --> 00:15:54,250
+online game where team play is a factor
+
+413
+00:15:54,250 --> 00:15:57,580
+and as you can see here on on consoles
+
+414
+00:15:57,580 --> 00:15:59,620
+Dell this shit is even worse it's
+
+415
+00:15:59,620 --> 00:16:01,360
+terrible like the fact that we have
+
+416
+00:16:01,360 --> 00:16:03,850
+high-powered computers probably is why
+
+417
+00:16:03,850 --> 00:16:05,710
+we got a game with the three because we
+
+418
+00:16:05,710 --> 00:16:07,930
+didn't run into any of this type of
+
+419
+00:16:07,930 --> 00:16:11,140
+performance issues if the shit was
+
+420
+00:16:11,140 --> 00:16:13,660
+running 15 frames a second as you see
+
+421
+00:16:13,660 --> 00:16:16,240
+here and I was playing that this shit
+
+422
+00:16:16,240 --> 00:16:17,830
+would have been a - yeah the load times
+
+423
+00:16:17,830 --> 00:16:19,390
+were crazy on some of the places in
+
+424
+00:16:19,390 --> 00:16:21,310
+consoles - like one minute two minutes
+
+425
+00:16:21,310 --> 00:16:23,320
+just to go in and out of a building and
+
+426
+00:16:23,320 --> 00:16:25,390
+it was just I can't imagine that
+
+427
+00:16:25,390 --> 00:16:27,880
+so now considering that the consoles are
+
+428
+00:16:27,880 --> 00:16:30,160
+two out of ten and the PCs probably a
+
+429
+00:16:30,160 --> 00:16:32,500
+three out of ten is what I'm thinking
+
+430
+00:16:32,500 --> 00:16:34,210
+but alright let's go over all the
+
+431
+00:16:34,210 --> 00:16:36,730
+fundamental negatives of the game okay
+
+432
+00:16:36,730 --> 00:16:39,010
+and I want to talk about let's start
+
+433
+00:16:39,010 --> 00:16:41,710
+with PvP first it blows my mind that
+
+434
+00:16:41,710 --> 00:16:43,840
+this game it's okay so did they get the
+
+435
+00:16:43,840 --> 00:16:47,970
+coop right yeah but that ties into
+
+436
+00:16:47,970 --> 00:16:52,300
+another point AI right so you can't
+
+437
+00:16:52,300 --> 00:16:54,790
+really get the coop monster hunt
+
+438
+00:16:54,790 --> 00:16:57,790
+together right when you have shitty AI
+
+439
+00:16:57,790 --> 00:17:01,570
+on everything it is it is honestly one
+
+440
+00:17:01,570 --> 00:17:03,790
+of the it's there brain-dead AI they've
+
+441
+00:17:03,790 --> 00:17:05,800
+had ever since like fallout 3 and Skyrim
+
+442
+00:17:05,800 --> 00:17:08,140
+and they have not innovated at all with
+
+443
+00:17:08,140 --> 00:17:10,270
+it and you go you know like you said
+
+444
+00:17:10,270 --> 00:17:12,700
+co-op is fun and in some cases but every
+
+445
+00:17:12,700 --> 00:17:16,000
+monster is stupid as hell and they just
+
+446
+00:17:16,000 --> 00:17:18,970
+lets you shoot them yep and so these big
+
+447
+00:17:18,970 --> 00:17:20,470
+battles with like death claws and stuff
+
+448
+00:17:20,470 --> 00:17:22,450
+they just go and they just stand there
+
+449
+00:17:22,450 --> 00:17:24,070
+and they growl at you and they die and
+
+450
+00:17:24,070 --> 00:17:25,660
+that's all they do yeah I had one stuck
+
+451
+00:17:25,660 --> 00:17:27,130
+in the alleyway I was picking them off
+
+452
+00:17:27,130 --> 00:17:31,870
+yeah there's like a tiny little trash
+
+453
+00:17:31,870 --> 00:17:33,550
+can in front of him or just like a piece
+
+454
+00:17:33,550 --> 00:17:34,990
+of wood and it just stands there he
+
+455
+00:17:34,990 --> 00:17:36,610
+doesn't understand how to get around it
+
+456
+00:17:36,610 --> 00:17:38,530
+that's the kind of AI you deal with so
+
+457
+00:17:38,530 --> 00:17:39,610
+that's what I said
+
+458
+00:17:39,610 --> 00:17:42,130
+try to talk about PvP he's got two sides
+
+459
+00:17:42,130 --> 00:17:44,230
+co-op in PvP but even the co-op is
+
+460
+00:17:44,230 --> 00:17:47,559
+fucked because of the AI and now the PvP
+
+461
+00:17:47,559 --> 00:17:50,230
+is completely shit I mean they're
+
+462
+00:17:50,230 --> 00:17:52,600
+probably the only good aspect of the PvP
+
+463
+00:17:52,600 --> 00:17:54,460
+is when you do the radio what is that
+
+464
+00:17:54,460 --> 00:17:57,370
+that radio style arena maybe that kind
+
+465
+00:17:57,370 --> 00:17:59,080
+of thing is a little bit better than
+
+466
+00:17:59,080 --> 00:18:01,629
+this random I'm gonna shoot you a bunch
+
+467
+00:18:01,629 --> 00:18:03,730
+of times to let you know I want to fight
+
+468
+00:18:03,730 --> 00:18:03,999
+you
+
+469
+00:18:03,999 --> 00:18:06,070
+yeah and then I met a disadvantage
+
+470
+00:18:06,070 --> 00:18:07,749
+because I'm already using resources to
+
+471
+00:18:07,749 --> 00:18:09,340
+start killing but you don't do any
+
+472
+00:18:09,340 --> 00:18:11,230
+damage you don't do any damage then they
+
+473
+00:18:11,230 --> 00:18:13,210
+get the first shot on you even though
+
+474
+00:18:13,210 --> 00:18:14,769
+you want to start the fight so there's
+
+475
+00:18:14,769 --> 00:18:16,539
+no sneaking up on something so sneaking
+
+476
+00:18:16,539 --> 00:18:18,190
+up on someone even if you're wanted and
+
+477
+00:18:18,190 --> 00:18:19,840
+you're not on the map anymore like you
+
+478
+00:18:19,840 --> 00:18:21,039
+know you're stealth and around you've
+
+479
+00:18:21,039 --> 00:18:23,259
+already flagged yourself even if you
+
+480
+00:18:23,259 --> 00:18:25,539
+find like if your level 200 and you find
+
+481
+00:18:25,539 --> 00:18:27,610
+like a level 7 yeah if you have a the
+
+482
+00:18:27,610 --> 00:18:29,799
+most powerful gun that ever existed 10
+
+483
+00:18:29,799 --> 00:18:31,269
+million damage a shot you're not gonna
+
+484
+00:18:31,269 --> 00:18:33,309
+damage them yeah we showed it we showed
+
+485
+00:18:33,309 --> 00:18:35,110
+you that I'm the exact click which is so
+
+486
+00:18:35,110 --> 00:18:37,240
+funny that we've also got a PvP damage
+
+487
+00:18:37,240 --> 00:18:38,950
+above yeah at the same time one
+
+488
+00:18:38,950 --> 00:18:40,659
+recording that the damage bug effects
+
+489
+00:18:40,659 --> 00:18:43,090
+everything including players I guess
+
+490
+00:18:43,090 --> 00:18:45,639
+which is insane and that was only four
+
+491
+00:18:45,639 --> 00:18:48,580
+minutes of being logged in so yeah I
+
+492
+00:18:48,580 --> 00:18:50,409
+told him for that specific purpose we
+
+493
+00:18:50,409 --> 00:18:52,119
+need to get some footage and it fucking
+
+494
+00:18:52,119 --> 00:18:53,919
+broke it that's hilarious
+
+495
+00:18:53,919 --> 00:18:56,019
+I shot three times and it busted on the
+
+496
+00:18:56,019 --> 00:18:58,419
+third shot and I was like so even if he
+
+497
+00:18:58,419 --> 00:19:00,879
+does initiate combat with you it's not
+
+498
+00:19:00,879 --> 00:19:03,970
+fun the combat in Fallout 76 is just
+
+499
+00:19:03,970 --> 00:19:05,950
+it's not good okay you're running around
+
+500
+00:19:05,950 --> 00:19:09,399
+and you have these piece-of-shit weapons
+
+501
+00:19:09,399 --> 00:19:11,139
+unless you're you know unless you played
+
+502
+00:19:11,139 --> 00:19:15,129
+to level 180 right but you're fighting
+
+503
+00:19:15,129 --> 00:19:17,200
+each other and then your healing and
+
+504
+00:19:17,200 --> 00:19:19,119
+you're fumbling through your inventory
+
+505
+00:19:19,119 --> 00:19:21,909
+and the dice of resources it's only a
+
+506
+00:19:21,909 --> 00:19:25,240
+waste of resources in time and why why
+
+507
+00:19:25,240 --> 00:19:27,340
+what is the endgame once you kill the
+
+508
+00:19:27,340 --> 00:19:29,289
+guy there's nothing and the problem is
+
+509
+00:19:29,289 --> 00:19:31,570
+the person you pvp's and starts it or
+
+510
+00:19:31,570 --> 00:19:33,970
+like a tax up building or something your
+
+511
+00:19:33,970 --> 00:19:36,549
+bounty goes up so fast and you can't
+
+512
+00:19:36,549 --> 00:19:38,440
+fucking kill the people who are coming
+
+513
+00:19:38,440 --> 00:19:40,840
+to kill you correct so not only do you
+
+514
+00:19:40,840 --> 00:19:42,519
+get nothing I mean you get like
+
+515
+00:19:42,519 --> 00:19:44,320
+resources but you know whatever they
+
+516
+00:19:44,320 --> 00:19:46,539
+have even cool shit yeah you don't see
+
+517
+00:19:46,539 --> 00:19:48,669
+the cool shit that they have and pull it
+
+518
+00:19:48,669 --> 00:19:50,919
+off instead what you get is a huge
+
+519
+00:19:50,919 --> 00:19:52,809
+fucking bounty you don't really get
+
+520
+00:19:52,809 --> 00:19:54,789
+anything rewarding is what I mean you
+
+521
+00:19:54,789 --> 00:19:56,440
+get this huge bounty so you get nothing
+
+522
+00:19:56,440 --> 00:19:58,240
+but negative and that's why in the game
+
+523
+00:19:58,240 --> 00:20:01,390
+nobody pvp's nobody nobody
+
+524
+00:20:01,390 --> 00:20:05,410
+and that's the point when 50% of your
+
+525
+00:20:05,410 --> 00:20:08,470
+game idea or 30% whatever you want to
+
+526
+00:20:08,470 --> 00:20:10,900
+quantify it as is completely
+
+527
+00:20:10,900 --> 00:20:14,580
+non-existent and broken that that's
+
+528
+00:20:14,580 --> 00:20:15,730
+awful
+
+529
+00:20:15,730 --> 00:20:17,679
+and what was messed up is we tried some
+
+530
+00:20:17,679 --> 00:20:19,480
+of the PvP events where you're supposed
+
+531
+00:20:19,480 --> 00:20:21,130
+to fight each other right and there were
+
+532
+00:20:21,130 --> 00:20:22,630
+times where it was so buggy we were
+
+533
+00:20:22,630 --> 00:20:24,940
+getting bounties for fighting in an area
+
+534
+00:20:24,940 --> 00:20:27,940
+designed to PvP in completely broke
+
+535
+00:20:27,940 --> 00:20:33,190
+absolutely busted like absolutely all
+
+536
+00:20:33,190 --> 00:20:35,890
+right but okay so and then not only that
+
+537
+00:20:35,890 --> 00:20:38,950
+but the respawn so you kill this guy and
+
+538
+00:20:38,950 --> 00:20:41,559
+he responds right next to you and then
+
+539
+00:20:41,559 --> 00:20:44,350
+starting fighting again like in some
+
+540
+00:20:44,350 --> 00:20:46,480
+cases like 10 feet away from you because
+
+541
+00:20:46,480 --> 00:20:48,549
+you are now bountied and you are now
+
+542
+00:20:48,549 --> 00:20:50,830
+able to be shot and killed and it just
+
+543
+00:20:50,830 --> 00:20:52,990
+goes over and over in this big loop
+
+544
+00:20:52,990 --> 00:20:54,790
+until one of you is like fucking I don't
+
+545
+00:20:54,790 --> 00:20:56,380
+want to do this anymore than you long
+
+546
+00:20:56,380 --> 00:20:59,530
+ago oh fuck finds that fun no one who
+
+547
+00:20:59,530 --> 00:21:06,940
+nobody you know what we should implement
+
+548
+00:21:06,940 --> 00:21:14,530
+oh I know I want PvP and fallout I think
+
+549
+00:21:14,530 --> 00:21:16,929
+it would be a great idea let's let's
+
+550
+00:21:16,929 --> 00:21:18,730
+talk about how they could have fucking
+
+551
+00:21:18,730 --> 00:21:22,210
+done it right you know I mean way way
+
+552
+00:21:22,210 --> 00:21:24,610
+bigger map and actual factions you can
+
+553
+00:21:24,610 --> 00:21:26,559
+form we're like the only two ideas like
+
+554
+00:21:26,559 --> 00:21:28,179
+they have they have they have talked
+
+555
+00:21:28,179 --> 00:21:30,400
+about faction based PvP oh they talked
+
+556
+00:21:30,400 --> 00:21:35,620
+about but what I think it would be
+
+557
+00:21:35,620 --> 00:21:37,630
+better is if you start letting us see
+
+558
+00:21:37,630 --> 00:21:41,080
+servers right and you give us some PvP
+
+559
+00:21:41,080 --> 00:21:42,790
+servers were you going it's a hardcore
+
+560
+00:21:42,790 --> 00:21:45,540
+fucking server you go in there and
+
+561
+00:21:45,540 --> 00:21:48,250
+somebody could kill you at any time now
+
+562
+00:21:48,250 --> 00:21:50,230
+yeah it's a little unfair with the level
+
+563
+00:21:50,230 --> 00:21:52,780
+1 ATS like you're you're organized if
+
+564
+00:21:52,780 --> 00:21:54,610
+you get lucky and get a legendary like
+
+565
+00:21:54,610 --> 00:21:56,530
+the one I got that does like 5,000
+
+566
+00:21:56,530 --> 00:21:58,360
+damage exactly it doesn't matter it does
+
+567
+00:21:58,360 --> 00:21:59,770
+not matter how good the other players
+
+568
+00:21:59,770 --> 00:22:02,679
+and it's level 15 gone I'm using a level
+
+569
+00:22:02,679 --> 00:22:04,480
+15 can you right but that see that
+
+570
+00:22:04,480 --> 00:22:06,760
+exposes something in the game it would
+
+571
+00:22:06,760 --> 00:22:09,340
+not be fun it wouldn't be fun because
+
+572
+00:22:09,340 --> 00:22:11,770
+you have these these legendary dice
+
+573
+00:22:11,770 --> 00:22:13,360
+rolls on your weapons that can kill
+
+574
+00:22:13,360 --> 00:22:15,250
+somebody in one shot it's literally
+
+575
+00:22:15,250 --> 00:22:18,490
+like it's like judged level 37 and he
+
+576
+00:22:18,490 --> 00:22:20,230
+has that gun and he shoots you and and
+
+577
+00:22:20,230 --> 00:22:22,210
+he's bought ask naked like his character
+
+578
+00:22:22,210 --> 00:22:24,460
+likes dragon yeah I could be drugged out
+
+579
+00:22:24,460 --> 00:22:26,470
+of my mind in the best armor have the
+
+580
+00:22:26,470 --> 00:22:28,600
+perfect stats that guns gonna want at me
+
+581
+00:22:28,600 --> 00:22:31,540
+every single time so so they have this
+
+582
+00:22:31,540 --> 00:22:32,980
+fundamental problem because they didn't
+
+583
+00:22:32,980 --> 00:22:35,230
+design the game from the ground up with
+
+584
+00:22:35,230 --> 00:22:37,570
+PvP and mind to where okay if we have
+
+585
+00:22:37,570 --> 00:22:39,520
+PvP servers we need to balance some of
+
+586
+00:22:39,520 --> 00:22:41,680
+these things and now they have to go in
+
+587
+00:22:41,680 --> 00:22:44,710
+and back and do all of that balancing if
+
+588
+00:22:44,710 --> 00:22:46,060
+they want to do it right which I don't
+
+589
+00:22:46,060 --> 00:22:47,980
+think is ever gonna happen no it's not
+
+590
+00:22:47,980 --> 00:22:51,490
+at this point if they balanced PvP like
+
+591
+00:22:51,490 --> 00:22:53,080
+if they went and started changing the
+
+592
+00:22:53,080 --> 00:22:55,390
+core fundamentals of their game for PvP
+
+593
+00:22:55,390 --> 00:22:57,960
+it would completely break the PvP or PvE
+
+594
+00:22:57,960 --> 00:23:01,240
+aspect and I'd say about 95% of the
+
+595
+00:23:01,240 --> 00:23:02,740
+players at this point don't even want to
+
+596
+00:23:02,740 --> 00:23:04,150
+fight each other because the taste has
+
+597
+00:23:04,150 --> 00:23:04,780
+been ruined
+
+598
+00:23:04,780 --> 00:23:06,580
+yeah well that well that's what I'm
+
+599
+00:23:06,580 --> 00:23:07,780
+saying there needs to be separate
+
+600
+00:23:07,780 --> 00:23:08,980
+servers you have your role-playing
+
+601
+00:23:08,980 --> 00:23:11,350
+servers you have your PvP servers and
+
+602
+00:23:11,350 --> 00:23:12,970
+then you just have your casual servers
+
+603
+00:23:12,970 --> 00:23:14,080
+for people that just want to
+
+604
+00:23:14,080 --> 00:23:17,880
+cooperatively beat up on a shitty AI
+
+605
+00:23:17,880 --> 00:23:21,160
+right so so that's a fundamental broken
+
+606
+00:23:21,160 --> 00:23:25,150
+piece of your game the AI the PvP the
+
+607
+00:23:25,150 --> 00:23:26,770
+endgame talk to us a little bit about
+
+608
+00:23:26,770 --> 00:23:28,690
+the endgame Dale since me and Joe didn't
+
+609
+00:23:28,690 --> 00:23:30,970
+give a fuck enough to go to the endgame
+
+610
+00:23:30,970 --> 00:23:33,520
+so the entire endgame is around the
+
+611
+00:23:33,520 --> 00:23:35,110
+Scorch those really generic
+
+612
+00:23:35,110 --> 00:23:37,480
+means that apparently everybody turned
+
+613
+00:23:37,480 --> 00:23:40,000
+into in five minutes I'm stupid that
+
+614
+00:23:40,000 --> 00:23:41,350
+there's no Raiders at least Raiders have
+
+615
+00:23:41,350 --> 00:23:43,270
+personality if they talk to you they
+
+616
+00:23:43,270 --> 00:23:45,880
+taunt you you can hear conversations of
+
+617
+00:23:45,880 --> 00:23:47,620
+them talking to each other it feels
+
+618
+00:23:47,620 --> 00:23:50,050
+alive scorched yes they're fucking
+
+619
+00:23:50,050 --> 00:23:52,570
+zombies so you gotta launch a nuke you
+
+620
+00:23:52,570 --> 00:23:54,070
+got a nuke this thing called a fissure
+
+621
+00:23:54,070 --> 00:23:56,080
+you there's the prime fissure which is
+
+622
+00:23:56,080 --> 00:23:57,670
+where the Scorch beast queen the person
+
+623
+00:23:57,670 --> 00:23:58,960
+that's are the thing that started all
+
+624
+00:23:58,960 --> 00:24:02,380
+this is and so the idea is you launch a
+
+625
+00:24:02,380 --> 00:24:04,150
+nuke on her she pops out you fight her
+
+626
+00:24:04,150 --> 00:24:06,340
+you have 30 minutes to fight her but the
+
+627
+00:24:06,340 --> 00:24:08,410
+problem is if you have anybody above
+
+628
+00:24:08,410 --> 00:24:10,570
+like level 30 trigger her sh her level
+
+629
+00:24:10,570 --> 00:24:12,400
+scales based on the character that
+
+630
+00:24:12,400 --> 00:24:15,070
+spawns her and so she's supposed to have
+
+631
+00:24:15,070 --> 00:24:16,690
+preset health she has like 5 million
+
+632
+00:24:16,690 --> 00:24:18,700
+health or something preset at level 50
+
+633
+00:24:18,700 --> 00:24:21,520
+if I run in and spawner at level 95 she
+
+634
+00:24:21,520 --> 00:24:25,090
+has hundreds of millions of HP you saw
+
+635
+00:24:25,090 --> 00:24:26,560
+that gun the gun that was killing those
+
+636
+00:24:26,560 --> 00:24:28,720
+mirelurk Queens in one shot yeah
+
+637
+00:24:28,720 --> 00:24:30,909
+it was moving her health a fraction of a
+
+638
+00:24:30,909 --> 00:24:32,890
+fraction of a parcel yeah and it was
+
+639
+00:24:32,890 --> 00:24:35,350
+like I'm hitting therefore 5,000 damage
+
+640
+00:24:35,350 --> 00:24:37,150
+every shot my allies were unloading
+
+641
+00:24:37,150 --> 00:24:38,740
+thousands of rounds in her health is
+
+642
+00:24:38,740 --> 00:24:41,770
+like one inch not even bene and that's
+
+643
+00:24:41,770 --> 00:24:43,150
+why we said in the review it's a
+
+644
+00:24:43,150 --> 00:24:44,980
+complete waste of say I can't do it
+
+645
+00:24:44,980 --> 00:24:47,380
+unless once you kill her she drops yeah
+
+646
+00:24:47,380 --> 00:24:49,120
+she's gonna drop some three-star
+
+647
+00:24:49,120 --> 00:24:51,070
+Legendary's and some schematics for like
+
+648
+00:24:51,070 --> 00:24:53,260
+the ultra site stuff but that's not even
+
+649
+00:24:53,260 --> 00:24:55,720
+worth it yeah exactly you can find you
+
+650
+00:24:55,720 --> 00:24:57,370
+can get lucky and then you can get lucky
+
+651
+00:24:57,370 --> 00:24:59,409
+and not fight her and get way better
+
+652
+00:24:59,409 --> 00:25:01,179
+weapons what we're saying so your end
+
+653
+00:25:01,179 --> 00:25:02,440
+game is completely fucked
+
+654
+00:25:02,440 --> 00:25:05,950
+you have the nukes that that the codes
+
+655
+00:25:05,950 --> 00:25:09,340
+are on fucking ready Joe pissing me off
+
+656
+00:25:09,340 --> 00:25:14,049
+yeah you waste your time right just like
+
+657
+00:25:14,049 --> 00:25:15,610
+you know these codes I already got the
+
+658
+00:25:15,610 --> 00:25:18,429
+codes what and then you drop you
+
+659
+00:25:18,429 --> 00:25:20,140
+everybody goes to alpha cuz it's the
+
+660
+00:25:20,140 --> 00:25:22,419
+easiest and then you drop the fucking
+
+661
+00:25:22,419 --> 00:25:24,010
+nukes but don't drop more than one at
+
+662
+00:25:24,010 --> 00:25:27,580
+the same crash the problem is now that
+
+663
+00:25:27,580 --> 00:25:29,740
+we know what the nukes do we were
+
+664
+00:25:29,740 --> 00:25:31,780
+willing to do the code thing before now
+
+665
+00:25:31,780 --> 00:25:33,580
+that we are before we knew what they did
+
+666
+00:25:33,580 --> 00:25:34,870
+like we thought it would be way cooler
+
+667
+00:25:34,870 --> 00:25:37,000
+than it was but now that we know that it
+
+668
+00:25:37,000 --> 00:25:38,919
+just spawns some glowing guys that kind
+
+669
+00:25:38,919 --> 00:25:40,600
+of could drop loot like if they went to
+
+670
+00:25:40,600 --> 00:25:42,100
+the sisters up some buildings if you
+
+671
+00:25:42,100 --> 00:25:43,360
+built a fucking camp
+
+672
+00:25:43,360 --> 00:25:44,590
+but you could just rebuild your camp
+
+673
+00:25:44,590 --> 00:25:46,210
+instantly and if they went to the system
+
+674
+00:25:46,210 --> 00:25:47,679
+where it was randomized every time
+
+675
+00:25:47,679 --> 00:25:49,179
+nobody would launch nukes anymore
+
+676
+00:25:49,179 --> 00:25:50,950
+because that's like hours and hours of
+
+677
+00:25:50,950 --> 00:25:53,169
+work for something that's not even worth
+
+678
+00:25:53,169 --> 00:25:55,150
+30 minutes of your time laughter it
+
+679
+00:25:55,150 --> 00:25:57,610
+happens so the world events are all lame
+
+680
+00:25:57,610 --> 00:26:00,400
+you know like feed people no I don't
+
+681
+00:26:00,400 --> 00:26:02,169
+want to fucking feed people feed them
+
+682
+00:26:02,169 --> 00:26:09,820
+nukes like we said but you see this is
+
+683
+00:26:09,820 --> 00:26:11,320
+the stuff that players want to do cuz
+
+684
+00:26:11,320 --> 00:26:13,240
+players are shitty right see if there
+
+685
+00:26:13,240 --> 00:26:14,919
+was a human settlement guess where that
+
+686
+00:26:14,919 --> 00:26:19,000
+nuke is going today it was in the wall
+
+687
+00:26:19,000 --> 00:26:20,860
+three you remember like how cool would
+
+688
+00:26:20,860 --> 00:26:22,179
+it have been if there was like actual
+
+689
+00:26:22,179 --> 00:26:24,130
+NPC towns and when you nuke them like
+
+690
+00:26:24,130 --> 00:26:26,380
+you get the implement they're named but
+
+691
+00:26:26,380 --> 00:26:28,600
+they're like horribly mutated and you
+
+692
+00:26:28,600 --> 00:26:30,070
+could be like I'm killing the vendor I
+
+693
+00:26:30,070 --> 00:26:33,510
+didn't like cuz he's a zombie
+
+694
+00:26:33,510 --> 00:26:38,860
+nope so just the idea of a multiplayer
+
+695
+00:26:38,860 --> 00:26:40,620
+Fallout can be done right and the
+
+696
+00:26:40,620 --> 00:26:43,650
+game is nothing is nowhere near the
+
+697
+00:26:43,650 --> 00:26:45,870
+quests were so boring like it didn't
+
+698
+00:26:45,870 --> 00:26:49,050
+want me to pursue anything else with
+
+699
+00:26:49,050 --> 00:26:51,780
+these holotapes I didn't like these
+
+700
+00:26:51,780 --> 00:26:58,020
+holidays yeah that's it tape us are lame
+
+701
+00:26:58,020 --> 00:27:00,330
+what is the most fun quest Dale that you
+
+702
+00:27:00,330 --> 00:27:06,780
+ran into I don't know maybe it's the
+
+703
+00:27:06,780 --> 00:27:09,750
+Brotherhood of Steel bass line in the
+
+704
+00:27:09,750 --> 00:27:12,030
+sand it was a world event where you're
+
+705
+00:27:12,030 --> 00:27:13,410
+in like a fort and there's a missile
+
+706
+00:27:13,410 --> 00:27:15,570
+launcher and the Skyrim dragons flying
+
+707
+00:27:15,570 --> 00:27:17,070
+around and you're like defending and
+
+708
+00:27:17,070 --> 00:27:18,960
+guarding them is that first time I did
+
+709
+00:27:18,960 --> 00:27:21,679
+that I was like okay this is this is
+
+710
+00:27:21,679 --> 00:27:24,390
+this is one that they should have put
+
+711
+00:27:24,390 --> 00:27:26,460
+right at the beginning okay do you
+
+712
+00:27:26,460 --> 00:27:27,809
+imagine that one right at the beginning
+
+713
+00:27:27,809 --> 00:27:31,230
+or at least maybe midway like okay but
+
+714
+00:27:31,230 --> 00:27:32,960
+that's like the end of the game I know
+
+715
+00:27:32,960 --> 00:27:35,730
+and if there were multiple ones of these
+
+716
+00:27:35,730 --> 00:27:37,410
+then you're on the right track instead
+
+717
+00:27:37,410 --> 00:27:40,410
+you got turn the water valves and and to
+
+718
+00:27:40,410 --> 00:27:42,330
+make some you can have that in the game
+
+719
+00:27:42,330 --> 00:27:43,890
+but those need to be filler and in
+
+720
+00:27:43,890 --> 00:27:45,960
+between and you need to make them unique
+
+721
+00:27:45,960 --> 00:27:47,790
+okay well yeah we don't want to tell
+
+722
+00:27:47,790 --> 00:27:49,320
+people to just turn this water valve we
+
+723
+00:27:49,320 --> 00:27:50,640
+want to tell people turn the water valve
+
+724
+00:27:50,640 --> 00:27:52,440
+and then water actually starts to flow
+
+725
+00:27:52,440 --> 00:27:54,690
+in that amusement park and it's all
+
+726
+00:27:54,690 --> 00:27:57,420
+radiated and then and it does something
+
+727
+00:27:57,420 --> 00:27:59,640
+or it shows it to you but it doesn't do
+
+728
+00:27:59,640 --> 00:28:00,150
+any of that
+
+729
+00:28:00,150 --> 00:28:01,890
+it does jack-shit you want to know
+
+730
+00:28:01,890 --> 00:28:03,809
+something hilarious what so you know the
+
+731
+00:28:03,809 --> 00:28:06,030
+overseer quests you know how she's like
+
+732
+00:28:06,030 --> 00:28:07,710
+leaving tapes for you but you never meet
+
+733
+00:28:07,710 --> 00:28:10,200
+her she's still alive if you go in and
+
+734
+00:28:10,200 --> 00:28:12,360
+into one of the silos and you read the
+
+735
+00:28:12,360 --> 00:28:13,770
+tit you grab the tape out of the box
+
+736
+00:28:13,770 --> 00:28:15,210
+before you go in she's like I found a
+
+737
+00:28:15,210 --> 00:28:17,160
+silo this is cool when you go in there
+
+738
+00:28:17,160 --> 00:28:19,200
+and you come back out you left another
+
+739
+00:28:19,200 --> 00:28:21,300
+tape for you that's like how could you
+
+740
+00:28:21,300 --> 00:28:22,920
+launch this nuke and it's like why
+
+741
+00:28:22,920 --> 00:28:24,720
+didn't you just say that to my face
+
+742
+00:28:24,720 --> 00:28:27,240
+like you were here five minutes ago yeah
+
+743
+00:28:27,240 --> 00:28:29,580
+well it that that happens from time to
+
+744
+00:28:29,580 --> 00:28:31,650
+time in these holotapes where the
+
+745
+00:28:31,650 --> 00:28:34,020
+holotape knows exactly when you do
+
+746
+00:28:34,020 --> 00:28:35,550
+something you remember that Joe we were
+
+747
+00:28:35,550 --> 00:28:38,100
+like searching in an airport and we were
+
+748
+00:28:38,100 --> 00:28:41,520
+doing a stupid Patrol and that we went
+
+749
+00:28:41,520 --> 00:28:43,440
+to go do something and the tape was
+
+750
+00:28:43,440 --> 00:28:45,150
+talking to us like oh good you killed
+
+751
+00:28:45,150 --> 00:28:50,130
+all those things like wait a minute do
+
+752
+00:28:50,130 --> 00:28:52,960
+that you knew which ones we killed so
+
+753
+00:28:52,960 --> 00:28:56,500
+so stupid that there is no human NPCs
+
+754
+00:28:56,500 --> 00:28:57,669
+and that's the other thing
+
+755
+00:28:57,669 --> 00:29:01,059
+human NPCs why did they not include it
+
+756
+00:29:01,059 --> 00:29:03,370
+because there are actually NPCs in this
+
+757
+00:29:03,370 --> 00:29:05,620
+game there are but they're not human
+
+758
+00:29:05,620 --> 00:29:08,860
+yeah there's the super mutant with his
+
+759
+00:29:08,860 --> 00:29:14,020
+cow yep so funny anyways
+
+760
+00:29:14,020 --> 00:29:16,990
+Bessy the MooMoo yeah Holly the movement
+
+761
+00:29:16,990 --> 00:29:19,840
+the movement see like that is the kind
+
+762
+00:29:19,840 --> 00:29:21,940
+of if we had way more interesting guys
+
+763
+00:29:21,940 --> 00:29:24,130
+like that and he's funny and he's
+
+764
+00:29:24,130 --> 00:29:28,419
+awesome but you have one you got one and
+
+765
+00:29:28,419 --> 00:29:31,029
+that proves that they can have NPCs
+
+766
+00:29:31,029 --> 00:29:33,490
+right so you know at first I thought
+
+767
+00:29:33,490 --> 00:29:35,500
+maybe if you have NPCs it breaks the
+
+768
+00:29:35,500 --> 00:29:37,659
+game or Bethesda simply didn't know how
+
+769
+00:29:37,659 --> 00:29:39,490
+to do it because if you have human and
+
+770
+00:29:39,490 --> 00:29:41,260
+then you kill the human then your quest
+
+771
+00:29:41,260 --> 00:29:44,559
+line is fucked but guys do you really
+
+772
+00:29:44,559 --> 00:29:46,419
+need me to explain it to you this was
+
+773
+00:29:46,419 --> 00:29:51,010
+figured out in like 1999 8 where you Jin
+
+774
+00:29:51,010 --> 00:29:53,980
+mmo's you let people kill them but they
+
+775
+00:29:53,980 --> 00:29:56,020
+just get knocked out and then they get
+
+776
+00:29:56,020 --> 00:29:58,450
+back they reach five minutes or
+
+777
+00:29:58,450 --> 00:30:00,789
+something exactly you give that person
+
+778
+00:30:00,789 --> 00:30:03,130
+the satisfaction of killing him and then
+
+779
+00:30:03,130 --> 00:30:05,620
+if you want some penalties they're then
+
+780
+00:30:05,620 --> 00:30:07,840
+put a fucking huge bounty on him and
+
+781
+00:30:07,840 --> 00:30:10,390
+make him read immediately sort everybody
+
+782
+00:30:10,390 --> 00:30:11,890
+in the world can sneak up on him and
+
+783
+00:30:11,890 --> 00:30:14,320
+kill him for killing an NPC even though
+
+784
+00:30:14,320 --> 00:30:16,149
+that NPC gets backed up after being
+
+785
+00:30:16,149 --> 00:30:17,980
+knocked out like in Skyrim their own
+
+786
+00:30:17,980 --> 00:30:19,990
+fucking game already did it they have
+
+787
+00:30:19,990 --> 00:30:24,490
+the solution like you said I don't know
+
+788
+00:30:24,490 --> 00:30:26,230
+if it was Todd the thought that players
+
+789
+00:30:26,230 --> 00:30:28,120
+were gonna want to be role players but
+
+790
+00:30:28,120 --> 00:30:30,429
+you didn't even put systems in the game
+
+791
+00:30:30,429 --> 00:30:33,640
+to incentivize them to act like that to
+
+792
+00:30:33,640 --> 00:30:36,760
+be NPCs so why would they ever write
+
+793
+00:30:36,760 --> 00:30:39,820
+like there's no real like economy where
+
+794
+00:30:39,820 --> 00:30:42,340
+you know I I saw this video on one guy
+
+795
+00:30:42,340 --> 00:30:43,929
+was talking about like you can make all
+
+796
+00:30:43,929 --> 00:30:45,970
+the best prime rib steaks in the game
+
+797
+00:30:45,970 --> 00:30:47,320
+and everybody's gonna come to you two
+
+798
+00:30:47,320 --> 00:30:49,120
+for the best prime rib steaks I'm like
+
+799
+00:30:49,120 --> 00:30:51,010
+what the fuck are you talking they're
+
+800
+00:30:51,010 --> 00:30:53,470
+not but as you forget some power you can
+
+801
+00:30:53,470 --> 00:30:55,210
+decide like I'm gonna focus on I'm
+
+802
+00:30:55,210 --> 00:30:56,559
+cooking it and you might want to vet you
+
+803
+00:30:56,559 --> 00:30:57,520
+can sell these things
+
+804
+00:30:57,520 --> 00:30:59,200
+to other people on the game so you're
+
+805
+00:30:59,200 --> 00:31:00,670
+like I make the best we're by stake in
+
+806
+00:31:00,670 --> 00:31:03,040
+the game it'll it'll over fulfil you and
+
+807
+00:31:03,040 --> 00:31:05,620
+give you a health bonus and here you go
+
+808
+00:31:05,620 --> 00:31:09,700
+40 caps yeah I can farmer myself in five
+
+809
+00:31:09,700 --> 00:31:11,050
+minutes what are you on about
+
+810
+00:31:11,050 --> 00:31:12,880
+yeah so I have no idea what they were
+
+811
+00:31:12,880 --> 00:31:14,710
+going with with this game sometimes you
+
+812
+00:31:14,710 --> 00:31:16,510
+think it's a survival sometimes you
+
+813
+00:31:16,510 --> 00:31:18,190
+think it's just a co-op fallout and
+
+814
+00:31:18,190 --> 00:31:20,230
+sometimes you think it's an MMO but
+
+815
+00:31:20,230 --> 00:31:21,970
+that's the big problem is that the
+
+816
+00:31:21,970 --> 00:31:23,920
+design team are making these three
+
+817
+00:31:23,920 --> 00:31:26,050
+different games and none of them were
+
+818
+00:31:26,050 --> 00:31:28,480
+very good and all of the design
+
+819
+00:31:28,480 --> 00:31:30,430
+decisions behind the game were wrong
+
+820
+00:31:30,430 --> 00:31:34,870
+yeah they were terrible wrong bring that
+
+821
+00:31:34,870 --> 00:31:43,390
+back Superman alright guys time to make
+
+822
+00:31:43,390 --> 00:31:45,730
+it fun at this fucking game but I'm
+
+823
+00:31:45,730 --> 00:31:52,120
+gonna continue that's let's go on I'm so
+
+824
+00:31:52,120 --> 00:31:52,780
+tired
+
+825
+00:31:52,780 --> 00:31:55,120
+let's there's so much shit in this game
+
+826
+00:31:55,120 --> 00:31:57,700
+that sucks John I know that in between
+
+827
+00:31:57,700 --> 00:31:59,290
+like a lot of these things we talk about
+
+828
+00:31:59,290 --> 00:32:01,330
+he's gonna show all the extra clips that
+
+829
+00:32:01,330 --> 00:32:04,150
+we find there was like 50 extra twitch
+
+830
+00:32:04,150 --> 00:32:06,220
+clips we got from just stupid bugs and
+
+831
+00:32:06,220 --> 00:32:26,840
+they were fantastic
+
+832
+00:32:26,840 --> 00:32:29,399
+okay so fuck vats let's not even talk
+
+833
+00:32:29,399 --> 00:32:31,169
+about it let's talk about the fact that
+
+834
+00:32:31,169 --> 00:32:34,639
+you can capture bases and sell the shit
+
+835
+00:32:34,639 --> 00:32:37,500
+Delta tell me what's happening here so I
+
+836
+00:32:37,500 --> 00:32:40,139
+found out that even if somebody puts
+
+837
+00:32:40,139 --> 00:32:42,750
+down a ton of turrets the workbench that
+
+838
+00:32:42,750 --> 00:32:44,309
+you capture to get the place to build
+
+839
+00:32:44,309 --> 00:32:46,320
+anyway in the first place if you just
+
+840
+00:32:46,320 --> 00:32:48,480
+walk up to it and capture it back their
+
+841
+00:32:48,480 --> 00:32:50,279
+turrets don't even shoot you and then
+
+842
+00:32:50,279 --> 00:32:51,809
+when you captured you could just help
+
+843
+00:32:51,809 --> 00:32:56,309
+authors and and I was like no no fucking
+
+844
+00:32:56,309 --> 00:32:59,130
+way and is there a negative to that
+
+845
+00:32:59,130 --> 00:33:00,960
+person that built all those turrets did
+
+846
+00:33:00,960 --> 00:33:03,090
+he waste all those resources they spent
+
+847
+00:33:03,090 --> 00:33:04,529
+goes away you don't get a bounty or
+
+848
+00:33:04,529 --> 00:33:11,210
+anything nothing do you see do you see
+
+849
+00:33:11,210 --> 00:33:14,279
+though this was not planned out oh I
+
+850
+00:33:14,279 --> 00:33:16,710
+need an explanation for this but does I
+
+851
+00:33:16,710 --> 00:33:18,929
+really do because this worries the fuck
+
+852
+00:33:18,929 --> 00:33:21,870
+out of me I think I have one okay I'm
+
+853
+00:33:21,870 --> 00:33:24,059
+about to blow y'all's minds okay okay
+
+854
+00:33:24,059 --> 00:33:26,100
+how did this happen
+
+855
+00:33:26,100 --> 00:33:29,309
+Todd number one Todd lying to us
+
+856
+00:33:29,309 --> 00:33:32,330
+yeah okay Todd or what would you call it
+
+857
+00:33:32,330 --> 00:33:36,059
+some people you know they'll kill me if
+
+858
+00:33:36,059 --> 00:33:37,919
+I say anything bad about Todd he was
+
+859
+00:33:37,919 --> 00:33:40,740
+hyping his game up to an insane level
+
+860
+00:33:40,740 --> 00:33:43,110
+that it started to become disingenuous
+
+861
+00:33:43,110 --> 00:33:45,899
+just like the no man skies not even not
+
+862
+00:33:45,899 --> 00:33:47,580
+even know shittin like there were
+
+863
+00:33:47,580 --> 00:33:50,429
+straight-up lies in the press conference
+
+864
+00:33:50,429 --> 00:33:52,080
+about things that weren't even in the
+
+865
+00:33:52,080 --> 00:33:54,029
+game yeah I mean interviews yeah but
+
+866
+00:33:54,029 --> 00:33:55,740
+okay by now I could show you clips of
+
+867
+00:33:55,740 --> 00:33:57,360
+those but instead I'm gonna tell you
+
+868
+00:33:57,360 --> 00:33:59,880
+that you know he said like all of these
+
+869
+00:33:59,880 --> 00:34:02,970
+studios fallout 76 is by far the largest
+
+870
+00:34:02,970 --> 00:34:04,860
+project that we've ever done it
+
+871
+00:34:04,860 --> 00:34:07,559
+encompasses parts of the studio in
+
+872
+00:34:07,559 --> 00:34:08,190
+Maryland
+
+873
+00:34:08,190 --> 00:34:10,260
+Austin Montreal for Bethesda Game
+
+874
+00:34:10,260 --> 00:34:12,480
+Studios as well as we're getting a lot
+
+875
+00:34:12,480 --> 00:34:14,240
+of help from other parts of Bethesda
+
+876
+00:34:14,240 --> 00:34:16,770
+some of the great folks at ed software
+
+877
+00:34:16,770 --> 00:34:20,280
+our pain is that our max online and so
+
+878
+00:34:20,280 --> 00:34:22,889
+it really is a huge undertaking not just
+
+879
+00:34:22,889 --> 00:34:24,599
+for us but all parts of Bethesda
+
+880
+00:34:24,599 --> 00:34:27,510
+listeners one two three four five
+
+881
+00:34:27,510 --> 00:34:29,849
+studios that worked on this I really
+
+882
+00:34:29,849 --> 00:34:32,940
+think that this was only worked on yeah
+
+883
+00:34:32,940 --> 00:34:35,010
+those studios did contribute probably
+
+884
+00:34:35,010 --> 00:34:36,690
+like the old assets hey do you have that
+
+885
+00:34:36,690 --> 00:34:40,589
+uh fuckin horse can all right skin that
+
+886
+00:34:40,589 --> 00:34:53,490
+texture yeah well that's kind of the
+
+887
+00:34:53,490 --> 00:34:55,829
+other studios oh so don't fucking throw
+
+888
+00:34:55,829 --> 00:34:58,290
+ID under the bus and shit they're all
+
+889
+00:34:58,290 --> 00:35:00,119
+making do them they're like wait what we
+
+890
+00:35:00,119 --> 00:35:11,880
+do it's probably what happened anyway so
+
+891
+00:35:11,880 --> 00:35:13,410
+I think what happened and it breaks my
+
+892
+00:35:13,410 --> 00:35:15,569
+heart cuz I live in Austin I love Austin
+
+893
+00:35:15,569 --> 00:35:17,760
+I love Austin studios but I think this
+
+894
+00:35:17,760 --> 00:35:19,650
+game was developed primarily by the
+
+895
+00:35:19,650 --> 00:35:22,619
+Austin studios that got their game got
+
+896
+00:35:22,619 --> 00:35:25,369
+shut down and shuttered this was
+
+897
+00:35:25,369 --> 00:35:27,869
+Bethesda it they rolled it into Bethesda
+
+898
+00:35:27,869 --> 00:35:29,460
+Game Studios and they've not put out a
+
+899
+00:35:29,460 --> 00:35:32,160
+game yet okay this feels like a first
+
+900
+00:35:32,160 --> 00:35:34,650
+attempt this feels like the talent is
+
+901
+00:35:34,650 --> 00:35:36,660
+not quite at the level of their other
+
+902
+00:35:36,660 --> 00:35:38,670
+Triple A studios who have delivered
+
+903
+00:35:38,670 --> 00:35:39,960
+games I'm not saying you're talentless
+
+904
+00:35:39,960 --> 00:35:41,400
+I'm just saying you're new at this and
+
+905
+00:35:41,400 --> 00:35:43,190
+this what's that what that feels like
+
+906
+00:35:43,190 --> 00:35:46,740
+there was a game called battle right no
+
+907
+00:35:46,740 --> 00:35:49,109
+battle cry does anybody remember this
+
+908
+00:35:49,109 --> 00:35:52,950
+know you're I was walking around in e3
+
+909
+00:35:52,950 --> 00:35:55,410
+and some of the paksas they had big
+
+910
+00:35:55,410 --> 00:35:57,510
+booths for this game it's a bethesda
+
+911
+00:35:57,510 --> 00:35:59,190
+game it never came out that was being
+
+912
+00:35:59,190 --> 00:36:01,380
+worked on by the austin studio battle
+
+913
+00:36:01,380 --> 00:36:03,660
+cry or something like that and it was
+
+914
+00:36:03,660 --> 00:36:06,510
+basically a copy again it was a copy of
+
+915
+00:36:06,510 --> 00:36:09,180
+overwatch I wanted to get into the hero
+
+916
+00:36:09,180 --> 00:36:11,819
+arena shooter apparently it wasn't good
+
+917
+00:36:11,819 --> 00:36:13,440
+enough or they didn't think it would do
+
+918
+00:36:13,440 --> 00:36:20,910
+well millions of people playing all
+
+919
+00:36:20,910 --> 00:36:23,190
+right that's right there's a brag what
+
+920
+00:36:23,190 --> 00:36:25,440
+happened what no I think they got that
+
+921
+00:36:25,440 --> 00:36:27,119
+decision right I don't think it would
+
+922
+00:36:27,119 --> 00:36:28,109
+have done well because you remember that
+
+923
+00:36:28,109 --> 00:36:29,760
+other game that we liked from battle
+
+924
+00:36:29,760 --> 00:36:32,550
+battle it was a battle it's everything
+
+925
+00:36:32,550 --> 00:36:34,890
+battle I think actually battle boy
+
+926
+00:36:34,890 --> 00:36:37,589
+yeah and and we liked it but it didn't
+
+927
+00:36:37,589 --> 00:36:39,630
+do as well as overwatch it did got
+
+928
+00:36:39,630 --> 00:36:41,730
+shuddered and shut down they released it
+
+929
+00:36:41,730 --> 00:36:43,500
+two weeks before overwatch which was
+
+930
+00:36:43,500 --> 00:36:48,029
+like yeah so but I think that was the
+
+931
+00:36:48,029 --> 00:36:49,470
+right decision for them to shut that
+
+932
+00:36:49,470 --> 00:36:51,480
+down right it might have been cool for
+
+933
+00:36:51,480 --> 00:36:54,180
+for a while I probably would have been
+
+934
+00:36:54,180 --> 00:36:57,359
+better than fallout 76 and that's a lot
+
+935
+00:36:57,359 --> 00:36:58,859
+of work from those guys and my heart
+
+936
+00:36:58,859 --> 00:37:00,210
+goes out to them because those are
+
+937
+00:37:00,210 --> 00:37:01,799
+original characters that probably could
+
+938
+00:37:01,799 --> 00:37:03,180
+have been cool could have had some fans
+
+939
+00:37:03,180 --> 00:37:04,980
+instead it gets shut down and they're
+
+940
+00:37:04,980 --> 00:37:06,299
+like they probably got moved to this
+
+941
+00:37:06,299 --> 00:37:07,410
+they're like alright now you're gonna
+
+942
+00:37:07,410 --> 00:37:09,690
+work on the fallout 4 engine and you're
+
+943
+00:37:09,690 --> 00:37:11,309
+gonna pump out a game and I need it in a
+
+944
+00:37:11,309 --> 00:37:14,220
+year what they don't know how to fucking
+
+945
+00:37:14,220 --> 00:37:16,650
+do that are you serious they did a
+
+946
+00:37:16,650 --> 00:37:18,690
+documentary remember that huge like one
+
+947
+00:37:18,690 --> 00:37:20,039
+outlet document yeah they did a
+
+948
+00:37:20,039 --> 00:37:21,539
+documentary over time they'll be working
+
+949
+00:37:21,539 --> 00:37:25,829
+on this I have an idea four years ago
+
+950
+00:37:25,829 --> 00:37:28,559
+yeah well everybody had the idea eight
+
+951
+00:37:28,559 --> 00:37:30,930
+years ago everybody had the idea and
+
+952
+00:37:30,930 --> 00:37:32,910
+fallout 1 when you were playing that
+
+953
+00:37:32,910 --> 00:37:34,349
+shit this would kind of be cool if I can
+
+954
+00:37:34,349 --> 00:37:36,690
+play with friends yeah I mean so don't
+
+955
+00:37:36,690 --> 00:37:38,940
+give me that shit right but okay but
+
+956
+00:37:38,940 --> 00:37:40,529
+what I'm saying is so that that studio
+
+957
+00:37:40,529 --> 00:37:42,930
+took the brunt of it and it was just
+
+958
+00:37:42,930 --> 00:37:45,779
+completely unfair to the guys in Austin
+
+959
+00:37:45,779 --> 00:37:47,789
+to take the brunt of that and push this
+
+960
+00:37:47,789 --> 00:37:49,380
+thing out as fast as possible without
+
+961
+00:37:49,380 --> 00:37:51,180
+the experience the knowledge and that's
+
+962
+00:37:51,180 --> 00:37:53,460
+why so many studios had to help that's
+
+963
+00:37:53,460 --> 00:37:55,349
+why I had lists all those people because
+
+964
+00:37:55,349 --> 00:37:56,819
+they didn't have the expertise and
+
+965
+00:37:56,819 --> 00:37:59,250
+they're being fucking pivoted so quick
+
+966
+00:37:59,250 --> 00:38:01,529
+and then they rolled in another studio
+
+967
+00:38:01,529 --> 00:38:03,660
+escalation Studios which they bought up
+
+968
+00:38:03,660 --> 00:38:05,250
+and got rolled into Bethesda Game
+
+969
+00:38:05,250 --> 00:38:07,829
+Studios as well back in 2007 and their
+
+970
+00:38:07,829 --> 00:38:10,230
+mobile games okay and so you get a
+
+971
+00:38:10,230 --> 00:38:11,940
+little bit of that influence maybe the
+
+972
+00:38:11,940 --> 00:38:14,009
+perk cards and the microtransactions
+
+973
+00:38:14,009 --> 00:38:17,160
+arrive early and and and then you've got
+
+974
+00:38:17,160 --> 00:38:18,720
+this game so I think that's what
+
+975
+00:38:18,720 --> 00:38:21,240
+happened is there B team or not even
+
+976
+00:38:21,240 --> 00:38:23,579
+there B team there C team worked on this
+
+977
+00:38:23,579 --> 00:38:26,670
+game and but yet the disconnect here is
+
+978
+00:38:26,670 --> 00:38:29,849
+that Todd presented this as a triple-a
+
+979
+00:38:29,849 --> 00:38:32,640
+game from the best of the best this was
+
+980
+00:38:32,640 --> 00:38:35,549
+a tentpole release and it comes out and
+
+981
+00:38:35,549 --> 00:38:38,250
+it's utter garbage it's garbage
+
+982
+00:38:38,250 --> 00:38:40,769
+shit a lot of people just felt betrayed
+
+983
+00:38:40,769 --> 00:38:43,380
+as hell because he was promoting and
+
+984
+00:38:43,380 --> 00:38:45,779
+flaunting this game everywhere and
+
+985
+00:38:45,779 --> 00:38:48,089
+talking it up and saying things that
+
+986
+00:38:48,089 --> 00:38:48,420
+were
+
+987
+00:38:48,420 --> 00:38:49,650
+to be in the game that weren't in the
+
+988
+00:38:49,650 --> 00:38:51,780
+game and you know I saw people defending
+
+989
+00:38:51,780 --> 00:38:53,040
+him like oh maybe he didn't know the
+
+990
+00:38:53,040 --> 00:38:54,930
+extent of how bad it was no he had to
+
+991
+00:38:54,930 --> 00:38:57,390
+oven his he's attitude he knew and he
+
+992
+00:38:57,390 --> 00:39:00,360
+was ok with it like I I like Todd and I
+
+993
+00:39:00,360 --> 00:39:03,150
+met Todd I talked with Todd several
+
+994
+00:39:03,150 --> 00:39:06,180
+times I was just like hey man I forget
+
+995
+00:39:06,180 --> 00:39:08,670
+what I said to him but I was like you
+
+996
+00:39:08,670 --> 00:39:10,590
+know I was like dude I really love your
+
+997
+00:39:10,590 --> 00:39:13,110
+games and I think you're a fantastic
+
+998
+00:39:13,110 --> 00:39:16,080
+producer I just gave him so much praise
+
+999
+00:39:16,080 --> 00:39:18,570
+and and he was really nice and smiling
+
+1000
+00:39:18,570 --> 00:39:20,880
+and he was like wow and I was like I'm a
+
+1001
+00:39:20,880 --> 00:39:22,470
+little nervous and he's like you don't
+
+1002
+00:39:22,470 --> 00:39:23,850
+have to be nervous I was like yeah I
+
+1003
+00:39:23,850 --> 00:39:25,950
+never get nervous and it's because like
+
+1004
+00:39:25,950 --> 00:39:28,140
+he's made my favorite game series of all
+
+1005
+00:39:28,140 --> 00:39:30,720
+I am elderscrolls like I love those
+
+1006
+00:39:30,720 --> 00:39:32,700
+games to death and angry Joe got nervous
+
+1007
+00:39:32,700 --> 00:39:34,230
+around him and I felt embarrassed and
+
+1008
+00:39:34,230 --> 00:39:37,020
+he's like nah man it's cool and then but
+
+1009
+00:39:37,020 --> 00:39:39,870
+and then the very next thing that comes
+
+1010
+00:39:39,870 --> 00:39:43,410
+out and he and I believed him I believed
+
+1011
+00:39:43,410 --> 00:39:45,900
+in time all the things that he said
+
+1012
+00:39:45,900 --> 00:39:49,980
+because all its spark on his eyes and he
+
+1013
+00:39:49,980 --> 00:39:52,770
+was me you know this guy you know this
+
+1014
+00:39:52,770 --> 00:39:54,630
+nerd in high school he talks about the
+
+1015
+00:39:54,630 --> 00:39:57,060
+ballot cowboy joke and he said well I
+
+1016
+00:39:57,060 --> 00:39:58,260
+didn't want to be the desk alva
+
+1017
+00:39:58,260 --> 00:39:59,610
+quarterback I'm gonna make video games
+
+1018
+00:39:59,610 --> 00:40:01,350
+for a living and they all made fun of
+
+1019
+00:40:01,350 --> 00:40:03,330
+him and stuff and he's doing it and
+
+1020
+00:40:03,330 --> 00:40:04,980
+that's my dream I want to make board
+
+1021
+00:40:04,980 --> 00:40:07,410
+games for living and and and so I just
+
+1022
+00:40:07,410 --> 00:40:09,450
+loved that success story of Todd and
+
+1023
+00:40:09,450 --> 00:40:11,490
+he's won awards and he deserves those
+
+1024
+00:40:11,490 --> 00:40:14,310
+awards and I I hate to see targets shit
+
+1025
+00:40:14,310 --> 00:40:16,830
+on so much but honestly you know when
+
+1026
+00:40:16,830 --> 00:40:19,110
+you do when you make something amazing
+
+1027
+00:40:19,110 --> 00:40:21,240
+you get the praise and angry Joe gets
+
+1028
+00:40:21,240 --> 00:40:22,770
+nervous around you you make something
+
+1029
+00:40:22,770 --> 00:40:24,870
+shit and angry Joe's gonna fucking yell
+
+1030
+00:40:24,870 --> 00:40:26,550
+at you you know what I mean this is
+
+1031
+00:40:26,550 --> 00:40:29,160
+deserved I'm serious it's dessert no
+
+1032
+00:40:29,160 --> 00:40:30,900
+it's it's a hundred percent deserved and
+
+1033
+00:40:30,900 --> 00:40:33,720
+I think I mean the fact that they're not
+
+1034
+00:40:33,720 --> 00:40:35,580
+just owning up to it the fact that they
+
+1035
+00:40:35,580 --> 00:40:37,770
+haven't done like a hey we we came from
+
+1036
+00:40:37,770 --> 00:40:39,600
+humble roots this is what we do for a
+
+1037
+00:40:39,600 --> 00:40:41,310
+passion we made it or at least be honest
+
+1038
+00:40:41,310 --> 00:40:43,170
+with people yes this was for Austin
+
+1039
+00:40:43,170 --> 00:40:45,930
+studio with our mobile studio and and
+
+1040
+00:40:45,930 --> 00:40:47,910
+we're learning this is the first time
+
+1041
+00:40:47,910 --> 00:40:50,010
+we're doing a multiplayer experience in
+
+1042
+00:40:50,010 --> 00:40:52,710
+this way with these people and we're
+
+1043
+00:40:52,710 --> 00:40:54,600
+learning a lot from it and then maybe
+
+1044
+00:40:54,600 --> 00:40:56,550
+drop some little hints that in our
+
+1045
+00:40:56,550 --> 00:40:58,320
+future games we could start putting in
+
+1046
+00:40:58,320 --> 00:40:59,580
+multiplayer because we've learned so
+
+1047
+00:40:59,580 --> 00:41:02,070
+much and make this sort of you know okay
+
+1048
+00:41:02,070 --> 00:41:02,340
+they
+
+1049
+00:41:02,340 --> 00:41:04,500
+learn from it and now our future games
+
+1050
+00:41:04,500 --> 00:41:06,450
+are gonna be better and instead they
+
+1051
+00:41:06,450 --> 00:41:09,150
+drop this like bullshit PR apology where
+
+1052
+00:41:09,150 --> 00:41:10,800
+they don't even really apologize no it's
+
+1053
+00:41:10,800 --> 00:41:12,720
+not that's not an apology thank you for
+
+1054
+00:41:12,720 --> 00:41:14,730
+playing millions of you have played we
+
+1055
+00:41:14,730 --> 00:41:16,830
+can't wait to fix the game ya know like
+
+1056
+00:41:16,830 --> 00:41:19,410
+it feels so not human like a corporate
+
+1057
+00:41:19,410 --> 00:41:22,170
+entity is just like we're sorry was that
+
+1058
+00:41:22,170 --> 00:41:23,970
+something I want to talk about yeah I
+
+1059
+00:41:23,970 --> 00:41:26,850
+also really really like Pete Hines I've
+
+1060
+00:41:26,850 --> 00:41:29,430
+met him several times conversations have
+
+1061
+00:41:29,430 --> 00:41:31,290
+always been good actually when I first
+
+1062
+00:41:31,290 --> 00:41:32,820
+started I don't think people liked me
+
+1063
+00:41:32,820 --> 00:41:35,730
+very much because my interview style I'm
+
+1064
+00:41:35,730 --> 00:41:37,140
+real aggressive and I was asking him
+
+1065
+00:41:37,140 --> 00:41:44,070
+hard questions and he anyway yeah and
+
+1066
+00:41:44,070 --> 00:41:46,140
+and and we had this relationship where
+
+1067
+00:41:46,140 --> 00:41:47,610
+he'd give me a look and I give him a
+
+1068
+00:41:47,610 --> 00:41:50,370
+look but yet we do it anyway because you
+
+1069
+00:41:50,370 --> 00:41:52,080
+know I at least I had the audience and
+
+1070
+00:41:52,080 --> 00:41:53,730
+Bethesda I'm gonna be honest with you
+
+1071
+00:41:53,730 --> 00:41:55,350
+for a time that des des was the most
+
+1072
+00:41:55,350 --> 00:41:58,110
+friendly to youtubers I've seen one of
+
+1073
+00:41:58,110 --> 00:41:59,310
+the companies as good as Ubisoft
+
+1074
+00:41:59,310 --> 00:42:01,980
+friendly and open and they know and they
+
+1075
+00:42:01,980 --> 00:42:05,130
+talk and but lately I have to say this
+
+1076
+00:42:05,130 --> 00:42:07,230
+they've become a lot more corporate I
+
+1077
+00:42:07,230 --> 00:42:09,690
+don't feel I feel like Bethesda is
+
+1078
+00:42:09,690 --> 00:42:12,480
+losing their way there is are they
+
+1079
+00:42:12,480 --> 00:42:15,060
+smelling their own farts at this point I
+
+1080
+00:42:15,060 --> 00:42:16,920
+see with this coming out and they're
+
+1081
+00:42:16,920 --> 00:42:19,680
+getting so involved and and then they
+
+1082
+00:42:19,680 --> 00:42:21,780
+got the whoo they got the whiff of that
+
+1083
+00:42:21,780 --> 00:42:25,530
+mobile micro transit and fallout shelter
+
+1084
+00:42:25,530 --> 00:42:27,780
+no that's that's why blades is coming
+
+1085
+00:42:27,780 --> 00:42:29,100
+because they were like okay we want it
+
+1086
+00:42:29,100 --> 00:42:30,900
+we need now we need to do this with
+
+1087
+00:42:30,900 --> 00:42:32,700
+every single one of our franchises it
+
+1088
+00:42:32,700 --> 00:42:34,190
+worked so well with Fallout and fallout
+
+1089
+00:42:34,190 --> 00:42:37,680
+shelter frankly is a good mobile game
+
+1090
+00:42:37,680 --> 00:42:40,350
+okay and and I'm not gonna shit all over
+
+1091
+00:42:40,350 --> 00:42:42,300
+fallout shelter because guess what the
+
+1092
+00:42:42,300 --> 00:42:44,550
+game is free and you can put as much
+
+1093
+00:42:44,550 --> 00:42:46,170
+money as you want into it I don't
+
+1094
+00:42:46,170 --> 00:42:48,120
+recommend you go crazy because you know
+
+1095
+00:42:48,120 --> 00:42:50,550
+that helps ruin our other games that's
+
+1096
+00:42:50,550 --> 00:42:54,870
+that's the danger and and and now we're
+
+1097
+00:42:54,870 --> 00:42:56,310
+gonna get blades and I think blades is
+
+1098
+00:42:56,310 --> 00:42:58,110
+gonna be one of the best mobile games
+
+1099
+00:42:58,110 --> 00:42:59,840
+but I'm really worried about those
+
+1100
+00:42:59,840 --> 00:43:02,040
+microtransactions in there
+
+1101
+00:43:02,040 --> 00:43:05,070
+it better be free anyways so you have
+
+1102
+00:43:05,070 --> 00:43:06,510
+all that kind of stuff and I'm worried
+
+1103
+00:43:06,510 --> 00:43:07,860
+that but des des is becoming too
+
+1104
+00:43:07,860 --> 00:43:09,270
+corporate and they're losing their way
+
+1105
+00:43:09,270 --> 00:43:10,770
+and they're turning into a little mini
+
+1106
+00:43:10,770 --> 00:43:13,980
+EA a little mini Activision and I just
+
+1107
+00:43:13,980 --> 00:43:15,360
+want to tell them guys
+
+1108
+00:43:15,360 --> 00:43:18,690
+like stop it please remember what got
+
+1109
+00:43:18,690 --> 00:43:23,430
+you here because as as quick and as well
+
+1110
+00:43:23,430 --> 00:43:25,140
+I don't know if it was quick but your
+
+1111
+00:43:25,140 --> 00:43:29,970
+rise to to such great community standing
+
+1112
+00:43:29,970 --> 00:43:32,130
+and people love and adore your games it
+
+1113
+00:43:32,130 --> 00:43:35,190
+can be destroyed you you are ruining
+
+1114
+00:43:35,190 --> 00:43:37,020
+your reputation I think you the
+
+1115
+00:43:37,020 --> 00:43:39,420
+community is taking a huge hit right now
+
+1116
+00:43:39,420 --> 00:43:42,120
+I don't think you can unless Elder
+
+1117
+00:43:42,120 --> 00:43:44,970
+Scrolls six is like the best game we've
+
+1118
+00:43:44,970 --> 00:43:47,250
+ever played in its and so like the thing
+
+1119
+00:43:47,250 --> 00:43:49,470
+is is because you guys have gone and
+
+1120
+00:43:49,470 --> 00:43:51,720
+released such a crappy game you've
+
+1121
+00:43:51,720 --> 00:43:54,150
+basically made your job 50 times harder
+
+1122
+00:43:54,150 --> 00:43:55,920
+with the Elder Scrolls 6 because now
+
+1123
+00:43:55,920 --> 00:43:57,120
+you're gonna be under that microscope
+
+1124
+00:43:57,120 --> 00:43:58,860
+you're under the mind you're like so if
+
+1125
+00:43:58,860 --> 00:44:02,010
+you're getting it is if there are game
+
+1126
+00:44:02,010 --> 00:44:03,900
+breaking bugs and buff every other game
+
+1127
+00:44:03,900 --> 00:44:05,280
+you've ever released because your story
+
+1128
+00:44:05,280 --> 00:44:06,870
+was good you got to look past it people
+
+1129
+00:44:06,870 --> 00:44:08,160
+were like I'll look past the fact that
+
+1130
+00:44:08,160 --> 00:44:10,260
+my save gets corrupted that I have all
+
+1131
+00:44:10,260 --> 00:44:12,120
+these quest issues it's a good game it's
+
+1132
+00:44:12,120 --> 00:44:13,590
+Bethesda but now that you released
+
+1133
+00:44:13,590 --> 00:44:15,540
+fallout you can bet your ass that
+
+1134
+00:44:15,540 --> 00:44:17,700
+everybody is going to go over your game
+
+1135
+00:44:17,700 --> 00:44:19,470
+with a fine-tooth comb and pick out
+
+1136
+00:44:19,470 --> 00:44:21,390
+every problem but I guess what guess
+
+1137
+00:44:21,390 --> 00:44:23,100
+what I don't care about the black still
+
+1138
+00:44:23,100 --> 00:44:25,170
+if there's bug like him I care about
+
+1139
+00:44:25,170 --> 00:44:28,050
+game breaking bugs okay but but I'll
+
+1140
+00:44:28,050 --> 00:44:30,180
+even forgive some of those if you can
+
+1141
+00:44:30,180 --> 00:44:32,280
+find fixes around it what I care about
+
+1142
+00:44:32,280 --> 00:44:36,120
+is your game design tentpoles the the
+
+1143
+00:44:36,120 --> 00:44:38,070
+major decisions that were made and
+
+1144
+00:44:38,070 --> 00:44:40,620
+fallout 76 that we're all wrong I want
+
+1145
+00:44:40,620 --> 00:44:41,700
+PvP to work
+
+1146
+00:44:41,700 --> 00:44:44,250
+I want PvE to work I want the AI to work
+
+1147
+00:44:44,250 --> 00:44:46,350
+I want quests to be good I want there to
+
+1148
+00:44:46,350 --> 00:44:48,510
+be a story that actually you can listen
+
+1149
+00:44:48,510 --> 00:44:50,700
+to I want there to be interface
+
+1150
+00:44:50,700 --> 00:44:53,130
+improvements these kinds of things are
+
+1151
+00:44:53,130 --> 00:44:55,410
+what's important to me yes you are gonna
+
+1152
+00:44:55,410 --> 00:44:57,240
+get raked over coals just because it's
+
+1153
+00:44:57,240 --> 00:44:59,400
+funny and it's YouTube content that a
+
+1154
+00:44:59,400 --> 00:45:01,260
+lot of channels are gonna do anyway even
+
+1155
+00:45:01,260 --> 00:45:02,940
+if maybe you don't deserve some of it
+
+1156
+00:45:02,940 --> 00:45:04,800
+it's coming just because of what you did
+
+1157
+00:45:04,800 --> 00:45:06,330
+here would fall out you set yourselves
+
+1158
+00:45:06,330 --> 00:45:08,280
+up for that and like you you've honestly
+
+1159
+00:45:08,280 --> 00:45:10,650
+they have removed a lot of their buffer
+
+1160
+00:45:10,650 --> 00:45:12,210
+they had that people were willing to
+
+1161
+00:45:12,210 --> 00:45:14,160
+tolerate because now you're the goodwill
+
+1162
+00:45:14,160 --> 00:45:15,690
+from the community it's destroyed it's
+
+1163
+00:45:15,690 --> 00:45:18,270
+gone and really hurt your standing with
+
+1164
+00:45:18,270 --> 00:45:20,070
+your community and I think your apology
+
+1165
+00:45:20,070 --> 00:45:21,930
+just made it worse like honestly non
+
+1166
+00:45:21,930 --> 00:45:24,330
+apology that that basically shows us
+
+1167
+00:45:24,330 --> 00:45:27,150
+that this was a cash cow this was
+
+1168
+00:45:27,150 --> 00:45:29,160
+literally we don't have a major
+
+1169
+00:45:29,160 --> 00:45:31,920
+tentpole let's pivot cancel battlecry we
+
+1170
+00:45:31,920 --> 00:45:33,329
+need something fall out
+
+1171
+00:45:33,329 --> 00:45:35,099
+everybody loves fall out we can make
+
+1172
+00:45:35,099 --> 00:45:37,170
+money no matter what on fall out no
+
+1173
+00:45:37,170 --> 00:45:39,270
+matter if we put it out Todd it's not
+
+1174
+00:45:39,270 --> 00:45:40,200
+ready man
+
+1175
+00:45:40,200 --> 00:45:42,750
+we need another year I'm sorry I just
+
+1176
+00:45:42,750 --> 00:45:44,760
+don't have the talent right now and it's
+
+1177
+00:45:44,760 --> 00:45:46,260
+taken us a little longer I'm sorry can
+
+1178
+00:45:46,260 --> 00:45:48,270
+we just get another year no you're
+
+1179
+00:45:48,270 --> 00:45:50,069
+putting this out now that may not even
+
+1180
+00:45:50,069 --> 00:45:51,900
+be tongs fault it's gotta maybe balls
+
+1181
+00:45:51,900 --> 00:45:53,789
+Todd it's marketing fuck is the
+
+1182
+00:45:53,789 --> 00:45:55,349
+president over there because I've never
+
+1183
+00:45:55,349 --> 00:45:57,599
+heard of ever met him I've only seen
+
+1184
+00:45:57,599 --> 00:46:00,000
+Pete Hines who's VP where the fuck is
+
+1185
+00:46:00,000 --> 00:46:02,280
+the president it honors a shadowy it's
+
+1186
+00:46:02,280 --> 00:46:04,410
+it's a fucking it's a fucking assault
+
+1187
+00:46:04,410 --> 00:46:06,690
+Ron it's the fun master from fire it's
+
+1188
+00:46:06,690 --> 00:46:08,369
+pretty much just it feels like they had
+
+1189
+00:46:08,369 --> 00:46:10,230
+to make a quota on numbers and sales at
+
+1190
+00:46:10,230 --> 00:46:11,849
+the end of the year and I mean they
+
+1191
+00:46:11,849 --> 00:46:13,650
+could have taken it why did bethesda do
+
+1192
+00:46:13,650 --> 00:46:16,530
+this it's money money has to be money
+
+1193
+00:46:16,530 --> 00:46:18,329
+and don't accept my money like seven
+
+1194
+00:46:18,329 --> 00:46:20,730
+times i bought like skyrim on every
+
+1195
+00:46:20,730 --> 00:46:28,260
+fucking console and we should talk about
+
+1196
+00:46:28,260 --> 00:46:30,920
+that too so the question is why did
+
+1197
+00:46:30,920 --> 00:46:34,440
+bethesda put this out no temple releases
+
+1198
+00:46:34,440 --> 00:46:36,480
+this year was it for their shareholders
+
+1199
+00:46:36,480 --> 00:46:38,670
+it's a publicly traded company i don't
+
+1200
+00:46:38,670 --> 00:46:40,770
+think i don't know to keep them afloat
+
+1201
+00:46:40,770 --> 00:46:43,079
+that's why they put this one out right
+
+1202
+00:46:43,079 --> 00:46:45,480
+to fund future games to or to make a
+
+1203
+00:46:45,480 --> 00:46:47,940
+quick buck i think i think it was all of
+
+1204
+00:46:47,940 --> 00:46:49,829
+those and i mean like you know by us
+
+1205
+00:46:49,829 --> 00:46:51,210
+saying they haven't released a major
+
+1206
+00:46:51,210 --> 00:46:53,010
+game like we're not talking the sister
+
+1207
+00:46:53,010 --> 00:46:55,500
+subsidiary studios under like arcane and
+
+1208
+00:46:55,500 --> 00:46:57,089
+aired and stuff yes they've released
+
+1209
+00:46:57,089 --> 00:46:59,130
+games but bethesda themselves hasn't
+
+1210
+00:46:59,130 --> 00:47:05,130
+this came out this year a lot 7676 and i
+
+1211
+00:47:05,130 --> 00:47:07,440
+don't repeat their big game yeah that's
+
+1212
+00:47:07,440 --> 00:47:08,069
+what I mean
+
+1213
+00:47:08,069 --> 00:47:11,160
+alright it that just it blow it bugs me
+
+1214
+00:47:11,160 --> 00:47:13,319
+alright guys do you think will it go
+
+1215
+00:47:13,319 --> 00:47:15,930
+free-to-play Joe no you don't think
+
+1216
+00:47:15,930 --> 00:47:18,270
+there's a goal in Christ job but they
+
+1217
+00:47:18,270 --> 00:47:20,130
+what they won't do it won't do it they
+
+1218
+00:47:20,130 --> 00:47:22,559
+won't budge on that I know what do you
+
+1219
+00:47:22,559 --> 00:47:24,450
+what do you think I think they will just
+
+1220
+00:47:24,450 --> 00:47:26,130
+because like every other game that I've
+
+1221
+00:47:26,130 --> 00:47:28,230
+seen has realized that you sell your
+
+1222
+00:47:28,230 --> 00:47:30,750
+game for 60 bucks you wait about six or
+
+1223
+00:47:30,750 --> 00:47:32,339
+seven months to when nobody's playing it
+
+1224
+00:47:32,339 --> 00:47:33,630
+and then you release it for free and you
+
+1225
+00:47:33,630 --> 00:47:35,190
+add more micro transactions and you
+
+1226
+00:47:35,190 --> 00:47:37,319
+double your money mm-hmm that's every
+
+1227
+00:47:37,319 --> 00:47:38,970
+even world of warcraft no I wouldn't put
+
+1228
+00:47:38,970 --> 00:47:40,410
+it past him at this point just because
+
+1229
+00:47:40,410 --> 00:47:42,900
+of all the steps that they
+
+1230
+00:47:42,900 --> 00:47:48,630
+so many people - so I don't know if they
+
+1231
+00:47:48,630 --> 00:47:50,849
+fix everything in February 25 percent of
+
+1232
+00:47:50,849 --> 00:47:52,799
+the people come back and and then
+
+1233
+00:47:52,799 --> 00:47:54,480
+they're like we have to monetize those
+
+1234
+00:47:54,480 --> 00:47:56,010
+people because we didn't get all of the
+
+1235
+00:47:56,010 --> 00:47:58,049
+people back they've got to do it in some
+
+1236
+00:47:58,049 --> 00:47:59,670
+way you're gonna get more micro trends
+
+1237
+00:47:59,670 --> 00:48:01,680
+and I'm gonna go for it it's gonna be 20
+
+1238
+00:48:01,680 --> 00:48:04,289
+bucks or free to play guys in the
+
+1239
+00:48:04,289 --> 00:48:05,730
+comments tell me do you think the same
+
+1240
+00:48:05,730 --> 00:48:08,279
+is gonna be free-to-play now here's the
+
+1241
+00:48:08,279 --> 00:48:10,500
+worst thing okay do you think they're
+
+1242
+00:48:10,500 --> 00:48:14,220
+gonna monetize the perk card system it
+
+1243
+00:48:14,220 --> 00:48:17,220
+feels like game probably I mean does it
+
+1244
+00:48:17,220 --> 00:48:19,829
+why where why did they create the perk
+
+1245
+00:48:19,829 --> 00:48:22,559
+system why is it a pax I have a theory
+
+1246
+00:48:22,559 --> 00:48:26,339
+and it's a conspiracy theory but it's
+
+1247
+00:48:26,339 --> 00:48:28,950
+it's coming from it's coming from the
+
+1248
+00:48:28,950 --> 00:48:31,230
+place of betrayal why'd you betray me
+
+1249
+00:48:31,230 --> 00:48:33,630
+now everything that you've done has been
+
+1250
+00:48:33,630 --> 00:48:35,339
+put into question including the perk
+
+1251
+00:48:35,339 --> 00:48:38,010
+system I think this is they put it there
+
+1252
+00:48:38,010 --> 00:48:40,619
+and they put no microtransactions and
+
+1253
+00:48:40,619 --> 00:48:42,450
+they give you them at intervals to see
+
+1254
+00:48:42,450 --> 00:48:44,359
+what happens and guess what happened
+
+1255
+00:48:44,359 --> 00:48:47,069
+every single review on YouTube that I've
+
+1256
+00:48:47,069 --> 00:48:49,200
+seen even including ours but I softened
+
+1257
+00:48:49,200 --> 00:48:51,390
+it is oh I love this new purchaser
+
+1258
+00:48:51,390 --> 00:48:53,130
+what's one good thing up the perk system
+
+1259
+00:48:53,130 --> 00:48:55,109
+yeah yeah the perk system is great I
+
+1260
+00:48:55,109 --> 00:48:56,700
+didn't say it's better I said it was
+
+1261
+00:48:56,700 --> 00:48:58,950
+interesting yeah it's not better because
+
+1262
+00:48:58,950 --> 00:49:00,900
+and but everybody's saying oh it's
+
+1263
+00:49:00,900 --> 00:49:02,490
+better it's great a great great
+
+1264
+00:49:02,490 --> 00:49:04,770
+inventory but and so they've gotten all
+
+1265
+00:49:04,770 --> 00:49:07,109
+that positive feedback now and I think
+
+1266
+00:49:07,109 --> 00:49:09,299
+that was that was the little planting
+
+1267
+00:49:09,299 --> 00:49:11,460
+the little seed and like Halo in the
+
+1268
+00:49:11,460 --> 00:49:14,339
+Halo franchise it's going to pop up in a
+
+1269
+00:49:14,339 --> 00:49:17,670
+future game if how about this if they do
+
+1270
+00:49:17,670 --> 00:49:20,609
+that skill system that perk system in
+
+1271
+00:49:20,609 --> 00:49:23,400
+Star field or in Elder Scrolls 6 and
+
+1272
+00:49:23,400 --> 00:49:26,369
+it's monetized or you can buy packs what
+
+1273
+00:49:26,369 --> 00:49:30,839
+would you guys do flip the fuck out yeah
+
+1274
+00:49:30,839 --> 00:49:32,670
+probably laugh and be like I told you so
+
+1275
+00:49:32,670 --> 00:49:35,430
+you buy the game or boycott the game um
+
+1276
+00:49:35,430 --> 00:49:41,849
+I gotta buy the game no matter what we
+
+1277
+00:49:41,849 --> 00:49:45,000
+have to do but if I didn't write
+
+1278
+00:49:45,000 --> 00:49:47,700
+probably not I probably wouldn't fucking
+
+1279
+00:49:47,700 --> 00:49:49,470
+die the game until it's free because
+
+1280
+00:49:49,470 --> 00:49:52,559
+that shit is fucking yeah if I was right
+
+1281
+00:49:52,559 --> 00:49:54,089
+or we didn't have the job for it that's
+
+1282
+00:49:54,089 --> 00:49:55,800
+predatory that's gambling
+
+1283
+00:49:55,800 --> 00:49:57,840
+shit and if you want to do that fine
+
+1284
+00:49:57,840 --> 00:49:59,760
+make the game free I mean the the perk
+
+1285
+00:49:59,760 --> 00:50:01,380
+packs already you like when you get five
+
+1286
+00:50:01,380 --> 00:50:02,850
+levels and you get that booster pack and
+
+1287
+00:50:02,850 --> 00:50:04,470
+followed something six it's all flashy
+
+1288
+00:50:04,470 --> 00:50:08,100
+you can get duplicates repeatedly and
+
+1289
+00:50:08,100 --> 00:50:11,220
+this is like rare is like bellick's
+
+1290
+00:50:11,220 --> 00:50:12,870
+yeah it seems like it was originally
+
+1291
+00:50:12,870 --> 00:50:14,970
+developed as a free-to-play game with
+
+1292
+00:50:14,970 --> 00:50:18,390
+this as the main system to get money and
+
+1293
+00:50:18,390 --> 00:50:20,310
+they probably saw if this really was in
+
+1294
+00:50:20,310 --> 00:50:21,870
+development for four years which I
+
+1295
+00:50:21,870 --> 00:50:24,240
+highly doubt but let's say it is let's
+
+1296
+00:50:24,240 --> 00:50:26,670
+believe them they saw what happened to
+
+1297
+00:50:26,670 --> 00:50:29,310
+EA battlefront too tied directly to
+
+1298
+00:50:29,310 --> 00:50:31,020
+progression and they're like fuck we
+
+1299
+00:50:31,020 --> 00:50:33,090
+cannot have that because our stocks will
+
+1300
+00:50:33,090 --> 00:50:36,660
+take a hit so I almost kind of think in
+
+1301
+00:50:36,660 --> 00:50:39,150
+a conspiracy theory way that this system
+
+1302
+00:50:39,150 --> 00:50:40,950
+was being developed or at least it was
+
+1303
+00:50:40,950 --> 00:50:43,380
+discussed in design meetings should we
+
+1304
+00:50:43,380 --> 00:50:45,870
+monetize this can we monetize this and
+
+1305
+00:50:45,870 --> 00:50:47,700
+now I'm scared in the future that
+
+1306
+00:50:47,700 --> 00:50:48,840
+because it received so much positive
+
+1307
+00:50:48,840 --> 00:50:51,240
+feedback that they might be able to take
+
+1308
+00:50:51,240 --> 00:50:52,890
+that extra step I'm telling you right
+
+1309
+00:50:52,890 --> 00:50:54,750
+now but that's duh
+
+1310
+00:50:54,750 --> 00:51:00,480
+no no any news PU you think this is
+
+1311
+00:51:00,480 --> 00:51:06,080
+backwards I need a roll stop it man I
+
+1312
+00:51:06,080 --> 00:51:11,780
+need the rolled-up newspaper but anyway
+
+1313
+00:51:11,780 --> 00:51:14,850
+don't do it you think this is bad with
+
+1314
+00:51:14,850 --> 00:51:18,060
+fallout 76 no fuck with the elders do
+
+1315
+00:51:18,060 --> 00:51:19,920
+not fuck with progression and
+
+1316
+00:51:19,920 --> 00:51:22,410
+microtransactions or you will go the way
+
+1317
+00:51:22,410 --> 00:51:24,540
+of EA not only will you have destroyed
+
+1318
+00:51:24,540 --> 00:51:26,100
+the goodwill with the community but
+
+1319
+00:51:26,100 --> 00:51:28,380
+you'll have a revolt straight up those
+
+1320
+00:51:28,380 --> 00:51:30,270
+me as a fan that's one of my feet
+
+1321
+00:51:30,270 --> 00:51:33,690
+you'll lose me no so J I will be your
+
+1322
+00:51:33,690 --> 00:51:34,350
+opponent
+
+1323
+00:51:34,350 --> 00:51:37,050
+instead of your supporter okay anyways
+
+1324
+00:51:37,050 --> 00:51:39,270
+so please don't do that with the perk
+
+1325
+00:51:39,270 --> 00:51:41,820
+system and I think it's prime and setup
+
+1326
+00:51:41,820 --> 00:51:45,630
+for that anyways so um you know what I
+
+1327
+00:51:45,630 --> 00:51:48,210
+want to talk about it didn't make it
+
+1328
+00:51:48,210 --> 00:51:49,800
+into the review but I sent you a
+
+1329
+00:51:49,800 --> 00:51:52,710
+screenshot of I had a bug where I lost
+
+1330
+00:51:52,710 --> 00:51:54,810
+four thousand caps from something that
+
+1331
+00:51:54,810 --> 00:51:57,450
+was didn't work and it cost four
+
+1332
+00:51:57,450 --> 00:51:59,310
+thousand and so when I sent a ticket in
+
+1333
+00:51:59,310 --> 00:52:01,830
+and the first thing was when you design
+
+1334
+00:52:01,830 --> 00:52:03,600
+an MMO or multiplayer game you designed
+
+1335
+00:52:03,600 --> 00:52:06,360
+tools to let your CSRs and your customer
+
+1336
+00:52:06,360 --> 00:52:07,980
+support help people who are having
+
+1337
+00:52:07,980 --> 00:52:08,880
+problems with your game
+
+1338
+00:52:08,880 --> 00:52:10,560
+when I sent the ticket in and you'll
+
+1339
+00:52:10,560 --> 00:52:11,910
+probably throw up a picture of the
+
+1340
+00:52:11,910 --> 00:52:14,430
+response email I got they basically just
+
+1341
+00:52:14,430 --> 00:52:17,040
+said we don't got those tools we can't
+
+1342
+00:52:17,040 --> 00:52:19,050
+fix quests we can't reset characters we
+
+1343
+00:52:19,050 --> 00:52:20,400
+can't give you items we can't do
+
+1344
+00:52:20,400 --> 00:52:22,170
+anything and they admitted this and it's
+
+1345
+00:52:22,170 --> 00:52:24,480
+like that's it's probably it's probably
+
+1346
+00:52:24,480 --> 00:52:27,330
+a third party call center are you still
+
+1347
+00:52:27,330 --> 00:52:29,010
+we're gonna call center long ago and all
+
+1348
+00:52:29,010 --> 00:52:31,410
+you have is knowledgebase right and you
+
+1349
+00:52:31,410 --> 00:52:32,820
+and you click on things that's probably
+
+1350
+00:52:32,820 --> 00:52:34,350
+all they have but every other that
+
+1351
+00:52:34,350 --> 00:52:35,550
+employees like yeah I'm just gonna be
+
+1352
+00:52:35,550 --> 00:52:39,180
+honest but every other MMO every other
+
+1353
+00:52:39,180 --> 00:52:41,250
+online game that's online only like this
+
+1354
+00:52:41,250 --> 00:52:43,680
+game if an item breaks or your character
+
+1355
+00:52:43,680 --> 00:52:46,050
+just does not work their game masters
+
+1356
+00:52:46,050 --> 00:52:48,090
+can fix it and they even said we can't
+
+1357
+00:52:48,090 --> 00:52:50,430
+escalate it we just can't touch yourself
+
+1358
+00:52:50,430 --> 00:52:53,010
+the responses from Bethesda they need to
+
+1359
+00:52:53,010 --> 00:52:54,870
+look into how they deal with customers
+
+1360
+00:52:54,870 --> 00:52:56,970
+because somebody sent me a screenshot of
+
+1361
+00:52:56,970 --> 00:53:00,060
+somebody saying hey the DA I ordered the
+
+1362
+00:53:00,060 --> 00:53:02,160
+$200 collector edition and it said that
+
+1363
+00:53:02,160 --> 00:53:04,620
+there would be a premium duffel bag or
+
+1364
+00:53:04,620 --> 00:53:06,870
+they said that what material it would be
+
+1365
+00:53:06,870 --> 00:53:08,610
+or they showed of material in the
+
+1366
+00:53:08,610 --> 00:53:10,710
+marketing materials and it turned out to
+
+1367
+00:53:10,710 --> 00:53:13,350
+be a piece of shit nylon duffel bag and
+
+1368
+00:53:13,350 --> 00:53:15,750
+somebody sent in a support ticket hey
+
+1369
+00:53:15,750 --> 00:53:17,700
+can I get a refund or can I get a
+
+1370
+00:53:17,700 --> 00:53:19,380
+compensation or something like that
+
+1371
+00:53:19,380 --> 00:53:20,610
+because you're showing something and it
+
+1372
+00:53:20,610 --> 00:53:23,220
+wasn't that and the response was so
+
+1373
+00:53:23,220 --> 00:53:25,770
+flippant that I was like no the internet
+
+1374
+00:53:25,770 --> 00:53:27,660
+had to change those words around yeah
+
+1375
+00:53:27,660 --> 00:53:30,030
+but because that's how bad the response
+
+1376
+00:53:30,030 --> 00:53:31,770
+was it was something like oh yeah we
+
+1377
+00:53:31,770 --> 00:53:33,660
+know it was it was too expensive to do
+
+1378
+00:53:33,660 --> 00:53:35,940
+the other thing and yeah we don't ever
+
+1379
+00:53:35,940 --> 00:53:37,290
+plan to do anything about it
+
+1380
+00:53:37,290 --> 00:53:39,900
+bye you didn't say it let it say it
+
+1381
+00:53:39,900 --> 00:53:41,700
+exactly like that but I swear to God if
+
+1382
+00:53:41,700 --> 00:53:44,100
+you read the actual things it's like
+
+1383
+00:53:44,100 --> 00:53:46,620
+this has to be somebody's last day yes
+
+1384
+00:53:46,620 --> 00:53:49,560
+or or the internet fucking changed it
+
+1385
+00:53:49,560 --> 00:53:51,660
+but that doesn't change the fact that
+
+1386
+00:53:51,660 --> 00:53:53,670
+the fucking thing is a piece of shit
+
+1387
+00:53:53,670 --> 00:53:55,200
+they can't fix problems in their own
+
+1388
+00:53:55,200 --> 00:53:57,000
+game which to me is hilarious because if
+
+1389
+00:53:57,000 --> 00:53:58,530
+I went through their ticket system on
+
+1390
+00:53:58,530 --> 00:54:00,000
+their website and it's like account
+
+1391
+00:54:00,000 --> 00:54:01,680
+problems character problems item
+
+1392
+00:54:01,680 --> 00:54:04,560
+restoration we can't restore items was
+
+1393
+00:54:04,560 --> 00:54:06,270
+the response I got and it's like why is
+
+1394
+00:54:06,270 --> 00:54:08,790
+that an option then like what's going on
+
+1395
+00:54:08,790 --> 00:54:10,800
+and it's just they didn't even have the
+
+1396
+00:54:10,800 --> 00:54:13,140
+forethought to be like oh we should
+
+1397
+00:54:13,140 --> 00:54:14,970
+probably have the ability to fix these
+
+1398
+00:54:14,970 --> 00:54:17,670
+bugs where we're four players before the
+
+1399
+00:54:17,670 --> 00:54:20,880
+game came out you you copied and pasted
+
+1400
+00:54:20,880 --> 00:54:22,470
+to Fallout universe
+
+1401
+00:54:22,470 --> 00:54:24,660
+on to a survival game you're so late to
+
+1402
+00:54:24,660 --> 00:54:26,700
+the survival John roof failed because
+
+1403
+00:54:26,700 --> 00:54:28,950
+all the game systems in there aren't
+
+1404
+00:54:28,950 --> 00:54:30,750
+built for the game they're built for
+
+1405
+00:54:30,750 --> 00:54:34,260
+Fallout 4 and they're poor choices a
+
+1406
+00:54:34,260 --> 00:54:36,930
+fallout MMO I think could work I think
+
+1407
+00:54:36,930 --> 00:54:39,240
+you could actually do a real fallout
+
+1408
+00:54:39,240 --> 00:54:42,530
+multiplayer game and it might work if
+
+1409
+00:54:42,530 --> 00:54:44,640
+everything was created from the ground
+
+1410
+00:54:44,640 --> 00:54:47,010
+up it could be something special but
+
+1411
+00:54:47,010 --> 00:54:50,880
+other than that no it doesn't work so
+
+1412
+00:54:50,880 --> 00:54:52,530
+let's talk let's end the video by
+
+1413
+00:54:52,530 --> 00:54:55,080
+talking about the future of Fallout 76
+
+1414
+00:54:55,080 --> 00:54:56,730
+the future content they're talking about
+
+1415
+00:54:56,730 --> 00:54:59,160
+faction based PvP will you come back for
+
+1416
+00:54:59,160 --> 00:55:03,210
+that no no will you do world events if
+
+1417
+00:55:03,210 --> 00:55:05,760
+they put there's already world events in
+
+1418
+00:55:05,760 --> 00:55:08,910
+there they're awful I you can do to fix
+
+1419
+00:55:08,910 --> 00:55:11,580
+like here's one thing that I think
+
+1420
+00:55:11,580 --> 00:55:13,020
+they've been telling us the whole time
+
+1421
+00:55:13,020 --> 00:55:14,760
+it's been in front of our face I'm gonna
+
+1422
+00:55:14,760 --> 00:55:16,560
+reveal it for you guys they're doing
+
+1423
+00:55:16,560 --> 00:55:19,140
+human NPCs they're gonna put in human
+
+1424
+00:55:19,140 --> 00:55:21,060
+NPCs to try to get people back I think
+
+1425
+00:55:21,060 --> 00:55:23,609
+it's their one ace in the ACE that they
+
+1426
+00:55:23,609 --> 00:55:25,200
+could try to get people back what do you
+
+1427
+00:55:25,200 --> 00:55:27,690
+you guys believe me now okay here's why
+
+1428
+00:55:27,690 --> 00:55:30,000
+I think so because they've said multiple
+
+1429
+00:55:30,000 --> 00:55:32,700
+times now that other vaults will be
+
+1430
+00:55:32,700 --> 00:55:35,250
+opening they keep referencing the fact
+
+1431
+00:55:35,250 --> 00:55:37,520
+that other vaults are gonna open that
+
+1432
+00:55:37,520 --> 00:55:40,740
+that to me guys realize that confirms
+
+1433
+00:55:40,740 --> 00:55:43,470
+human NPCs doesn't it no I think they're
+
+1434
+00:55:43,470 --> 00:55:44,940
+just gonna do what they did with the
+
+1435
+00:55:44,940 --> 00:55:46,440
+other vaults and the other games where
+
+1436
+00:55:46,440 --> 00:55:47,640
+they're already they're all dead in
+
+1437
+00:55:47,640 --> 00:55:49,080
+there yeah they're gonna have like quest
+
+1438
+00:55:49,080 --> 00:55:50,070
+lines you're gonna go in there and
+
+1439
+00:55:50,070 --> 00:55:56,640
+you're gonna listen to fuck right though
+
+1440
+00:55:56,640 --> 00:55:58,230
+like they they're gonna do they're gonna
+
+1441
+00:55:58,230 --> 00:55:59,580
+be DLCs and they're gonna be like
+
+1442
+00:55:59,580 --> 00:56:01,859
+missions for specific vaults but you're
+
+1443
+00:56:01,859 --> 00:56:03,599
+gonna get if that happens I'm far
+
+1444
+00:56:03,599 --> 00:56:04,980
+everyone's gonna go ahead and you're
+
+1445
+00:56:04,980 --> 00:56:06,480
+gonna hit a button on a recorder like
+
+1446
+00:56:06,480 --> 00:56:08,730
+you know like I'm already done but I'm
+
+1447
+00:56:08,730 --> 00:56:11,040
+done done the drums are sounding in the
+
+1448
+00:56:11,040 --> 00:56:15,570
+deef and oh my god alright
+
+1449
+00:56:15,570 --> 00:56:19,170
+human NPCs yes or no dough no human NPCs
+
+1450
+00:56:19,170 --> 00:56:22,140
+yes or no rules maybe not actual people
+
+1451
+00:56:22,140 --> 00:56:25,200
+I I think you are wrong in order to save
+
+1452
+00:56:25,200 --> 00:56:26,790
+their game they have to put in the
+
+1453
+00:56:26,790 --> 00:56:29,670
+number one request just think they're
+
+1454
+00:56:29,670 --> 00:56:32,070
+gonna try to do the patches and just try
+
+1455
+00:56:32,070 --> 00:56:34,280
+to do the bare minimum
+
+1456
+00:56:34,280 --> 00:56:36,810
+their minimum and then they had planned
+
+1457
+00:56:36,810 --> 00:56:38,610
+I think somebody date a mind like six
+
+1458
+00:56:38,610 --> 00:56:41,370
+DLCs they're all free because nobody
+
+1459
+00:56:41,370 --> 00:56:45,300
+would pay for that yeah at this point I
+
+1460
+00:56:45,300 --> 00:56:48,750
+you can't you can't fix it like you can
+
+1461
+00:56:48,750 --> 00:56:50,790
+fix the technical problems but the game
+
+1462
+00:56:50,790 --> 00:56:53,220
+every single part of the game is busted
+
+1463
+00:56:53,220 --> 00:56:56,700
+or awful and this is a shock to it can't
+
+1464
+00:56:56,700 --> 00:57:00,360
+fix it you you just can't I am so so
+
+1465
+00:57:00,360 --> 00:57:04,320
+disappointed in you Bethesda $18 for
+
+1466
+00:57:04,320 --> 00:57:07,890
+fucking blue four blue are you serious
+
+1467
+00:57:07,890 --> 00:57:12,660
+with this evolve your memory the ball my
+
+1468
+00:57:12,660 --> 00:57:15,480
+dog no a weapon and he fall was more
+
+1469
+00:57:15,480 --> 00:57:18,000
+generous it was blue but it was blue and
+
+1470
+00:57:18,000 --> 00:57:20,040
+it was fucking blue but they didn't even
+
+1471
+00:57:20,040 --> 00:57:22,350
+make like unique looking power armors or
+
+1472
+00:57:22,350 --> 00:57:23,790
+something different like even in their
+
+1473
+00:57:23,790 --> 00:57:25,170
+live-action trailer there's a guy that
+
+1474
+00:57:25,170 --> 00:57:27,420
+looks like he's got an alien's colonial
+
+1475
+00:57:27,420 --> 00:57:30,090
+type that's not in the fucking game at
+
+1476
+00:57:30,090 --> 00:57:31,740
+least I haven't fucking seen what I've
+
+1477
+00:57:31,740 --> 00:57:33,420
+seen and that's the kind of stuff that
+
+1478
+00:57:33,420 --> 00:57:35,550
+maybe you could charge eighteen dollars
+
+1479
+00:57:35,550 --> 00:57:38,430
+for if you fucking put some alien stuff
+
+1480
+00:57:38,430 --> 00:57:41,280
+on it but that would be fucking IP theft
+
+1481
+00:57:41,280 --> 00:57:42,660
+anyways yeah
+
+1482
+00:57:42,660 --> 00:57:46,910
+guys that's it fallout 76 it's done
+
+1483
+00:57:46,910 --> 00:57:50,580
+they're gonna be bogged down by fixing
+
+1484
+00:57:50,580 --> 00:57:53,370
+all the bugs and the fundamental broken
+
+1485
+00:57:53,370 --> 00:57:54,870
+game designs for the next two three
+
+1486
+00:57:54,870 --> 00:57:57,360
+months and then they'll start to put out
+
+1487
+00:57:57,360 --> 00:57:59,190
+the DLCs but by then they'll only have
+
+1488
+00:57:59,190 --> 00:58:01,290
+20% of their player base yeah let's be
+
+1489
+00:58:01,290 --> 00:58:03,390
+real if they go as dispatching pace
+
+1490
+00:58:03,390 --> 00:58:06,420
+it'll be two three years or never or
+
+1491
+00:58:06,420 --> 00:58:08,610
+never they'll just be like the community
+
+1492
+00:58:08,610 --> 00:58:10,950
+Oh finally I'm gonna laugh so hard if
+
+1493
+00:58:10,950 --> 00:58:14,370
+there's a Windigo man in star field oh
+
+1494
+00:58:14,370 --> 00:58:21,210
+oh my god yeah they just maybe the
+
+1495
+00:58:21,210 --> 00:58:24,540
+community will fix it alright guys thank
+
+1496
+00:58:24,540 --> 00:58:27,390
+thank you so much for watching I don't
+
+1497
+00:58:27,390 --> 00:58:29,880
+know how these how this video will do I
+
+1498
+00:58:29,880 --> 00:58:32,840
+don't care if it gets 100 views this was
+
+1499
+00:58:32,840 --> 00:58:36,090
+therapeutic for us and we got to give
+
+1500
+00:58:36,090 --> 00:58:37,620
+you a little insight into the review it
+
+1501
+00:58:37,620 --> 00:58:39,540
+was a 2 out of 10 until I cut it last
+
+1502
+00:58:39,540 --> 00:58:41,460
+minute and honestly it deserves a 2 out
+
+1503
+00:58:41,460 --> 00:58:43,950
+of 10 it could eventually become a 3 out
+
+1504
+00:58:43,950 --> 00:58:45,360
+of 10 how high do you think the game
+
+1505
+00:58:45,360 --> 00:58:46,740
+will get it they fix
+
+1506
+00:58:46,740 --> 00:58:49,590
+everyth everything like every everything
+
+1507
+00:58:49,590 --> 00:58:51,390
+like all the but are we talking if the
+
+1508
+00:58:51,390 --> 00:59:01,369
+game was good never mind I don't know
+
+1509
+00:59:01,369 --> 00:59:03,930
+all right guys thank you so much for
+
+1510
+00:59:03,930 --> 00:59:05,640
+watching if you liked the video let us
+
+1511
+00:59:05,640 --> 00:59:07,320
+know we can do this in the future for
+
+1512
+00:59:07,320 --> 00:59:09,300
+future games yeah and let me know if you
+
+1513
+00:59:09,300 --> 00:59:12,210
+guys want to buy fallout 76 I'm selling
+
+1514
+00:59:12,210 --> 00:59:25,770
+it No $10 dollars it's taking up space
+
+1515
+00:59:25,770 --> 00:59:29,760
+in my computer and I have the Xbox one
+
+1516
+00:59:29,760 --> 00:59:32,220
+version I don't open I haven't users
+
+1517
+00:59:32,220 --> 00:59:33,720
+know discs by the way it's a piece of
+
+1518
+00:59:33,720 --> 00:59:36,750
+paper you can have card for it yeah and
+
+1519
+00:59:36,750 --> 00:59:38,880
+I want to probably get rid of my helmet
+
+1520
+00:59:38,880 --> 00:59:41,510
+and this is just so sad I want to cry
+
+1521
+00:59:41,510 --> 00:59:43,920
+alright guys thank you so much for
+
+1522
+00:59:43,920 --> 00:59:45,990
+watching I really will cry in the corner
+
+1523
+00:59:45,990 --> 00:59:47,940
+thanks a lot but as de I'm never gonna
+
+1524
+00:59:47,940 --> 00:59:50,400
+forget this have a good day bye guys see
+
+1525
+00:59:50,400 --> 00:59:51,840
+on the next anger Joe she'll see you
+
+1526
+00:59:51,840 --> 00:59:55,020
+guys don't forget to subscribe to our
+
+1527
+00:59:55,020 --> 00:59:56,700
+Channel show your support for our
+
+1528
+00:59:56,700 --> 01:00:00,630
+channel and hit the bell notification or
+
+1529
+01:00:00,630 --> 01:00:02,340
+whatever are gone or grab some of these
+
+1530
+01:00:02,340 --> 01:00:04,460
+shirts that these fools are wearing and
+
+1531
+01:00:04,460 --> 01:00:06,690
+alright thank you so much guys see on
+
+1532
+01:00:06,690 --> 01:00:13,970
+the next one bye bye
+
+1533
+01:00:13,970 --> 01:00:44,000
+[Music]
+

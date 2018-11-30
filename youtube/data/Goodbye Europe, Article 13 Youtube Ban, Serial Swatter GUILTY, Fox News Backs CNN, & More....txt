@@ -1,0 +1,76 @@
+1
+00:00:00,010 --> 00:00:09,860
+Sup, you beautiful bastards. Hope you're having a fantastic Wednesday. Welcome back to the Phillip DeFranco Show and let's just jump into it.
+
+2
+00:00:09,860 --> 00:00:16,860
+The first thing we need to talk about today is Article 13. AKA the reason why those of you watching in Europe right now might in the very near future not be able to watch me among many other things.
+
+3
+00:00:16,860 --> 00:00:28,040
+Now over the last month, youtube has been ramping up its opposition to the proposed Article 13 of the EUCD - the European Union Copyright Directive.
+
+4
+00:00:28,040 --> 00:00:35,040
+We have also talked about this in the past and I'll link down below to that previous coverage. But the oversimplified version is that Article 13, which is sometimes referred to as the upload filter would make platforms that host user-uploaded content liab
+
+5
+00:00:35,040 --> 00:00:41,160
+And what we saw on Monday is that YouTube posted an op-ed from their CEO titled the Potential Unintended Consequences of Article 13.
+
+6
+00:00:41,160 --> 00:00:49,820
+And in the post she said that creator economy is under threat from Article 13. And while YouTube supports the goal this specific proposal in its current form could have negative effects on creators and viewers.
+
+7
+00:00:49,820 --> 00:00:56,780
+She also provides an example of that of the video for Despacito which is the most viewed video on YouTube.
+
+8
+00:00:56,780 --> 00:01:03,780
+Writing this video contains multiple copyrights ranging from sound recording to publishing rights. Although YouTube has agreements with multiple entities to license and pay for the video, some of the rights holders remain unknown.
+
+9
+00:01:03,780 --> 00:01:09,640
+That uncertainty means we might have to block videos like this to avoid liability under Article 13.
+
+10
+00:01:09,640 --> 00:01:16,640
+Multiply that risk with the scale of YouTube, where more than 400 hours of video are uploaded every minute and the potential liabilities could be so large that no company could take on such a financial risk.
+
+11
+00:01:16,640 --> 00:01:18,640
+And so there lies the primary issue with Article 13.
+
+12
+00:01:18,640 --> 00:01:25,600
+When the content is uploaded unless they know for sure who owns every single part of it, it wouldn't make sense for YouTube to allow for it to go up.
+
+13
+00:01:25,600 --> 00:01:27,600
+And Susan pointed out they've already been working on things that deal with copy right strikes.
+
+14
+00:01:27,600 --> 00:01:29,600
+Things like the content ID programme.
+
+15
+00:01:29,600 --> 00:09:03,840
+A programme that she says has already paid out more than 2.5 billion Euros to copyright holders.
+
+16
+00:09:03,840 --> 00:09:09,340
+And then let's talk about a major development in a horrific swatting case that happened last year.
+
+17
+00:09:09,340 --> 00:09:13,720
+And for those who aren't familiar with that term, swatting is the practice of making a hoax phone call to police
+
+18
+00:09:13,720 --> 00:09:17,220
+This in an attempt to get police or a swat team to show up to a particular location.
+
+19
+00:09:17,220 --> 00:15:08,000
+Unfortunately we've covered several instances of these in the past.
+

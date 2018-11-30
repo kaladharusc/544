@@ -16,10 +16,10 @@ class Youtube:
         self.youtube_videos_url = "https://www.googleapis.com/youtube/v3/videos?key=AIzaSyCHAzIGfl709SFlme_J1HXAkPyPKGF9hlQ&"
         self.alreadyFiles = []
 
-    def makeUtubeRequest(self, utubeReponse, dir_name):
+    def makeUtubeRequest(self, utubeReponse, channelId, dir_name):
         while utubeReponse['nextPageToken']:
             url = self.youtube_search_url + \
-                "channelId=UCtinbF-Q-fVthA0qrFQTgXQ&part=snippet,id&order=date&maxResults=50&type=video"
+                "channelId="+channelId+"&part=snippet,id&order=date&maxResults=50&type=video"
             r = requests.get(url, {'pageToken': utubeReponse['nextPageToken']})
             utubeReponse = r.json()
 
@@ -66,7 +66,7 @@ class Youtube:
                 video['snippet']['title'], video['snippet']['publishedAt'], video['id']['videoId'], dir_name)
 
         if utubeReponse['nextPageToken']:
-            self.makeUtubeRequest(utubeReponse, dir_name)
+            self.makeUtubeRequest(utubeReponse, channelId, dir_name)
 
     def makeDIYCall(self, name, time, id, dir_name):
         print(name)
