@@ -25,7 +25,7 @@ def transfer_labels():
     from_file = json.loads(f2.read())
 
     for (k, v) in from_file.items():
-        if v:
+        if v and v != "":
             to_file[k] = v
     f3 = open("reviewed.json", "w")
     f3.write(json.dumps(to_file))
@@ -118,7 +118,7 @@ def main():
             continue
 
         if f in review.reviewed_json and review.reviewed_json[f]:
-            print("reviewed", f)
+            # print("reviewed", f)
             label = review.reviewed_json[f]
             jsonFile["corpus"].append({
                 'data': text,
@@ -216,7 +216,7 @@ def main():
                 label = 'PG13'
 
         elif offWordCount < 4:
-            print "offensive < 4"
+            # print "offensive < 4"
             # ********** Call Kaladhar's Function **********
             # Context Sexual
             review.log_reviewed(file_name, False, [{"offensive":
@@ -226,17 +226,17 @@ def main():
             # Context not sexual and offWordCount > 1 and offWordCount < 4
             # label = 'PG13'
         else:
-            print "offensive >= 4"
+            # print "offensive >= 4"
             label = 'R'
 
         # match = re.search('_(.*)', f)
         # fileName = match.groups()[0]
         # print fileName
-
-        jsonFile["corpus"].append({
-            'data': " ".join(text),
-            'label': label,
-        })
+        if label != "#":
+            jsonFile["corpus"].append({
+                'data': " ".join(text),
+                'label': label,
+            })
     print("empty_files", len(empty_files))
 
     review.write_to_file()
