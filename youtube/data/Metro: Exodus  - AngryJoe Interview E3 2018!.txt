@@ -1,0 +1,1260 @@
+1
+00:00:00,010 --> 00:00:02,129
+hey guys angry Joe here and I'm with the
+
+2
+00:00:02,129 --> 00:00:04,380
+executive producer for Metro at for a
+
+3
+00:00:04,380 --> 00:00:07,859
+games and I just got done with the demo
+
+4
+00:00:07,859 --> 00:00:12,990
+and it was really detailed I mean I
+
+5
+00:00:12,990 --> 00:00:15,299
+liked what I saw in the trailer and I
+
+6
+00:00:15,299 --> 00:00:18,660
+saw that same thing in the graphics the
+
+7
+00:00:18,660 --> 00:00:21,480
+upgrade there the immersion and we
+
+8
+00:00:21,480 --> 00:00:25,050
+played on the train and so that's a new
+
+9
+00:00:25,050 --> 00:00:27,570
+thing can you tell us a little bit about
+
+10
+00:00:27,570 --> 00:00:30,840
+that this train mechanic and yeah so I
+
+11
+00:00:30,840 --> 00:00:35,430
+mean the the Metro series is has spanned
+
+12
+00:00:35,430 --> 00:00:36,960
+three games while two games in the past
+
+13
+00:00:36,960 --> 00:00:38,879
+this is the third game now the previous
+
+14
+00:00:38,879 --> 00:00:40,800
+the two previous games took place kind
+
+15
+00:00:40,800 --> 00:00:43,800
+of exclusively within the city limits of
+
+16
+00:00:43,800 --> 00:00:47,070
+Moscow and mostly in the underground you
+
+17
+00:00:47,070 --> 00:00:49,559
+know inside the Metro tunnels venturing
+
+18
+00:00:49,559 --> 00:00:52,850
+out to the surface very very rarely and
+
+19
+00:00:52,850 --> 00:00:55,469
+Artyom the main character has lived
+
+20
+00:00:55,469 --> 00:00:58,590
+there you know most of his life and he's
+
+21
+00:00:58,590 --> 00:00:59,879
+been told that there's nothing else out
+
+22
+00:00:59,879 --> 00:01:01,230
+there everything else is just completely
+
+23
+00:01:01,230 --> 00:01:03,739
+destroyed it's all you know this barren
+
+24
+00:01:03,739 --> 00:01:05,880
+poison this wasteland there's no point
+
+25
+00:01:05,880 --> 00:01:07,350
+in going out there nobody nobody's out
+
+26
+00:01:07,350 --> 00:01:11,189
+there everybody's dead yeah but at the
+
+27
+00:01:11,189 --> 00:01:12,689
+beginning of mature Exodus he finds out
+
+28
+00:01:12,689 --> 00:01:13,560
+that's not exactly true
+
+29
+00:01:13,560 --> 00:01:17,880
+and he gets on this this train with a
+
+30
+00:01:17,880 --> 00:01:20,460
+group of you know Spartan soldiers it's
+
+31
+00:01:20,460 --> 00:01:22,229
+the elite military group that he's a
+
+32
+00:01:22,229 --> 00:01:24,810
+member of and they take this train on
+
+33
+00:01:24,810 --> 00:01:27,810
+this epic year-long journey that spans a
+
+34
+00:01:27,810 --> 00:01:30,810
+continent that goes across Russia and so
+
+35
+00:01:30,810 --> 00:01:33,509
+this train is is their home it's it's
+
+36
+00:01:33,509 --> 00:01:35,579
+their base it's it's what carries them
+
+37
+00:01:35,579 --> 00:01:37,380
+along on this journey and when when they
+
+38
+00:01:37,380 --> 00:01:39,119
+come to a new area and stop and go to
+
+39
+00:01:39,119 --> 00:01:41,640
+explore it's a place that they can use
+
+40
+00:01:41,640 --> 00:01:43,979
+is like a base like I'm home like a home
+
+41
+00:01:43,979 --> 00:01:45,119
+so you guys got
+
+42
+00:01:45,119 --> 00:01:46,950
+you know you get you learn their names
+
+43
+00:01:46,950 --> 00:01:49,399
+you get going missions with these guys
+
+44
+00:01:49,399 --> 00:01:51,780
+so there's a lot more ease involved with
+
+45
+00:01:51,780 --> 00:01:53,130
+them there's a lot more characters this
+
+46
+00:01:53,130 --> 00:01:55,079
+time for the player to interact with and
+
+47
+00:01:55,079 --> 00:01:56,270
+to get to know you know in the past
+
+48
+00:01:56,270 --> 00:01:58,829
+metro games there was maybe one maybe
+
+49
+00:01:58,829 --> 00:02:01,619
+two characters that you would spend a
+
+50
+00:02:01,619 --> 00:02:03,750
+lot of time with over the course of the
+
+51
+00:02:03,750 --> 00:02:05,610
+story this time there's a lot more yeah
+
+52
+00:02:05,610 --> 00:02:07,409
+you get a little team vibe to it yeah
+
+53
+00:02:07,409 --> 00:02:11,569
+who wrote the story or so the the
+
+54
+00:02:11,569 --> 00:02:13,310
+the metro games have always been based
+
+55
+00:02:13,310 --> 00:02:16,040
+on the the book lie by Dmitry Glukhovsky
+
+56
+00:02:16,040 --> 00:02:20,030
+it wasn't an the Metro 2033 the game was
+
+57
+00:02:20,030 --> 00:02:21,590
+based on the book directly of the same
+
+58
+00:02:21,590 --> 00:02:23,810
+name Metro last light was a new story
+
+59
+00:02:23,810 --> 00:02:25,670
+that we created alongside Dimitri
+
+60
+00:02:25,670 --> 00:02:27,829
+because his second book didn't really
+
+61
+00:02:27,829 --> 00:02:30,159
+fit the formula of a video game and also
+
+62
+00:02:30,159 --> 00:02:32,030
+covered different characters and we
+
+63
+00:02:32,030 --> 00:02:33,440
+wanted to continue the story of Artyom
+
+64
+00:02:33,440 --> 00:02:36,230
+and with Metro Exodus it's a it's kind
+
+65
+00:02:36,230 --> 00:02:38,209
+of a similar situation it's not based
+
+66
+00:02:38,209 --> 00:02:40,549
+directly on a book yeah but it carries
+
+67
+00:02:40,549 --> 00:02:42,230
+on the story from his third book is
+
+68
+00:02:42,230 --> 00:02:45,409
+their hook Metro 2035 kind of sets up
+
+69
+00:02:45,409 --> 00:02:47,540
+Exodus they kind of they blend together
+
+70
+00:02:47,540 --> 00:02:50,629
+so if you read through Metro 2035 the
+
+71
+00:02:50,629 --> 00:02:52,310
+ending kind of sets up the beginning of
+
+72
+00:02:52,310 --> 00:02:55,970
+Metro axis it so as I was playing I ran
+
+73
+00:02:55,970 --> 00:02:58,340
+into ran into three different issues but
+
+74
+00:02:58,340 --> 00:03:03,889
+everybody else I wasn't able to see what
+
+75
+00:03:03,889 --> 00:03:05,690
+happened after a certain point but I did
+
+76
+00:03:05,690 --> 00:03:08,900
+see that one thing I really wanted from
+
+77
+00:03:08,900 --> 00:03:10,849
+the game I already know is in there is
+
+78
+00:03:10,849 --> 00:03:13,099
+good these interesting creatures that
+
+79
+00:03:13,099 --> 00:03:15,349
+we've got to see before in previous
+
+80
+00:03:15,349 --> 00:03:17,030
+games you're getting that you're getting
+
+81
+00:03:17,030 --> 00:03:19,970
+some things in the water some sort of
+
+82
+00:03:19,970 --> 00:03:22,010
+scripted sequences that then turn into
+
+83
+00:03:22,010 --> 00:03:23,930
+actual sequences and gonna play and
+
+84
+00:03:23,930 --> 00:03:25,639
+stuff like that looks really appreciated
+
+85
+00:03:25,639 --> 00:03:28,250
+and then there was the the whole play of
+
+86
+00:03:28,250 --> 00:03:34,430
+the scarcity of the ammo yes you gotta
+
+87
+00:03:34,430 --> 00:03:36,410
+scavenge for resources it was that
+
+88
+00:03:36,410 --> 00:03:38,389
+intentional I think because I thought
+
+89
+00:03:38,389 --> 00:03:40,430
+that there wasn't gonna be any more
+
+90
+00:03:40,430 --> 00:03:42,829
+limitations on ammo or know that it
+
+91
+00:03:42,829 --> 00:03:46,069
+wouldn't be any more yes yeah the in
+
+92
+00:03:46,069 --> 00:03:48,650
+previous metro games we had a ammos
+
+93
+00:03:48,650 --> 00:03:51,379
+currency system that was set up in the
+
+94
+00:03:51,379 --> 00:03:53,720
+society that was built inside the the
+
+95
+00:03:53,720 --> 00:03:56,000
+metro system of Moscow and it's it was
+
+96
+00:03:56,000 --> 00:03:57,620
+these military-grade rounds that
+
+97
+00:03:57,620 --> 00:04:00,409
+functioned as as money or they can be
+
+98
+00:04:00,409 --> 00:04:02,299
+put into weapons and used for more
+
+99
+00:04:02,299 --> 00:04:04,849
+damage yeah but that was exclusive to
+
+100
+00:04:04,849 --> 00:04:06,560
+their society that they had built we're
+
+101
+00:04:06,560 --> 00:04:07,849
+now we're out in the wilderness there is
+
+102
+00:04:07,849 --> 00:04:09,739
+no society really there's maybe a couple
+
+103
+00:04:09,739 --> 00:04:11,419
+groups of people that are living
+
+104
+00:04:11,419 --> 00:04:13,599
+together but there's no like you know
+
+105
+00:04:13,599 --> 00:04:16,340
+there's nothing really set up outside in
+
+106
+00:04:16,340 --> 00:04:17,109
+the wilderness the
+
+107
+00:04:17,109 --> 00:04:20,289
+Tai's everyone together and so it's kind
+
+108
+00:04:20,289 --> 00:04:21,879
+of it's more like every man for himself
+
+109
+00:04:21,879 --> 00:04:24,099
+and Artem needs to make the things that
+
+110
+00:04:24,099 --> 00:04:25,960
+he needs right so he needs to scavenge
+
+111
+00:04:25,960 --> 00:04:28,719
+for resources there's you know metal
+
+112
+00:04:28,719 --> 00:04:31,030
+metal resources and chemical resources
+
+113
+00:04:31,030 --> 00:04:32,469
+you have to find and you can combine
+
+114
+00:04:32,469 --> 00:04:34,840
+these things into things like med packs
+
+115
+00:04:34,840 --> 00:04:38,409
+and gas masks filters ammunition and and
+
+116
+00:04:38,409 --> 00:04:40,990
+yeah use it so that wherever you want
+
+117
+00:04:40,990 --> 00:04:42,400
+you can just grab the ribbon there you
+
+118
+00:04:42,400 --> 00:04:43,689
+need some more help packs grab some
+
+119
+00:04:43,689 --> 00:04:45,969
+stuff crying now I was taking a lot of
+
+120
+00:04:45,969 --> 00:04:50,800
+damage I ain't no good I control the
+
+121
+00:04:50,800 --> 00:04:53,919
+boat controls on on hopefully guys well
+
+122
+00:04:53,919 --> 00:04:56,020
+at least I can't do it well now listen
+
+123
+00:04:56,020 --> 00:04:57,310
+keyboard is probably gonna be a lot
+
+124
+00:04:57,310 --> 00:04:59,860
+easier but what was I saying I'm saying
+
+125
+00:04:59,860 --> 00:05:02,319
+that when when I was getting shot and
+
+126
+00:05:02,319 --> 00:05:04,539
+you know you get the red reticle will
+
+127
+00:05:04,539 --> 00:05:06,400
+that stay on the whole time cuz they got
+
+128
+00:05:06,400 --> 00:05:08,590
+some good special sound effects like
+
+129
+00:05:08,590 --> 00:05:10,539
+your heart beating and he starts to
+
+130
+00:05:10,539 --> 00:05:12,759
+breathe really heavily but if I'm out of
+
+131
+00:05:12,759 --> 00:05:14,800
+you know many packs am I gonna have to
+
+132
+00:05:14,800 --> 00:05:16,629
+listen to that for the next hour you
+
+133
+00:05:16,629 --> 00:05:19,210
+know will I find more stuff it's I mean
+
+134
+00:05:19,210 --> 00:05:21,909
+yeah I mean it's a well so it's how we
+
+135
+00:05:21,909 --> 00:05:24,219
+do the indication that you're you're
+
+136
+00:05:24,219 --> 00:05:25,990
+damaged I mean you can so it'll be like
+
+137
+00:05:25,990 --> 00:05:28,000
+that there is there is a little bit of
+
+138
+00:05:28,000 --> 00:05:29,349
+healing over time okay
+
+139
+00:05:29,349 --> 00:05:32,259
+a tiny bit and and you can you can
+
+140
+00:05:32,259 --> 00:05:35,080
+actually a little-known thing is the
+
+141
+00:05:35,080 --> 00:05:36,520
+these rest points where you can go to
+
+142
+00:05:36,520 --> 00:05:39,099
+sleep to advance time that's between day
+
+143
+00:05:39,099 --> 00:05:39,400
+and night
+
+144
+00:05:39,400 --> 00:05:41,680
+you actually will heal when you're gonna
+
+145
+00:05:41,680 --> 00:05:43,750
+go and sleep so if you have no vet packs
+
+146
+00:05:43,750 --> 00:05:45,039
+and you can't find resources if you can
+
+147
+00:05:45,039 --> 00:05:46,330
+find one of those things you can heal up
+
+148
+00:05:46,330 --> 00:05:48,849
+that way too I like how the world opens
+
+149
+00:05:48,849 --> 00:05:51,189
+up and we went and we explored this sort
+
+150
+00:05:51,189 --> 00:05:53,110
+of church area and it looked like there
+
+151
+00:05:53,110 --> 00:05:55,389
+were survivors there they were friendly
+
+152
+00:05:55,389 --> 00:05:57,400
+and we go there and then it turns out
+
+153
+00:05:57,400 --> 00:06:01,330
+it's crazy crazy cults you know you know
+
+154
+00:06:01,330 --> 00:06:03,939
+talking about no technology yeah yeah
+
+155
+00:06:03,939 --> 00:06:07,120
+their own religion and and there's some
+
+156
+00:06:07,120 --> 00:06:08,319
+people there that you might be able to
+
+157
+00:06:08,319 --> 00:06:10,210
+help and stuff like that is that gonna
+
+158
+00:06:10,210 --> 00:06:11,710
+be and throughout the rest of the game
+
+159
+00:06:11,710 --> 00:06:14,199
+that you find these little things that
+
+160
+00:06:14,199 --> 00:06:16,479
+happen in storylines yeah I mean we so
+
+161
+00:06:16,479 --> 00:06:19,509
+we don't like to to make like you know
+
+162
+00:06:19,509 --> 00:06:21,129
+cookie cutter content that's like
+
+163
+00:06:21,129 --> 00:06:22,360
+stamped around so there's gonna be
+
+164
+00:06:22,360 --> 00:06:23,650
+different things that are trying to come
+
+165
+00:06:23,650 --> 00:06:25,539
+across in every area all the areas are
+
+166
+00:06:25,539 --> 00:06:27,610
+gonna look completely different the
+
+167
+00:06:27,610 --> 00:06:29,110
+environments the the seasons that you
+
+168
+00:06:29,110 --> 00:06:29,920
+come across like
+
+169
+00:06:29,920 --> 00:06:31,810
+whether everything be completely
+
+170
+00:06:31,810 --> 00:06:34,240
+different in everything yeah we're in a
+
+171
+00:06:34,240 --> 00:06:35,800
+whole new and we're taking this this
+
+172
+00:06:35,800 --> 00:06:38,140
+thing is over over the cross okay so all
+
+173
+00:06:38,140 --> 00:06:39,730
+these things were in this area and then
+
+174
+00:06:39,730 --> 00:06:43,750
+later on you'll move to the area okay
+
+175
+00:06:43,750 --> 00:06:45,430
+that's cool and that's so the different
+
+176
+00:06:45,430 --> 00:06:46,300
+things that you're gonna be you're gonna
+
+177
+00:06:46,300 --> 00:06:47,590
+be doing in these different areas in
+
+178
+00:06:47,590 --> 00:06:48,820
+these areas it's gonna be different each
+
+179
+00:06:48,820 --> 00:06:50,320
+time but yeah you might you might find
+
+180
+00:06:50,320 --> 00:06:51,970
+some survivors that want to join you one
+
+181
+00:06:51,970 --> 00:06:53,140
+of the things that you have to do in
+
+182
+00:06:53,140 --> 00:06:55,690
+this level that obviously you can get to
+
+183
+00:06:55,690 --> 00:07:00,250
+yeah is to obtain a passenger car to add
+
+184
+00:07:00,250 --> 00:07:03,640
+on to the Train so that there's now like
+
+185
+00:07:03,640 --> 00:07:05,170
+you know like some living space and so
+
+186
+00:07:05,170 --> 00:07:06,190
+that you can take on some more
+
+187
+00:07:06,190 --> 00:07:08,680
+passengers that's cool so there's there
+
+188
+00:07:08,680 --> 00:07:11,290
+there's different is there gonna be a
+
+189
+00:07:11,290 --> 00:07:30,700
+like a cab or a car that I can add well
+
+190
+00:07:30,700 --> 00:07:32,680
+I mean like I said the the different
+
+191
+00:07:32,680 --> 00:07:33,880
+areas are gonna have different societies
+
+192
+00:07:33,880 --> 00:07:35,710
+and they're going to be you know
+
+193
+00:07:35,710 --> 00:07:37,960
+established at vary to varying degrees
+
+194
+00:07:37,960 --> 00:07:41,650
+right so you might come across some
+
+195
+00:07:41,650 --> 00:07:42,670
+other societies they're a little bit
+
+196
+00:07:42,670 --> 00:07:44,110
+more built up and some that that are
+
+197
+00:07:44,110 --> 00:07:46,510
+that are even less established and then
+
+198
+00:07:46,510 --> 00:07:47,980
+the one that the one that you came
+
+199
+00:07:47,980 --> 00:07:49,870
+across so in addition to your backpack
+
+200
+00:07:49,870 --> 00:07:51,790
+that you're doing is there other areas
+
+201
+00:07:51,790 --> 00:07:54,370
+and you know more what would you say
+
+202
+00:07:54,370 --> 00:07:56,560
+like a heavier craft in or more
+
+203
+00:07:56,560 --> 00:07:58,930
+elaborate yeah so so the backpack you're
+
+204
+00:07:58,930 --> 00:08:00,580
+able to do certain things on the on the
+
+205
+00:08:00,580 --> 00:08:03,010
+fly anywhere in the field you can you
+
+206
+00:08:03,010 --> 00:08:04,840
+can customize your weapons the weapons
+
+207
+00:08:04,840 --> 00:08:07,990
+have been rebuilt the host yeah modular
+
+208
+00:08:07,990 --> 00:08:09,580
+so there's five hard points on every
+
+209
+00:08:09,580 --> 00:08:10,690
+weapon so you can swap out things like
+
+210
+00:08:10,690 --> 00:08:13,110
+barrels and stocks and magazines and
+
+211
+00:08:13,110 --> 00:08:15,580
+attachments you know scopes and lasers
+
+212
+00:08:15,580 --> 00:08:16,870
+and things like that and the backpack
+
+213
+00:08:16,870 --> 00:08:18,310
+allows you to do that anywhere so you
+
+214
+00:08:18,310 --> 00:08:19,960
+can change your tactics at any moment
+
+215
+00:08:19,960 --> 00:08:22,300
+you can also craft illuminate supplies
+
+216
+00:08:22,300 --> 00:08:25,120
+like met packs and and gas mask filters
+
+217
+00:08:25,120 --> 00:08:28,600
+and some throwable riders but when you
+
+218
+00:08:28,600 --> 00:08:30,260
+find a
+
+219
+00:08:30,260 --> 00:08:33,350
+a workbench which will be in more of
+
+220
+00:08:33,350 --> 00:08:35,510
+like a little safe house area you're
+
+221
+00:08:35,510 --> 00:08:36,919
+able to do the full suite of crafting so
+
+222
+00:08:36,919 --> 00:08:38,720
+you can also craft you can craft the
+
+223
+00:08:38,720 --> 00:08:41,150
+fold the full array of throwable items
+
+224
+00:08:41,150 --> 00:08:43,160
+you can craft ammunition for your main
+
+225
+00:08:43,160 --> 00:08:47,020
+weapons and you can customize your armor
+
+226
+00:08:47,020 --> 00:08:49,430
+upgrade your armor and so you know
+
+227
+00:08:49,430 --> 00:08:50,480
+things like your wrist braiser
+
+228
+00:08:50,480 --> 00:08:53,870
+and that's on the train there there
+
+229
+00:08:53,870 --> 00:08:55,310
+there is one on the train and there will
+
+230
+00:08:55,310 --> 00:08:57,500
+be work benches throughout the
+
+231
+00:08:57,500 --> 00:08:59,300
+environment as well okay in addition to
+
+232
+00:08:59,300 --> 00:09:01,190
+that at the workbench is usually there
+
+233
+00:09:01,190 --> 00:09:02,570
+there in a little safe house and there's
+
+234
+00:09:02,570 --> 00:09:04,340
+gonna be a bed there and the players can
+
+235
+00:09:04,340 --> 00:09:06,380
+can sleep in that bed and advanced time
+
+236
+00:09:06,380 --> 00:09:09,530
+between night and day which changes as
+
+237
+00:09:09,530 --> 00:09:11,840
+enemies incoming yeah like there's maybe
+
+238
+00:09:11,840 --> 00:09:14,870
+some more mutants at night or maybe you
+
+239
+00:09:14,870 --> 00:09:16,580
+can approach situations differently so
+
+240
+00:09:16,580 --> 00:09:18,260
+that bandit you know hideout you want to
+
+241
+00:09:18,260 --> 00:09:19,100
+get into because you think there's
+
+242
+00:09:19,100 --> 00:09:20,990
+something cool in there if you approach
+
+243
+00:09:20,990 --> 00:09:22,100
+it at night maybe some of them are
+
+244
+00:09:22,100 --> 00:09:23,630
+sleeping and you know you can use cover
+
+245
+00:09:23,630 --> 00:09:25,820
+of darkness again or you know during the
+
+246
+00:09:25,820 --> 00:09:27,640
+day some of them might be out on patrol
+
+247
+00:09:27,640 --> 00:09:30,590
+but you know like maybe maybe there's
+
+248
+00:09:30,590 --> 00:09:31,820
+still some guys in there so you can't
+
+249
+00:09:31,820 --> 00:09:33,320
+like sneak around as much but there's
+
+250
+00:09:33,320 --> 00:09:35,300
+less guys right so it kind of allows you
+
+251
+00:09:35,300 --> 00:09:38,630
+to change your tactics and the player is
+
+252
+00:09:38,630 --> 00:09:40,070
+able to kind of manipulate the world
+
+253
+00:09:40,070 --> 00:09:42,200
+around him in order to approach things
+
+254
+00:09:42,200 --> 00:09:43,310
+from a different from a different
+
+255
+00:09:43,310 --> 00:09:45,770
+perspective well it sound good sounded
+
+256
+00:09:45,770 --> 00:09:48,380
+good it's looking good is it about how
+
+257
+00:09:48,380 --> 00:09:51,020
+long is is this one is it be comparable
+
+258
+00:09:51,020 --> 00:09:53,240
+to the to the last it's much much larger
+
+259
+00:09:53,240 --> 00:09:55,040
+than than the last one yeah I mean
+
+260
+00:09:55,040 --> 00:09:56,960
+though in terms of you know different
+
+261
+00:09:56,960 --> 00:09:58,730
+different angles I can describe this
+
+262
+00:09:58,730 --> 00:10:02,990
+yeah the script is two times it's a
+
+263
+00:10:02,990 --> 00:10:04,640
+little bit larger than twice the size of
+
+264
+00:10:04,640 --> 00:10:07,310
+Metro 2033 Metro last light and all the
+
+265
+00:10:07,310 --> 00:10:10,160
+DLC scripts combined combined though so
+
+266
+00:10:10,160 --> 00:10:11,720
+there's a lot more dialogue and a lot
+
+267
+00:10:11,720 --> 00:10:14,960
+more story that the player can can you
+
+268
+00:10:14,960 --> 00:10:16,460
+know immerse themselves in if they want
+
+269
+00:10:16,460 --> 00:10:16,670
+to
+
+270
+00:10:16,670 --> 00:10:18,410
+there's the critical path and then
+
+271
+00:10:18,410 --> 00:10:20,840
+there's so much more extra content on
+
+272
+00:10:20,840 --> 00:10:24,380
+this before and did you guys leave voice
+
+273
+00:10:24,380 --> 00:10:26,750
+acted and players will be able to do the
+
+274
+00:10:26,750 --> 00:10:29,630
+the Russian voice over track and some
+
+275
+00:10:29,630 --> 00:10:33,040
+titles in their own region if they want
+
+276
+00:10:33,040 --> 00:10:37,550
+really authentic experience some of
+
+277
+00:10:37,550 --> 00:10:39,140
+those some of the voices are okay on
+
+278
+00:10:39,140 --> 00:10:41,480
+some other guy I want to see what
+
+279
+00:10:41,480 --> 00:10:44,600
+stuff still temporary okay so you know
+
+280
+00:10:44,600 --> 00:10:45,500
+we're still in progress we're doing
+
+281
+00:10:45,500 --> 00:10:46,820
+polish so we're still making our way
+
+282
+00:10:46,820 --> 00:10:49,579
+through stuff and also the size wise
+
+283
+00:10:49,579 --> 00:10:51,560
+this level that you played today yeah
+
+284
+00:10:51,560 --> 00:10:53,180
+the largest level that we've done before
+
+285
+00:10:53,180 --> 00:10:56,389
+and in Metro last light was I think 200
+
+286
+00:10:56,389 --> 00:10:58,670
+square meters and this one you played
+
+287
+00:10:58,670 --> 00:11:01,010
+today just this one level was two square
+
+288
+00:11:01,010 --> 00:11:03,410
+kilometers Wow so size wise much much
+
+289
+00:11:03,410 --> 00:11:04,820
+bigger the critical path in this one
+
+290
+00:11:04,820 --> 00:11:08,089
+level is many hours of gameplay and the
+
+291
+00:11:08,089 --> 00:11:10,399
+you know the extra side content that's
+
+292
+00:11:10,399 --> 00:11:12,440
+that's in this level is many many more
+
+293
+00:11:12,440 --> 00:11:13,279
+hours of gameplay
+
+294
+00:11:13,279 --> 00:11:17,899
+so we it's the I think play like fans of
+
+295
+00:11:17,899 --> 00:11:20,000
+the series and and new players coming in
+
+296
+00:11:20,000 --> 00:11:22,010
+and wanting you know single-player
+
+297
+00:11:22,010 --> 00:11:23,180
+content like this I think they're gonna
+
+298
+00:11:23,180 --> 00:11:24,860
+be pleased with you I think I think not
+
+299
+00:11:24,860 --> 00:11:26,570
+only a fans gonna be happy but a lot of
+
+300
+00:11:26,570 --> 00:11:28,370
+new players because you guys have really
+
+301
+00:11:28,370 --> 00:11:30,889
+been featured a lot in a you know the
+
+302
+00:11:30,889 --> 00:11:32,449
+the press copy yeah it's been pretty
+
+303
+00:11:32,449 --> 00:11:32,899
+exciting
+
+304
+00:11:32,899 --> 00:11:35,660
+yeah thank you so much for taking the
+
+305
+00:11:35,660 --> 00:11:38,329
+time to speak with us if you could tell
+
+306
+00:11:38,329 --> 00:11:43,430
+us again yeah so Metro Exodus comes out
+
+307
+00:11:43,430 --> 00:11:50,600
+on February 22nd 2019 on yeah turning
+
+308
+00:11:50,600 --> 00:11:54,250
+you know from broked over into you know
+
+309
+00:11:54,250 --> 00:12:01,550
+broke you weary definitely and and it's
+
+310
+00:12:01,550 --> 00:12:04,040
+coming out on Xbox one Playstation 4 and
+
+311
+00:12:04,040 --> 00:12:06,800
+PC so players be able to get it on you
+
+312
+00:12:06,800 --> 00:12:08,839
+know any any platform that the that they
+
+313
+00:12:08,839 --> 00:12:11,060
+want so all right thank you alright guys
+
+314
+00:12:11,060 --> 00:12:49,710
+we'll see you on the next anger Joe show
+
+315
+00:12:49,710 --> 00:13:20,000
+[Music]
+

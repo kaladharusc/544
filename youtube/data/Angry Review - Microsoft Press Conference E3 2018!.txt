@@ -1,0 +1,4912 @@
+1
+00:00:00,010 --> 00:00:03,419
+okay guys so more III wrap up winners
+
+2
+00:00:03,419 --> 00:00:05,310
+and losers when we thought of conference
+
+3
+00:00:05,310 --> 00:00:08,130
+this one Microsoft so Microsoft
+
+4
+00:00:08,130 --> 00:00:10,260
+conference I was on Geoff Keighley show
+
+5
+00:00:10,260 --> 00:00:13,259
+usually I was I was streaming that yeah
+
+6
+00:00:13,259 --> 00:00:15,900
+and and I loved going on the show he's
+
+7
+00:00:15,900 --> 00:00:18,090
+really nice to me and we've we've sort
+
+8
+00:00:18,090 --> 00:00:19,619
+of hashed it out we realized we're sort
+
+9
+00:00:19,619 --> 00:00:21,900
+of the same person on on different sides
+
+10
+00:00:21,900 --> 00:00:23,939
+of the coin you know I mean he's smart
+
+11
+00:00:23,939 --> 00:00:26,640
+of the professional you know PR kind of
+
+12
+00:00:26,640 --> 00:00:29,429
+guy really connections with everybody
+
+13
+00:00:29,429 --> 00:00:31,230
+yeah and I'm sort of you know I don't
+
+14
+00:00:31,230 --> 00:00:35,840
+know what to call it just Joe Joe Joe
+
+15
+00:00:35,840 --> 00:00:38,579
+dude with the fucking camera lacks silly
+
+16
+00:00:38,579 --> 00:00:40,739
+and and thankfully a lot of you guys
+
+17
+00:00:40,739 --> 00:00:43,590
+support that allows me to go there so he
+
+18
+00:00:43,590 --> 00:00:45,450
+really respects that and he thinks it's
+
+19
+00:00:45,450 --> 00:00:46,980
+really cool the angry army and
+
+20
+00:00:46,980 --> 00:00:49,260
+everything so thank you for bringing me
+
+21
+00:00:49,260 --> 00:00:51,960
+out there and thank you to Nvidia as
+
+22
+00:00:51,960 --> 00:00:54,059
+well one of our sponsors for really
+
+23
+00:00:54,059 --> 00:00:55,890
+getting me in there so this is I gotta
+
+24
+00:00:55,890 --> 00:00:57,629
+tell you so I couldn't get into Sony I
+
+25
+00:00:57,629 --> 00:00:59,550
+had to sneak in couldn't really get into
+
+26
+00:00:59,550 --> 00:01:01,590
+Microsoft because of that I bet you guys
+
+27
+00:01:01,590 --> 00:01:04,080
+know why I no longer have contacted
+
+28
+00:01:04,080 --> 00:01:05,880
+Microsoft it's sad
+
+29
+00:01:05,880 --> 00:01:08,520
+wonder it's sad because I used to be a
+
+30
+00:01:08,520 --> 00:01:10,680
+fanboy and they've completely sort of
+
+31
+00:01:10,680 --> 00:01:13,020
+stonewalled me in and I forget which PR
+
+32
+00:01:13,020 --> 00:01:15,450
+firm whole handles that but I'd like to
+
+33
+00:01:15,450 --> 00:01:17,460
+re-establish contact because I'm gonna
+
+34
+00:01:17,460 --> 00:01:19,200
+be talking about the games anyway but
+
+35
+00:01:19,200 --> 00:01:21,930
+artlessly whatever and this is why I
+
+36
+00:01:21,930 --> 00:01:23,880
+love our sponsor Nvidia that you could I
+
+37
+00:01:23,880 --> 00:01:25,110
+couldn't have asked for a better person
+
+38
+00:01:25,110 --> 00:01:26,850
+to work with because they also helped me
+
+39
+00:01:26,850 --> 00:01:28,530
+get into EA you know they should have
+
+40
+00:01:28,530 --> 00:01:30,150
+been talking about yeah I've been
+
+41
+00:01:30,150 --> 00:01:31,920
+keeping it real well they don't invite
+
+42
+00:01:31,920 --> 00:01:33,390
+me back or they don't want to pay for
+
+43
+00:01:33,390 --> 00:01:35,579
+anything right but how do you do that
+
+44
+00:01:35,579 --> 00:01:38,670
+you go to these guys and guess what
+
+45
+00:01:38,670 --> 00:01:41,520
+Nvidia does Nvidia pays for these events
+
+46
+00:01:41,520 --> 00:01:44,490
+and help sponsor EA and gets you know EA
+
+47
+00:01:44,490 --> 00:01:46,259
+goes and ask for sponsors to get these
+
+48
+00:01:46,259 --> 00:01:48,030
+different things and when you're working
+
+49
+00:01:48,030 --> 00:01:50,970
+with a company who those companies go to
+
+50
+00:01:50,970 --> 00:01:53,399
+for their games or their graphics they
+
+51
+00:01:53,399 --> 00:01:55,079
+can't say no they can't say no videos
+
+52
+00:01:55,079 --> 00:01:56,460
+like all right we want to bring some
+
+53
+00:01:56,460 --> 00:02:08,310
+people here so in case you're wondering
+
+54
+00:02:08,310 --> 00:02:09,259
+how I
+
+55
+00:02:09,259 --> 00:02:11,120
+you'll get access to these things I want
+
+56
+00:02:11,120 --> 00:02:14,060
+to thank our friends at Nvidia who keep
+
+57
+00:02:14,060 --> 00:02:16,819
+it real they know what the gamers are
+
+58
+00:02:16,819 --> 00:02:19,640
+asking for and they want people in there
+
+59
+00:02:19,640 --> 00:02:21,769
+that are gonna give real feedback and
+
+60
+00:02:21,769 --> 00:02:22,760
+not just kiss ass
+
+61
+00:02:22,760 --> 00:02:24,860
+and trust me I was there at EA and
+
+62
+00:02:24,860 --> 00:02:27,799
+Microsoft you know around their booths
+
+63
+00:02:27,799 --> 00:02:30,590
+and around the PR stuff there is so much
+
+64
+00:02:30,590 --> 00:02:33,230
+ass kiss I know it's what I don't get in
+
+65
+00:02:33,230 --> 00:02:35,299
+there so I didn't get the into the
+
+66
+00:02:35,299 --> 00:02:38,180
+conference but I did watch it you know
+
+67
+00:02:38,180 --> 00:02:43,159
+on the stream and with Jeff and so
+
+68
+00:02:43,159 --> 00:02:47,090
+here's the thing a lot better than I
+
+69
+00:02:47,090 --> 00:02:47,780
+expected
+
+70
+00:02:47,780 --> 00:02:49,849
+right yeah when they came out and there
+
+71
+00:02:49,849 --> 00:02:52,489
+were like 50 games you know 18
+
+72
+00:02:52,489 --> 00:02:55,220
+exclusives I was like okay we're in for
+
+73
+00:02:55,220 --> 00:02:56,720
+quite a ride they don't know what the
+
+74
+00:02:56,720 --> 00:03:00,530
+word exclusive means just like we have
+
+75
+00:03:00,530 --> 00:03:02,930
+one exciting but we're gonna call
+
+76
+00:03:02,930 --> 00:03:05,810
+everything else exclude three right well
+
+77
+00:03:05,810 --> 00:03:07,579
+it's because they play around with the
+
+78
+00:03:07,579 --> 00:03:09,500
+terminology and this is why on Jeff's
+
+79
+00:03:09,500 --> 00:03:12,139
+show I was hard on on Microsoft service
+
+80
+00:03:12,139 --> 00:03:13,340
+it was like what did you did you would
+
+81
+00:03:13,340 --> 00:03:15,859
+you think jaws like no not good at first
+
+82
+00:03:15,859 --> 00:03:17,269
+I was like it's do-or-die time
+
+83
+00:03:17,269 --> 00:03:19,280
+no no I'll put this up at the end of our
+
+84
+00:03:19,280 --> 00:03:22,220
+discussion here my time with Jeff but
+
+85
+00:03:22,220 --> 00:03:25,099
+and then when they came out I said no it
+
+86
+00:03:25,099 --> 00:03:28,669
+wasn't good but that only really applied
+
+87
+00:03:28,669 --> 00:03:30,440
+because in my head I was like all right
+
+88
+00:03:30,440 --> 00:03:32,569
+it's do-or-die time for first party
+
+89
+00:03:32,569 --> 00:03:35,510
+stuff you really have to show us what is
+
+90
+00:03:35,510 --> 00:03:38,120
+the reason to buy an xbox what's the
+
+91
+00:03:38,120 --> 00:03:41,000
+reason to buy an xbox 1x you know I mean
+
+92
+00:03:41,000 --> 00:03:43,099
+and they didn't address that question at
+
+93
+00:03:43,099 --> 00:03:45,319
+all in fact it was a real port what did
+
+94
+00:03:45,319 --> 00:03:47,359
+what do they have they have what did
+
+95
+00:03:47,359 --> 00:03:49,069
+they show what did you think they would
+
+96
+00:03:49,069 --> 00:03:50,660
+show did you thought they would show
+
+97
+00:03:50,660 --> 00:03:52,489
+Halo and Gears what did they show
+
+98
+00:03:52,489 --> 00:03:57,799
+hey little not even not even much of a
+
+99
+00:03:57,799 --> 00:03:59,900
+low we have no fucking clue what halo
+
+100
+00:03:59,900 --> 00:04:01,819
+infinity and I said I said this too
+
+101
+00:04:01,819 --> 00:04:03,260
+during the stream I brought it up
+
+102
+00:04:03,260 --> 00:04:04,879
+repeatedly I'm like not only did they
+
+103
+00:04:04,879 --> 00:04:06,859
+kind of just not give you any reason to
+
+104
+00:04:06,859 --> 00:04:09,349
+buy a console every single one of their
+
+105
+00:04:09,349 --> 00:04:11,479
+exclusives is also on Windows 10 yeah
+
+106
+00:04:11,479 --> 00:04:13,669
+and then they don't even care it makes
+
+107
+00:04:13,669 --> 00:04:16,130
+me laugh so much when they say the best
+
+108
+00:04:16,130 --> 00:04:19,489
+way to play is on Xbox one X to play
+
+109
+00:04:19,489 --> 00:04:21,959
+this game and I'm like this is No
+
+110
+00:04:21,959 --> 00:04:24,240
+I'm like no the actual best way to play
+
+111
+00:04:24,240 --> 00:04:27,690
+is on a big-ass big rig gaming PC you
+
+112
+00:04:27,690 --> 00:04:30,870
+know like from origin or an Nvidia this
+
+113
+00:04:30,870 --> 00:04:33,000
+is that's actually the best way to play
+
+114
+00:04:33,000 --> 00:04:35,759
+right but ok fine when you get down to
+
+115
+00:04:35,759 --> 00:04:38,220
+consoles is it the best way to play on
+
+116
+00:04:38,220 --> 00:04:40,979
+consoles yes but that's a yes with an
+
+117
+00:04:40,979 --> 00:04:45,180
+asterisk for me because the graphic it's
+
+118
+00:04:45,180 --> 00:04:47,789
+so many SKUs that you're not gonna know
+
+119
+00:04:47,789 --> 00:04:50,370
+and it blows me away that xmarks fanboys
+
+120
+00:04:50,370 --> 00:04:52,770
+I used to be one so I get to talk about
+
+121
+00:04:52,770 --> 00:04:55,139
+him like this thing is like the greatest
+
+122
+00:04:55,139 --> 00:04:57,150
+thing ever but it's not that doesn't
+
+123
+00:04:57,150 --> 00:04:59,430
+matter how many teraflops you have if
+
+124
+00:04:59,430 --> 00:05:03,150
+you don't have the games then what's the
+
+125
+00:05:03,150 --> 00:05:03,509
+point
+
+126
+00:05:03,509 --> 00:05:04,949
+I mean there's also been cases where it
+
+127
+00:05:04,949 --> 00:05:06,479
+sits back and forth - you know like
+
+128
+00:05:06,479 --> 00:05:08,430
+fallout for Xbox was technically more
+
+129
+00:05:08,430 --> 00:05:11,880
+powerful than ps4 ran it better so no
+
+130
+00:05:11,880 --> 00:05:14,669
+back and forth so doesn't even exactly
+
+131
+00:05:14,669 --> 00:05:17,490
+we we we start with we start right away
+
+132
+00:05:17,490 --> 00:05:19,289
+with Halo infinite which has me
+
+133
+00:05:19,289 --> 00:05:22,949
+concerned right if this was a big next
+
+134
+00:05:22,949 --> 00:05:24,690
+big halo that everybody's gonna be
+
+135
+00:05:24,690 --> 00:05:26,880
+interested why do you start to show with
+
+136
+00:05:26,880 --> 00:05:29,190
+it instead of ending the show with it
+
+137
+00:05:29,190 --> 00:05:31,320
+maybe because it's too early and they
+
+138
+00:05:31,320 --> 00:05:33,030
+don't want to show too much so and they
+
+139
+00:05:33,030 --> 00:05:35,250
+wanted to start strong so that's that's
+
+140
+00:05:35,250 --> 00:05:37,650
+the excuse I made for them but I hope
+
+141
+00:05:37,650 --> 00:05:42,740
+this isn't a battle royale oh this isn't
+
+142
+00:05:42,740 --> 00:05:46,349
+a game but there has a new art style
+
+143
+00:05:46,349 --> 00:05:48,690
+which I liked it looks to be going back
+
+144
+00:05:48,690 --> 00:05:50,460
+to their roots so I'll tell you what I
+
+145
+00:05:50,460 --> 00:05:53,220
+went from not excited at all about halo
+
+146
+00:05:53,220 --> 00:05:55,680
+6 and this is a nobody mentioned a low 6
+
+147
+00:05:55,680 --> 00:05:58,020
+that's a huge disappointment that no6
+
+148
+00:05:58,020 --> 00:06:01,470
+isn't there is halo infinite in halo 6
+
+149
+00:06:01,470 --> 00:06:05,280
+is halo 6 it's still coming you see all
+
+150
+00:06:05,280 --> 00:06:07,409
+these questions that's why I said no I
+
+151
+00:06:07,409 --> 00:06:09,150
+don't think it worked out Jeff you know
+
+152
+00:06:09,150 --> 00:06:12,930
+so it's too confusing but I am excited I
+
+153
+00:06:12,930 --> 00:06:14,669
+went from zero excitement in the Halo
+
+154
+00:06:14,669 --> 00:06:17,610
+franchise to excited I'm gonna play
+
+155
+00:06:17,610 --> 00:06:19,110
+hello infinite and I think it's
+
+156
+00:06:19,110 --> 00:06:20,849
+hopefully it's gonna be good
+
+157
+00:06:20,849 --> 00:06:22,470
+I'm actually more excited for angle
+
+158
+00:06:22,470 --> 00:06:24,360
+infinite than I am for halo say but it's
+
+159
+00:06:24,360 --> 00:06:30,910
+gonna be on PC
+
+160
+00:06:30,910 --> 00:06:32,980
+you know that's a low blow and it's one
+
+161
+00:06:32,980 --> 00:06:34,360
+that you could do for every single one
+
+162
+00:06:34,360 --> 00:06:36,310
+of these so don't we can't talk about no
+
+163
+00:06:36,310 --> 00:06:37,870
+here's the thing though and like I said
+
+164
+00:06:37,870 --> 00:06:40,330
+I said this too is like we you even said
+
+165
+00:06:40,330 --> 00:06:41,710
+it because it went from your YouTube
+
+166
+00:06:41,710 --> 00:06:43,360
+show into this conference and you were
+
+167
+00:06:43,360 --> 00:06:44,770
+like they need to do or die they need a
+
+168
+00:06:44,770 --> 00:06:46,060
+reason for people to turn on their
+
+169
+00:06:46,060 --> 00:06:48,910
+phones I'm not gonna turn my not and not
+
+170
+00:06:48,910 --> 00:06:50,650
+only that because I don't know how much
+
+171
+00:06:50,650 --> 00:06:53,800
+1s I'm not fucking playing 30fps I'm
+
+172
+00:06:53,800 --> 00:06:55,510
+gonna play PC a hundred percent of the
+
+173
+00:06:55,510 --> 00:06:57,490
+time or I have to go spend 400 bucks I
+
+174
+00:06:57,490 --> 00:07:00,340
+am I am so then we do or e2 which looks
+
+175
+00:07:00,340 --> 00:07:04,090
+amazing I really like oh yeah I want to
+
+176
+00:07:04,090 --> 00:07:05,920
+check it out - Jo let's play or E -
+
+177
+00:07:05,920 --> 00:07:07,750
+didn't play the first one first one I
+
+178
+00:07:07,750 --> 00:07:11,100
+think
+
+179
+00:07:11,100 --> 00:07:13,900
+okay so uh weren't we're in for that so
+
+180
+00:07:13,900 --> 00:07:16,030
+that's a strong point for Microsoft Halo
+
+181
+00:07:16,030 --> 00:07:17,860
+Infinite and got me interested or E -
+
+182
+00:07:17,860 --> 00:07:19,750
+beautiful but it's not one of those this
+
+183
+00:07:19,750 --> 00:07:21,550
+like system so you know anything like
+
+184
+00:07:21,550 --> 00:07:24,040
+that then they went with sec key roles
+
+185
+00:07:24,040 --> 00:07:27,280
+shadows die twice gameplay reveal so
+
+186
+00:07:27,280 --> 00:07:30,430
+this is good microsoft concentrated on
+
+187
+00:07:30,430 --> 00:07:31,930
+the games and that's what they needed to
+
+188
+00:07:31,930 --> 00:07:35,440
+do however is there a point where they
+
+189
+00:07:35,440 --> 00:07:37,840
+could do bad by concentrating on the
+
+190
+00:07:37,840 --> 00:07:40,930
+games and my answer is actually yes when
+
+191
+00:07:40,930 --> 00:07:43,930
+you have too many games to show off and
+
+192
+00:07:43,930 --> 00:07:46,180
+you don't show off enough of the ones
+
+193
+00:07:46,180 --> 00:07:48,070
+that are exciting and then you do a
+
+194
+00:07:48,070 --> 00:07:52,090
+sizzle reel where they go but there's
+
+195
+00:07:52,090 --> 00:07:55,000
+just too much so so I felt that that was
+
+196
+00:07:55,000 --> 00:07:56,650
+bloated in that way and they needed to
+
+197
+00:07:56,650 --> 00:07:58,690
+focus it down to the real big hitters
+
+198
+00:07:58,690 --> 00:08:00,760
+and show us more of the biggest on the
+
+199
+00:08:00,760 --> 00:08:03,070
+topic of Sakura - so I've been hoping
+
+200
+00:08:03,070 --> 00:08:05,500
+for blood-borne 2 for like four years
+
+201
+00:08:05,500 --> 00:08:07,270
+now and it's made by the same people so
+
+202
+00:08:07,270 --> 00:08:08,710
+yeah that people thought maybe this
+
+203
+00:08:08,710 --> 00:08:11,110
+would be blood it's from the it's from
+
+204
+00:08:11,110 --> 00:08:12,880
+software and we wanted another fromsoft
+
+205
+00:08:12,880 --> 00:08:14,320
+title and we wanted to get away from
+
+206
+00:08:14,320 --> 00:08:16,150
+Dark Souls but into another title that
+
+207
+00:08:16,150 --> 00:08:18,070
+plays similarly and I'm hoping that
+
+208
+00:08:18,070 --> 00:08:22,210
+secure is good you know it's crazy in
+
+209
+00:08:22,210 --> 00:08:23,890
+that weird that's we there better not be
+
+210
+00:08:23,890 --> 00:08:27,100
+no goddang microtransactions in this if
+
+211
+00:08:27,100 --> 00:08:29,290
+there is I like I'm not supporting you
+
+212
+00:08:29,290 --> 00:08:33,520
+fuck you guys for ya for going with
+
+213
+00:08:33,520 --> 00:08:34,930
+Activision cuz that's probably their
+
+214
+00:08:34,930 --> 00:08:36,370
+decision to go with Activision our
+
+215
+00:08:36,370 --> 00:08:37,810
+activism came and we're like we need to
+
+216
+00:08:37,810 --> 00:08:40,180
+get in on this fucking dark sword stuff
+
+217
+00:08:40,180 --> 00:08:42,760
+you know so we'll see we'll see is that
+
+218
+00:08:42,760 --> 00:08:44,050
+gonna ruin their vision I
+
+219
+00:08:44,050 --> 00:08:46,630
+think activision is maybe smart enough
+
+220
+00:08:46,630 --> 00:08:48,970
+now to not fuck with it because if
+
+221
+00:08:48,970 --> 00:08:51,459
+they're that stupid not to or anyway I
+
+222
+00:08:51,459 --> 00:08:53,709
+mean have you seen destiny and Apollo
+
+223
+00:08:53,709 --> 00:08:57,250
+Duty so fallout 76 which was the
+
+224
+00:08:57,250 --> 00:09:00,640
+worldwide reveal they got it first Todd
+
+225
+00:09:00,640 --> 00:09:02,140
+Howard shows up says we're having our
+
+226
+00:09:02,140 --> 00:09:04,570
+own conference after this one but they
+
+227
+00:09:04,570 --> 00:09:07,140
+had some friends here and I decided show
+
+228
+00:09:07,140 --> 00:09:09,459
+correction they paid us a lot of money
+
+229
+00:09:09,459 --> 00:09:13,360
+so you know oh he has a lot of friends
+
+230
+00:09:13,360 --> 00:09:15,220
+is what he said more like he has a lot
+
+231
+00:09:15,220 --> 00:09:17,769
+of dollars all he saw was dollar signs
+
+232
+00:09:17,769 --> 00:09:22,120
+why don't you stop by and look I know
+
+233
+00:09:22,120 --> 00:09:25,420
+Phil is really really charming but then
+
+234
+00:09:25,420 --> 00:09:29,019
+he's got a lot of friends yeah so it's
+
+235
+00:09:29,019 --> 00:09:31,029
+gonna be fallout 76 obviously gonna be
+
+236
+00:09:31,029 --> 00:09:34,480
+on the Xbox and Windows and and he
+
+237
+00:09:34,480 --> 00:09:36,279
+showed out more and fallout 76 so we'll
+
+238
+00:09:36,279 --> 00:09:37,720
+talk a little bit more about that in the
+
+239
+00:09:37,720 --> 00:09:41,170
+bethesda yeah so so so when we want a
+
+240
+00:09:41,170 --> 00:09:43,180
+captain spirit super excited about this
+
+241
+00:09:43,180 --> 00:09:45,220
+when I put up an interview only 20,000
+
+242
+00:09:45,220 --> 00:09:47,680
+views 30,000 I know it's an indie game I
+
+243
+00:09:47,680 --> 00:09:49,240
+know people don't care about it like
+
+244
+00:09:49,240 --> 00:09:50,740
+this locker right here but I'm telling
+
+245
+00:09:50,740 --> 00:09:52,720
+you they they tell good stories don't
+
+246
+00:09:52,720 --> 00:09:54,610
+not tell some good stories in this life
+
+247
+00:09:54,610 --> 00:09:56,140
+is strange universe it's about this
+
+248
+00:09:56,140 --> 00:09:58,060
+little kid you know he's got the cave
+
+249
+00:09:58,060 --> 00:09:59,980
+he's running around this is my childhood
+
+250
+00:09:59,980 --> 00:10:02,440
+I am so excited for this one and it's
+
+251
+00:10:02,440 --> 00:10:05,170
+fucking free there's no reason not to
+
+252
+00:10:05,170 --> 00:10:08,649
+play this and buy it for free what do
+
+253
+00:10:08,649 --> 00:10:13,480
+you thinking why are you fucking playing
+
+254
+00:10:13,480 --> 00:10:16,600
+with GI Joes I are so premise burned out
+
+255
+00:10:16,600 --> 00:10:21,880
+on emotional story games at Walking
+
+256
+00:10:21,880 --> 00:10:24,279
+Dead's you got the borderlands go I will
+
+257
+00:10:24,279 --> 00:10:26,589
+never be burned all the other stories
+
+258
+00:10:26,589 --> 00:10:32,050
+Batman would now always like kids
+
+259
+00:10:32,050 --> 00:10:34,240
+imagine mate you know what you're gonna
+
+260
+00:10:34,240 --> 00:10:38,199
+what did you name me I just know like
+
+261
+00:10:38,199 --> 00:10:39,730
+what I'm saying is that no I want to
+
+262
+00:10:39,730 --> 00:10:40,870
+know what you did as a kid I played
+
+263
+00:10:40,870 --> 00:10:43,510
+Starcraft on battlenet I'm dealing yeah
+
+264
+00:10:43,510 --> 00:10:46,420
+we're fuckin I 78 yeah you were eight I
+
+265
+00:10:46,420 --> 00:10:49,010
+play
+
+266
+00:10:49,010 --> 00:10:50,510
+I know why he doesn't care about
+
+267
+00:10:50,510 --> 00:10:53,360
+atmosphere cuz you didn't go outside and
+
+268
+00:10:53,360 --> 00:10:54,920
+run around and climb on trees
+
+269
+00:10:54,920 --> 00:10:57,709
+save yourself suppers UV rays and shit I
+
+270
+00:10:57,709 --> 00:10:59,149
+had a computer that's why I'm so
+
+271
+00:10:59,149 --> 00:11:00,949
+beautiful John can you back me up with
+
+272
+00:11:00,949 --> 00:11:03,769
+Kevin's bear meows exact same way what I
+
+273
+00:11:03,769 --> 00:11:06,110
+would run around with the blanket see
+
+274
+00:11:06,110 --> 00:11:08,779
+are you not excited for this yeah I
+
+275
+00:11:08,779 --> 00:11:10,880
+actually wanted to try life is strange
+
+276
+00:11:10,880 --> 00:11:13,130
+maybe this one will seem not interesting
+
+277
+00:11:13,130 --> 00:11:14,839
+life strange a bunch of you know girls
+
+278
+00:11:14,839 --> 00:11:16,190
+running around and I was like what is
+
+279
+00:11:16,190 --> 00:11:17,690
+this is there like a pro - yeah it's
+
+280
+00:11:17,690 --> 00:11:20,630
+actually not yeah it's great so maybe
+
+281
+00:11:20,630 --> 00:11:23,720
+this one up right this this I think will
+
+282
+00:11:23,720 --> 00:11:25,459
+bring in a lot of people like me who
+
+283
+00:11:25,459 --> 00:11:27,920
+dismiss the thing just because I'm not
+
+284
+00:11:27,920 --> 00:11:29,329
+gonna relate to those characters and
+
+285
+00:11:29,329 --> 00:11:30,920
+people are telling me Joe it's not about
+
+286
+00:11:30,920 --> 00:11:32,750
+male female you actually will relate to
+
+287
+00:11:32,750 --> 00:11:34,730
+all this stuff so I'm like alright brew
+
+288
+00:11:34,730 --> 00:11:36,980
+it so I'm going with Captain Spirit then
+
+289
+00:11:36,980 --> 00:11:38,870
+we're gonna go into life is strange -
+
+290
+00:11:38,870 --> 00:11:44,060
+and we'll see crackdown 3 I'm so like
+
+291
+00:11:44,060 --> 00:11:48,070
+this is a fucking joke Microsoft video
+
+292
+00:11:48,070 --> 00:11:51,440
+I'm so tired of talking about crackdown
+
+293
+00:11:51,440 --> 00:11:54,050
+3 doesn't even look like crackdown 3
+
+294
+00:11:54,050 --> 00:11:55,639
+anymore there's none of that destruction
+
+295
+00:11:55,639 --> 00:11:57,889
+that we've seen her and the mega Xbox
+
+296
+00:11:57,889 --> 00:11:58,940
+fan boys all yours
+
+297
+00:11:58,940 --> 00:12:00,709
+it's in the multiplayer why don't you
+
+298
+00:12:00,709 --> 00:12:02,329
+show me the multiplayer then why aren't
+
+299
+00:12:02,329 --> 00:12:04,069
+you showing it if they shut the game off
+
+300
+00:12:04,069 --> 00:12:07,910
+like three years ago how 13 they don't
+
+301
+00:12:07,910 --> 00:12:13,850
+leave the gate if they don't they've had
+
+302
+00:12:13,850 --> 00:12:16,250
+to redo the game so many times guys and
+
+303
+00:12:16,250 --> 00:12:19,940
+I'm telling you if it worked for Terry
+
+304
+00:12:19,940 --> 00:12:21,500
+Crews jump
+
+305
+00:12:21,500 --> 00:12:24,500
+yeah that was their saving grace yeah oh
+
+306
+00:12:24,500 --> 00:12:29,149
+my god this game oh it is now they
+
+307
+00:12:29,149 --> 00:12:30,649
+already show Terry Crews off last year
+
+308
+00:12:30,649 --> 00:12:32,329
+so it's kind of hard I was like really
+
+309
+00:12:32,329 --> 00:12:33,949
+I'm not gonna be into you this year
+
+310
+00:12:33,949 --> 00:12:36,170
+Terry but somehow this motherfucker
+
+311
+00:12:36,170 --> 00:12:38,510
+Terry Crews gets me excited and I was
+
+312
+00:12:38,510 --> 00:12:39,589
+like you know what that was a good
+
+313
+00:12:39,589 --> 00:12:41,740
+trailer was funny it was interesting and
+
+314
+00:12:41,740 --> 00:12:45,079
+ok I'll play it but I saw a guy at
+
+315
+00:12:45,079 --> 00:12:45,920
+Microsoft
+
+316
+00:12:45,920 --> 00:12:48,230
+like whoever create whoever said let's
+
+317
+00:12:48,230 --> 00:12:50,389
+get Terry Crews to be that that guy the
+
+318
+00:12:50,389 --> 00:12:52,519
+main character there was more genius
+
+319
+00:12:52,519 --> 00:12:54,260
+because if you showing off
+
+320
+00:12:54,260 --> 00:12:57,640
+crackdown 3 at 2018 without Terry Crews
+
+321
+00:12:57,640 --> 00:12:59,699
+everybody would you would have heard
+
+322
+00:12:59,699 --> 00:13:01,829
+collective sigh when the fucking thing
+
+323
+00:13:01,829 --> 00:13:04,529
+came out but Terry somehow he says I
+
+324
+00:13:04,529 --> 00:13:06,119
+mean it has this way to make you hyper
+
+325
+00:13:06,119 --> 00:13:07,799
+eighty I thought last year's trailer for
+
+326
+00:13:07,799 --> 00:13:08,879
+it was better though when they like
+
+327
+00:13:08,879 --> 00:13:10,199
+through that field truck through the
+
+328
+00:13:10,199 --> 00:13:12,089
+skyscraper and all that other stuff but
+
+329
+00:13:12,089 --> 00:13:14,549
+I don't know he kept it together so it's
+
+330
+00:13:14,549 --> 00:13:17,129
+just it got delayed again so you know
+
+331
+00:13:17,129 --> 00:13:21,809
+then Nier automata automata is to xbox
+
+332
+00:13:21,809 --> 00:13:24,149
+that's a that's a big thing for xbox
+
+333
+00:13:24,149 --> 00:13:26,459
+bands because it was on PlayStation
+
+334
+00:13:26,459 --> 00:13:29,279
+exclusive so this is starting to be some
+
+335
+00:13:29,279 --> 00:13:31,139
+of this xbox comeback and Xbox
+
+336
+00:13:31,139 --> 00:13:33,629
+rah-rah-rah right and I'll come back tax
+
+337
+00:13:33,629 --> 00:13:36,119
+marks and and Durarara if they do a lot
+
+338
+00:13:36,119 --> 00:13:38,129
+more of this kind of stuff so then we
+
+339
+00:13:38,129 --> 00:13:40,739
+get Metro Exodus gameplay sort of reveal
+
+340
+00:13:40,739 --> 00:13:42,629
+I'm glad they're putting these guys up
+
+341
+00:13:42,629 --> 00:13:45,119
+on the big stage because they're
+
+342
+00:13:45,119 --> 00:13:47,519
+actually kind of a smaller devote well I
+
+343
+00:13:47,519 --> 00:13:50,660
+wouldn't say small but by comparison
+
+344
+00:13:50,660 --> 00:13:53,730
+Ukrainian I think developer and and you
+
+345
+00:13:53,730 --> 00:13:56,189
+don't this is because metro did so well
+
+346
+00:13:56,189 --> 00:13:58,169
+they're getting the big stage they're
+
+347
+00:13:58,169 --> 00:14:00,269
+getting the big time and I play the demo
+
+348
+00:14:00,269 --> 00:14:02,189
+Joe it crashed three fucking different
+
+349
+00:14:02,189 --> 00:14:07,410
+times on me at the voice actor but it
+
+350
+00:14:07,410 --> 00:14:09,059
+was real bad it was very but but
+
+351
+00:14:09,059 --> 00:14:10,559
+everybody else I'll say this Joe
+
+352
+00:14:10,559 --> 00:14:11,819
+everybody else in front of they gonna be
+
+353
+00:14:11,819 --> 00:14:13,169
+we're having a great time and then we're
+
+354
+00:14:13,169 --> 00:14:14,759
+playing it was only me you might have
+
+355
+00:14:14,759 --> 00:14:17,220
+that luck yeah yeah it's Joe break dream
+
+356
+00:14:17,220 --> 00:14:18,869
+but it was only me it broke three
+
+357
+00:14:18,869 --> 00:14:20,579
+different times but something that I
+
+358
+00:14:20,579 --> 00:14:23,399
+could notice that wasn't broken was the
+
+359
+00:14:23,399 --> 00:14:26,910
+voice acting was so bad so hokey so you
+
+360
+00:14:26,910 --> 00:14:28,709
+know when you have some of these teams
+
+361
+00:14:28,709 --> 00:14:32,369
+in other regions they don't know or get
+
+362
+00:14:32,369 --> 00:14:35,039
+into contact with the with the actual
+
+363
+00:14:35,039 --> 00:14:36,839
+voice acting teams that I guess were
+
+364
+00:14:36,839 --> 00:14:39,269
+used to so so the voice acting real bad
+
+365
+00:14:39,269 --> 00:14:40,799
+I'm gonna play this probably gonna play
+
+366
+00:14:40,799 --> 00:14:42,089
+this game in its native language what
+
+367
+00:14:42,089 --> 00:14:43,529
+they said you you could do you could do
+
+368
+00:14:43,529 --> 00:14:44,910
+it in Russian you could do it in
+
+369
+00:14:44,910 --> 00:14:46,889
+subtitles and which sometimes you can do
+
+370
+00:14:46,889 --> 00:14:49,049
+it in a lot of these these the southern
+
+371
+00:14:49,049 --> 00:14:51,419
+language I think that's how I'm gonna do
+
+372
+00:14:51,419 --> 00:14:53,249
+it but I did speak with the guy and he
+
+373
+00:14:53,249 --> 00:14:54,720
+said there's a lot of placeholders here
+
+374
+00:14:54,720 --> 00:14:56,879
+Joe someplace I was like alright gonna
+
+375
+00:14:56,879 --> 00:14:58,319
+be too hard on it did you play in the
+
+376
+00:14:58,319 --> 00:15:04,410
+first two metros yeah yes so this one is
+
+377
+00:15:04,410 --> 00:15:07,289
+not an open-world what it is is you're
+
+378
+00:15:07,289 --> 00:15:08,909
+going from region to region with the
+
+379
+00:15:08,909 --> 00:15:10,439
+Train once you get to this next region
+
+380
+00:15:10,439 --> 00:15:12,209
+then you do we all explore and do all
+
+381
+00:15:12,209 --> 00:15:13,260
+the shit that and
+
+382
+00:15:13,260 --> 00:15:15,090
+next one with the train and it's and so
+
+383
+00:15:15,090 --> 00:15:16,520
+we have different environments very
+
+384
+00:15:16,520 --> 00:15:19,620
+exciting all I wanted from this was
+
+385
+00:15:19,620 --> 00:15:21,900
+interesting creatures and that's what I
+
+386
+00:15:21,900 --> 00:15:24,270
+got I was on this fucking paddle which
+
+387
+00:15:24,270 --> 00:15:26,040
+by the way was the most frustrating
+
+388
+00:15:26,040 --> 00:15:28,350
+control scheme like I'm really worried
+
+389
+00:15:28,350 --> 00:15:29,700
+for this game guys from what I'm
+
+390
+00:15:29,700 --> 00:15:33,090
+actually played yeah but but the control
+
+391
+00:15:33,090 --> 00:15:36,320
+so bad but then these things come into
+
+392
+00:15:36,320 --> 00:15:40,320
+the softer way oh my god fuck and that
+
+393
+00:15:40,320 --> 00:15:43,200
+was like a mutant alligator it was I was
+
+394
+00:15:43,200 --> 00:15:47,000
+like yes okay please fix the game
+
+395
+00:15:47,000 --> 00:15:49,380
+Russian games tend to have they're
+
+396
+00:15:49,380 --> 00:15:51,870
+called beautiful train wrecks like look
+
+397
+00:15:51,870 --> 00:15:53,340
+at stalker stalker was one of the most
+
+398
+00:15:53,340 --> 00:15:55,020
+buggy games in the world when it came
+
+399
+00:15:55,020 --> 00:15:58,590
+out it was fantastic only a mother could
+
+400
+00:15:58,590 --> 00:16:00,870
+love your kind of face sometimes some of
+
+401
+00:16:00,870 --> 00:16:03,510
+the face facial animations weren't that
+
+402
+00:16:03,510 --> 00:16:05,310
+great but you know what this is a this
+
+403
+00:16:05,310 --> 00:16:06,960
+is a studio they're coming up they're
+
+404
+00:16:06,960 --> 00:16:08,790
+getting more and more budget they're
+
+405
+00:16:08,790 --> 00:16:10,770
+getting more and more recognition and I
+
+406
+00:16:10,770 --> 00:16:12,650
+wanted to do well so this thing can go
+
+407
+00:16:12,650 --> 00:16:15,720
+into the stratosphere but I'm so excited
+
+408
+00:16:15,720 --> 00:16:17,490
+and then Kingdom Hearts first time ever
+
+409
+00:16:17,490 --> 00:16:19,440
+on Xbox so they were real happy about
+
+410
+00:16:19,440 --> 00:16:23,220
+that more Xbox Rara right they did the
+
+411
+00:16:23,220 --> 00:16:27,060
+frozen reveal kind of stuff it's just it
+
+412
+00:16:27,060 --> 00:16:27,990
+was weird that there was a lot of
+
+413
+00:16:27,990 --> 00:16:29,700
+missing sound effects in this particular
+
+414
+00:16:29,700 --> 00:16:31,560
+trade you notice that housing just the
+
+415
+00:16:31,560 --> 00:16:33,300
+voices and it was like shit going on it
+
+416
+00:16:33,300 --> 00:16:35,310
+was dead silent you're like Hello that's
+
+417
+00:16:35,310 --> 00:16:37,200
+why I made a name the heart it looks so
+
+418
+00:16:37,200 --> 00:16:38,810
+bad because yeah and it made that
+
+419
+00:16:38,810 --> 00:16:41,340
+melodramatic garbage boys I mean even
+
+420
+00:16:41,340 --> 00:16:43,500
+worse because it's like that's all to
+
+421
+00:16:43,500 --> 00:16:52,800
+get the heart I know my heart in heart
+
+422
+00:16:52,800 --> 00:16:57,060
+that's amazing you can control ice
+
+423
+00:16:57,060 --> 00:16:58,600
+control it
+
+424
+00:16:58,600 --> 00:17:04,209
+no all I ever do is hurt people I won't
+
+425
+00:17:04,209 --> 00:17:07,030
+hurt people no no do you all I do is
+
+426
+00:17:07,030 --> 00:17:07,600
+hurt people
+
+427
+00:17:07,600 --> 00:17:10,600
+no it was like there's like no ambience
+
+428
+00:17:10,600 --> 00:17:14,740
+that's what I said sound effects yeah
+
+429
+00:17:14,740 --> 00:17:17,709
+anyways so so that was good for them we
+
+430
+00:17:17,709 --> 00:17:20,350
+have a lot to go through with with with
+
+431
+00:17:20,350 --> 00:17:23,140
+Xbox so see if thieves are coming with
+
+432
+00:17:23,140 --> 00:17:25,329
+two expansions for me how much you
+
+433
+00:17:25,329 --> 00:17:26,890
+release the game interesting from the
+
+434
+00:17:26,890 --> 00:17:28,299
+beginning instead of turning every
+
+435
+00:17:28,299 --> 00:17:29,679
+fucking game into an early access
+
+436
+00:17:29,679 --> 00:17:32,320
+platform fuck ah so they're adding AI
+
+437
+00:17:32,320 --> 00:17:34,240
+ships which is something that should
+
+438
+00:17:34,240 --> 00:17:35,440
+have been in here everybody was like oh
+
+439
+00:17:35,440 --> 00:17:36,730
+it's gonna be so good I was like fuck
+
+440
+00:17:36,730 --> 00:17:40,600
+you I already paid down with this speed
+
+441
+00:17:40,600 --> 00:17:43,600
+just a lot of people yeah so you're
+
+442
+00:17:43,600 --> 00:17:45,280
+developing for a smaller and smaller
+
+443
+00:17:45,280 --> 00:17:47,799
+user man don't do that stuff like we
+
+444
+00:17:47,799 --> 00:17:49,600
+don't reward that behavior so I'm not
+
+445
+00:17:49,600 --> 00:17:52,450
+going back until like 2 more years or
+
+446
+00:17:52,450 --> 00:17:54,340
+whatever I'm not you know what see it
+
+447
+00:17:54,340 --> 00:17:58,570
+thieves - yeah we'll see you guys do see
+
+448
+00:17:58,570 --> 00:18:00,220
+them thieves - we'll be a bank you're
+
+449
+00:18:00,220 --> 00:18:01,780
+not convincing us with all these little
+
+450
+00:18:01,780 --> 00:18:04,860
+dink and dunks here and there no thanks
+
+451
+00:18:04,860 --> 00:18:08,260
+battlefield 5 war story teaser tip
+
+452
+00:18:08,260 --> 00:18:11,940
+nothing no it did the game a disservice
+
+453
+00:18:11,940 --> 00:18:13,630
+disappointed they didn't show anything
+
+454
+00:18:13,630 --> 00:18:17,530
+else yeah what is what is EA's major
+
+455
+00:18:17,530 --> 00:18:18,970
+problem they know they're having an
+
+456
+00:18:18,970 --> 00:18:20,559
+issue because some of their some of the
+
+457
+00:18:20,559 --> 00:18:23,380
+fanboys and you know people want
+
+458
+00:18:23,380 --> 00:18:25,330
+historical accuracy you're mixing that
+
+459
+00:18:25,330 --> 00:18:26,890
+in with red hats you're mixing in with
+
+460
+00:18:26,890 --> 00:18:28,600
+trolls but there are some legitimate
+
+461
+00:18:28,600 --> 00:18:29,950
+people in there that just want
+
+462
+00:18:29,950 --> 00:18:31,870
+historically accurate war - and they're
+
+463
+00:18:31,870 --> 00:18:34,270
+not you know sexist or racist or
+
+464
+00:18:34,270 --> 00:18:36,549
+anything like that you know and and EA
+
+465
+00:18:36,549 --> 00:18:38,799
+and what I'm saying is a is dropping the
+
+466
+00:18:38,799 --> 00:18:41,080
+fucking ball on showing this game off
+
+467
+00:18:41,080 --> 00:18:43,150
+the way it should be shown off to
+
+468
+00:18:43,150 --> 00:18:44,830
+convince those people that yeah it's not
+
+469
+00:18:44,830 --> 00:18:46,540
+historically accurate but this is one of
+
+470
+00:18:46,540 --> 00:18:47,980
+the best battlefields that we've ever
+
+471
+00:18:47,980 --> 00:18:50,919
+made and that's I'm telling you it is
+
+472
+00:18:50,919 --> 00:18:52,419
+one of the best battlefields they've
+
+473
+00:18:52,419 --> 00:18:54,309
+ever made and I don't give a shit if
+
+474
+00:18:54,309 --> 00:18:57,370
+there's a woman over here screaming her
+
+475
+00:18:57,370 --> 00:18:59,250
+heart out because she's about to die and
+
+476
+00:18:59,250 --> 00:19:02,500
+bloody screams you know I could deal
+
+477
+00:19:02,500 --> 00:19:03,430
+with that
+
+478
+00:19:03,430 --> 00:19:04,990
+deal for me I think playing devil's
+
+479
+00:19:04,990 --> 00:19:07,360
+advocate like most people don't care
+
+480
+00:19:07,360 --> 00:19:09,280
+that there's women in the game most
+
+481
+00:19:09,280 --> 00:19:11,020
+people for an obscene are pissed that
+
+482
+00:19:11,020 --> 00:19:12,520
+they added them to like the British side
+
+483
+00:19:12,520 --> 00:19:13,810
+and not the Russian side because the
+
+484
+00:19:13,810 --> 00:19:15,880
+Russians had bad ass fucking women in
+
+485
+00:19:15,880 --> 00:19:18,280
+World War two they had crazy no most of
+
+486
+00:19:18,280 --> 00:19:19,960
+you most of the people complaining
+
+487
+00:19:19,960 --> 00:19:21,040
+they're just complaining that there's
+
+488
+00:19:21,040 --> 00:19:22,420
+work out on the game because it's not
+
+489
+00:19:22,420 --> 00:19:23,950
+historically accurate then there's a
+
+490
+00:19:23,950 --> 00:19:25,930
+subset that said all we want in story a
+
+491
+00:19:25,930 --> 00:19:27,430
+great but only put it in the Russian but
+
+492
+00:19:27,430 --> 00:19:29,830
+that is like point.this percent of this
+
+493
+00:19:29,830 --> 00:19:32,320
+percent of this offshoot no fuck it all
+
+494
+00:19:32,320 --> 00:19:34,480
+those complaining just here's the thing
+
+495
+00:19:34,480 --> 00:19:37,450
+game you just shut up play the game I
+
+496
+00:19:37,450 --> 00:19:39,370
+know that might hurt your feelings but
+
+497
+00:19:39,370 --> 00:19:40,990
+I'll give you some great alternatives
+
+498
+00:19:40,990 --> 00:19:43,300
+post scriptum is this historically
+
+499
+00:19:43,300 --> 00:19:46,240
+accurate game that I'm telling you might
+
+500
+00:19:46,240 --> 00:19:48,760
+be better than battlefield 5 in some
+
+501
+00:19:48,760 --> 00:19:50,650
+ways makes no sense cuz it's only like
+
+502
+00:19:50,650 --> 00:19:53,890
+eight developers but but just the voice
+
+503
+00:19:53,890 --> 00:19:56,770
+chat the communications the ambiance the
+
+504
+00:19:56,770 --> 00:19:59,530
+sounds you're gonna have a great time in
+
+505
+00:19:59,530 --> 00:20:01,990
+that historically accurate and then once
+
+506
+00:20:01,990 --> 00:20:02,980
+you want to take a break from
+
+507
+00:20:02,980 --> 00:20:04,480
+historically accurate come and play
+
+508
+00:20:04,480 --> 00:20:06,100
+battlefield 5 because you're gonna have
+
+509
+00:20:06,100 --> 00:20:08,950
+an amazing time I fucking parent trooper
+
+510
+00:20:08,950 --> 00:20:12,570
+down right on top of them an objective
+
+511
+00:20:12,570 --> 00:20:16,030
+five freaking guys and I found like a
+
+512
+00:20:16,030 --> 00:20:18,370
+freaking badass so that's the thing is
+
+513
+00:20:18,370 --> 00:20:19,990
+like the gameplay a lot of people were
+
+514
+00:20:19,990 --> 00:20:21,430
+streaming the gameplay from the booths
+
+515
+00:20:21,430 --> 00:20:22,780
+and stuff that they were playing and
+
+516
+00:20:22,780 --> 00:20:24,490
+they were live-streaming it and it
+
+517
+00:20:24,490 --> 00:20:28,750
+looked fucking amazing yeah what's going
+
+518
+00:20:28,750 --> 00:20:29,920
+on with the vehicles you need show me
+
+519
+00:20:29,920 --> 00:20:31,540
+more of the vehicles cuz I don't want
+
+520
+00:20:31,540 --> 00:20:32,590
+the vehicles to be like sort of
+
+521
+00:20:32,590 --> 00:20:34,690
+power-ups or or you know okay I want it
+
+522
+00:20:34,690 --> 00:20:37,990
+to be like battlefield 4 and 3 yeah all
+
+523
+00:20:37,990 --> 00:20:40,540
+right poor shit they revealed those been
+
+524
+00:20:40,540 --> 00:20:49,780
+riding e8 and they just added a press
+
+525
+00:20:49,780 --> 00:20:51,670
+conference show not this conference they
+
+526
+00:20:51,670 --> 00:20:53,860
+didn't show it there but yes they had a
+
+527
+00:20:53,860 --> 00:20:57,280
+battery so for aya Forza horizon for was
+
+528
+00:20:57,280 --> 00:21:00,280
+the next big Xbox exclusive it's in
+
+529
+00:21:00,280 --> 00:21:04,030
+Britain now and yeah I'm big into cars
+
+530
+00:21:04,030 --> 00:21:06,820
+but but even I have limited excitement
+
+531
+00:21:06,820 --> 00:21:09,040
+in into the forces at this point we've
+
+532
+00:21:09,040 --> 00:21:11,860
+got multiple sequels Britain countryside
+
+533
+00:21:11,860 --> 00:21:13,690
+if you really know Britain the roads are
+
+534
+00:21:13,690 --> 00:21:14,680
+fucking shit
+
+535
+00:21:14,680 --> 00:21:16,210
+it sounds really kind of not a good
+
+536
+00:21:16,210 --> 00:21:18,370
+place to drive your exotic cars around
+
+537
+00:21:18,370 --> 00:21:21,040
+in the countryside it's not but but
+
+538
+00:21:21,040 --> 00:21:22,450
+they're gonna make it work though
+
+539
+00:21:22,450 --> 00:21:27,100
+they're gonna make it worth making and
+
+540
+00:21:27,100 --> 00:21:31,630
+so so yeah I play it and you interested
+
+541
+00:21:31,630 --> 00:21:32,860
+in it but what I was really excited
+
+542
+00:21:32,860 --> 00:21:36,100
+about is this xbox game pass same day
+
+543
+00:21:36,100 --> 00:21:38,140
+thing this and we'll talk about this
+
+544
+00:21:38,140 --> 00:21:40,720
+this is one of the highlights to me is
+
+545
+00:21:40,720 --> 00:21:44,740
+that the Xbox game past $9.99 a month
+
+546
+00:21:44,740 --> 00:21:48,430
+right and you they're adding more and
+
+547
+00:21:48,430 --> 00:21:50,470
+more games to it and day and date
+
+548
+00:21:50,470 --> 00:21:52,750
+brand-new titles we should have done
+
+549
+00:21:52,750 --> 00:21:55,600
+with this with sea of thieves I paid $60
+
+550
+00:21:55,600 --> 00:21:59,920
+for $0 completely ripped off you could
+
+551
+00:21:59,920 --> 00:22:03,430
+buy game pass play cancel game pass and
+
+552
+00:22:03,430 --> 00:22:06,670
+only have spent 10 bucks you know there
+
+553
+00:22:06,670 --> 00:22:08,500
+was actually when they came out game
+
+554
+00:22:08,500 --> 00:22:10,360
+cast game pass was new you get it for a
+
+555
+00:22:10,360 --> 00:22:10,780
+buck
+
+556
+00:22:10,780 --> 00:22:12,700
+shit for your first so you could I got
+
+557
+00:22:12,700 --> 00:22:14,740
+see if these for a dollar but and in
+
+558
+00:22:14,740 --> 00:22:16,210
+this case you could do the same thing
+
+559
+00:22:16,210 --> 00:22:18,280
+with Forza horizon for if you're not a
+
+560
+00:22:18,280 --> 00:22:20,380
+racer and you don't think this is really
+
+561
+00:22:20,380 --> 00:22:21,940
+gonna hold you over for a long time but
+
+562
+00:22:21,940 --> 00:22:23,980
+you just want to try it out Xbox game
+
+563
+00:22:23,980 --> 00:22:26,590
+past $9.99 play it as much as you want
+
+564
+00:22:26,590 --> 00:22:28,240
+then cancel it I think like when you
+
+565
+00:22:28,240 --> 00:22:30,480
+cancel it you lose access to all your
+
+566
+00:22:30,480 --> 00:22:33,760
+but you just play it until then and I
+
+567
+00:22:33,760 --> 00:22:36,730
+think I mean I hate subscription
+
+568
+00:22:36,730 --> 00:22:38,650
+services but I'm starting to get come
+
+569
+00:22:38,650 --> 00:22:40,810
+convinced by this if they start
+
+570
+00:22:40,810 --> 00:22:43,690
+releasing day and date brand-new titles
+
+571
+00:22:43,690 --> 00:22:49,540
+to this thing I might get rid of I don't
+
+572
+00:22:49,540 --> 00:22:55,180
+know I might actually buy into this $120
+
+573
+00:22:55,180 --> 00:22:57,880
+right that's to video games so if all is
+
+574
+00:22:57,880 --> 00:23:00,190
+so if you played Forza if you played the
+
+575
+00:23:00,190 --> 00:23:01,840
+halo if you play Gears
+
+576
+00:23:01,840 --> 00:23:04,270
+if you played another one for for the
+
+577
+00:23:04,270 --> 00:23:06,610
+price of two now you're really starting
+
+578
+00:23:06,610 --> 00:23:09,160
+to convince me yeah and you have all
+
+579
+00:23:09,160 --> 00:23:11,290
+this backlog they added they announced
+
+580
+00:23:11,290 --> 00:23:13,330
+we're adding our fallout we're adding
+
+581
+00:23:13,330 --> 00:23:14,740
+this we're adding
+
+582
+00:23:14,740 --> 00:23:16,840
+you need the credit where credit's due
+
+583
+00:23:16,840 --> 00:23:19,780
+origin started it with EA access look EA
+
+584
+00:23:19,780 --> 00:23:22,030
+did with origin origin access the same
+
+585
+00:23:22,030 --> 00:23:24,760
+thing they yeah thousands gives super
+
+586
+00:23:24,760 --> 00:23:27,490
+successful and I could see why it was
+
+587
+00:23:27,490 --> 00:23:30,760
+and now it's called EA basic $4.99 vs EA
+
+588
+00:23:30,760 --> 00:23:33,400
+premier which I looked it up is $14.99
+
+589
+00:23:33,400 --> 00:23:35,770
+so of course EA is fucking asking more
+
+590
+00:23:35,770 --> 00:23:37,720
+even though right now they might have
+
+591
+00:23:37,720 --> 00:23:39,520
+fewer titles or less titles what they're
+
+592
+00:23:39,520 --> 00:23:40,720
+always adding more to it
+
+593
+00:23:40,720 --> 00:23:44,320
+so $9.99 plus $14.99 now you're asking
+
+594
+00:23:44,320 --> 00:23:45,880
+us to you know when you combine
+
+595
+00:23:45,880 --> 00:23:48,340
+everything together $25 a month now it's
+
+596
+00:23:48,340 --> 00:23:50,320
+starting to get off shit are we gonna be
+
+597
+00:23:50,320 --> 00:23:52,510
+able to do all these individuals so
+
+598
+00:23:52,510 --> 00:23:54,490
+that's the danger with this cuz if Sony
+
+599
+00:23:54,490 --> 00:23:57,340
+does one Nintendo does one EA does one
+
+600
+00:23:57,340 --> 00:24:02,559
+yeah now you're fucked okay so that the
+
+601
+00:24:02,559 --> 00:24:04,990
+market only can handle so many of these
+
+602
+00:24:04,990 --> 00:24:06,400
+Xbox game pass
+
+603
+00:24:06,400 --> 00:24:10,000
+type things but yeah so then we'll go on
+
+604
+00:24:10,000 --> 00:24:12,160
+and well I'm gonna start rushing through
+
+605
+00:24:12,160 --> 00:24:14,740
+some of this we happy few this should be
+
+606
+00:24:14,740 --> 00:24:17,620
+out by now I've lost interest publishers
+
+607
+00:24:17,620 --> 00:24:19,420
+with a trailer that's complete bullshit
+
+608
+00:24:19,420 --> 00:24:20,559
+the game doesn't look like that
+
+609
+00:24:20,559 --> 00:24:22,630
+definitely like that it's not exciting
+
+610
+00:24:22,630 --> 00:24:25,630
+it's not exclusively it's not they
+
+611
+00:24:25,630 --> 00:24:27,550
+called it exclusive it's completely
+
+612
+00:24:27,550 --> 00:24:29,050
+staged to make it out to be something
+
+613
+00:24:29,050 --> 00:24:30,940
+it's not however the reason why it looks
+
+614
+00:24:30,940 --> 00:24:31,900
+so different is because they were
+
+615
+00:24:31,900 --> 00:24:34,150
+showing off war mode and new ways to
+
+616
+00:24:34,150 --> 00:24:36,210
+play with new environments coming winter
+
+617
+00:24:36,210 --> 00:24:39,100
+2018 why do we not have that kind of
+
+618
+00:24:39,100 --> 00:24:41,080
+stuff by now you're making dirty money
+
+619
+00:24:41,080 --> 00:24:43,030
+you've been out for a long-ass time so
+
+620
+00:24:43,030 --> 00:24:44,710
+they didn't mention that it runs like 20
+
+621
+00:24:44,710 --> 00:24:46,179
+FPS on the consoles and they need to
+
+622
+00:24:46,179 --> 00:24:48,490
+work on that yeah come on now bubsy
+
+623
+00:24:48,490 --> 00:24:51,250
+you're embarrassing yourself Tales of
+
+624
+00:24:51,250 --> 00:24:54,970
+Vesperia it's a remaster okay division 2
+
+625
+00:24:54,970 --> 00:24:56,920
+we'll talk about that in the Ubisoft 1
+
+626
+00:24:56,920 --> 00:25:00,850
+Air Force One is down its loot and they
+
+627
+00:25:00,850 --> 00:25:03,880
+do this annoying fake let's play I'm
+
+628
+00:25:03,880 --> 00:25:04,420
+tired
+
+629
+00:25:04,420 --> 00:25:06,790
+keep doing that it's so stupid don't you
+
+630
+00:25:06,790 --> 00:25:08,410
+tell right now me something if it's
+
+631
+00:25:08,410 --> 00:25:10,300
+cringe and it looks dumb makes your game
+
+632
+00:25:10,300 --> 00:25:12,190
+look worse it makes your game look like
+
+633
+00:25:12,190 --> 00:25:14,650
+people have to fake to have fun with
+
+634
+00:25:14,650 --> 00:25:17,320
+your game so what you do is just play
+
+635
+00:25:17,320 --> 00:25:19,270
+the fucking game have four players and
+
+636
+00:25:19,270 --> 00:25:21,670
+have one narrator a developer saying
+
+637
+00:25:21,670 --> 00:25:23,169
+this is what this guys doing right now
+
+638
+00:25:23,169 --> 00:25:25,540
+here's where we going right now oh did
+
+639
+00:25:25,540 --> 00:25:26,919
+you just see what happened what he did
+
+640
+00:25:26,919 --> 00:25:27,820
+is he threw her nade
+
+641
+00:25:27,820 --> 00:25:30,940
+the other guy that kind of stuff so my
+
+642
+00:25:30,940 --> 00:25:33,790
+opinion on division 2 it's you know I'm
+
+643
+00:25:33,790 --> 00:25:35,920
+talking about in an ubisoft but they
+
+644
+00:25:35,920 --> 00:25:38,770
+showed it off on xbox its multi-platform
+
+645
+00:25:38,770 --> 00:25:41,500
+a lot of these things are the game pass
+
+646
+00:25:41,500 --> 00:25:43,900
+there you're gonna get Forza horizon for
+
+647
+00:25:43,900 --> 00:25:46,780
+and crackdown 3 so good cuz I'm not
+
+648
+00:25:46,780 --> 00:25:49,420
+spending $60 for a crackdown 3 at this
+
+649
+00:25:49,420 --> 00:25:50,710
+point I've waited too long you've
+
+650
+00:25:50,710 --> 00:25:52,720
+changed the game too many goddamn time
+
+651
+00:25:52,720 --> 00:25:56,800
+you better give it to me for 10 bucks
+
+652
+00:25:56,800 --> 00:25:58,900
+I'm a plan I'm a cancel game pack look
+
+653
+00:25:58,900 --> 00:26:01,180
+at the bright side it counts on PC yeah
+
+654
+00:26:01,180 --> 00:26:03,460
+so well game pass on peace yes it works
+
+655
+00:26:03,460 --> 00:26:06,070
+on PC game good then they showed a tons
+
+656
+00:26:06,070 --> 00:26:07,600
+of flashes of indie games because we
+
+657
+00:26:07,600 --> 00:26:08,950
+have 50 games to get through on him and
+
+658
+00:26:08,950 --> 00:26:10,720
+we go through all this shit I couldn't
+
+659
+00:26:10,720 --> 00:26:12,370
+see them also see that does a disservice
+
+660
+00:26:12,370 --> 00:26:14,800
+to a lot of those shadow of Tomb Raider
+
+661
+00:26:14,800 --> 00:26:16,210
+they should some real quick for that
+
+662
+00:26:16,210 --> 00:26:18,490
+they showed not skate for which is
+
+663
+00:26:18,490 --> 00:26:20,740
+session a skateboarding game but
+
+664
+00:26:20,740 --> 00:26:24,280
+everybody thinks an escape session it's
+
+665
+00:26:24,280 --> 00:26:26,290
+a Kickstarter that only made 30,000
+
+666
+00:26:26,290 --> 00:26:28,360
+maybe 60,000 Microsoft picked it I'll
+
+667
+00:26:28,360 --> 00:26:29,890
+put it on the big stage as if it's one
+
+668
+00:26:29,890 --> 00:26:31,360
+of their big ones where the fuck were
+
+669
+00:26:31,360 --> 00:26:32,740
+you Microsoft when they were probably
+
+670
+00:26:32,740 --> 00:26:36,580
+looking for people to help them now yeah
+
+671
+00:26:36,580 --> 00:26:38,740
+so and then they did black desert MMO
+
+672
+00:26:38,740 --> 00:26:43,150
+not already been on new content here
+
+673
+00:26:43,150 --> 00:26:44,980
+finally we get to another big reveal
+
+674
+00:26:44,980 --> 00:26:50,410
+Devil May Cry 5 is is out and this one
+
+675
+00:26:50,410 --> 00:26:53,020
+to me it had the same bombastic stuff
+
+676
+00:26:53,020 --> 00:26:56,500
+that I saw from the devil DMC Devil May
+
+677
+00:26:56,500 --> 00:26:58,780
+Cry definitely cry definitely crying and
+
+678
+00:26:58,780 --> 00:27:01,720
+so it made me a little worried but Dante
+
+679
+00:27:01,720 --> 00:27:04,630
+has white hair he's got this new chick
+
+680
+00:27:04,630 --> 00:27:07,060
+with him that looks like she knows how
+
+681
+00:27:07,060 --> 00:27:11,650
+to have fun there's a new character yeah
+
+682
+00:27:11,650 --> 00:27:14,080
+well oh that's true you're not playing
+
+683
+00:27:14,080 --> 00:27:17,260
+yeah you are I don't know I didn't know
+
+684
+00:27:17,260 --> 00:27:19,660
+more from it I'm excited about it it
+
+685
+00:27:19,660 --> 00:27:22,510
+seems they they're going away from emo
+
+686
+00:27:22,510 --> 00:27:23,290
+dante
+
+687
+00:27:23,290 --> 00:27:26,080
+knowing they're mixing some of the stuff
+
+688
+00:27:26,080 --> 00:27:28,560
+in there so we'll see how it works out
+
+689
+00:27:28,560 --> 00:27:32,620
+not exclusive to Xbox black desert knows
+
+690
+00:27:32,620 --> 00:27:35,320
+you know Cheryl Jim they know what is
+
+691
+00:27:35,320 --> 00:27:37,450
+exclusive to Xbox and one of the small
+
+692
+00:27:37,450 --> 00:27:39,490
+bright points of last year is
+
+693
+00:27:39,490 --> 00:27:42,760
+cuphead or was that this year yeah that
+
+694
+00:27:42,760 --> 00:27:44,850
+was this yeah so cuphead DLC is coming
+
+695
+00:27:44,850 --> 00:27:48,010
+2019 it's a long doesn't walk down the
+
+696
+00:27:48,010 --> 00:27:49,780
+way for a third character a female cup
+
+697
+00:27:49,780 --> 00:27:52,000
+now in this challenge maps and new maps
+
+698
+00:27:52,000 --> 00:27:53,620
+new weapons excited for will play the
+
+699
+00:27:53,620 --> 00:27:55,000
+shit out everyone comes out but they're
+
+700
+00:27:55,000 --> 00:27:57,130
+not my team get those guys some more
+
+701
+00:27:57,130 --> 00:27:59,320
+money you more developers I don't
+
+702
+00:27:59,320 --> 00:28:01,750
+fucking the animation man I guess you're
+
+703
+00:28:01,750 --> 00:28:04,990
+right alright so a tunic tiny Fox
+
+704
+00:28:04,990 --> 00:28:07,750
+isometric platformer a single dev made
+
+705
+00:28:07,750 --> 00:28:10,330
+this and they gave a lot of stage time -
+
+706
+00:28:10,330 --> 00:28:12,190
+it'll be a sign - so that's cool
+
+707
+00:28:12,190 --> 00:28:15,700
+reminded me of a Link to the Past talks
+
+708
+00:28:15,700 --> 00:28:17,890
+but here's one where they use their
+
+709
+00:28:17,890 --> 00:28:18,610
+bullshit
+
+710
+00:28:18,610 --> 00:28:28,290
+console launch exclusive exclusive
+
+711
+00:28:28,290 --> 00:28:37,090
+exclusive that's different it's gonna be
+
+712
+00:28:37,090 --> 00:28:38,679
+on everything you turn during the
+
+713
+00:28:38,679 --> 00:28:42,100
+crackdown they said exclusive so console
+
+714
+00:28:42,100 --> 00:28:44,530
+launch exclusive means it's gonna be
+
+715
+00:28:44,530 --> 00:28:46,240
+there for like six months three months
+
+716
+00:28:46,240 --> 00:28:48,429
+whatever and then it'll be on everything
+
+717
+00:28:48,429 --> 00:28:49,590
+else
+
+718
+00:28:49,590 --> 00:28:52,840
+jump force crazy trailer crossover
+
+719
+00:28:52,840 --> 00:29:01,900
+Dragon Ball Z arenas sort of they've had
+
+720
+00:29:01,900 --> 00:29:03,220
+fighting games like this before I forgot
+
+721
+00:29:03,220 --> 00:29:04,540
+what the other ones were called but now
+
+722
+00:29:04,540 --> 00:29:05,920
+they're bringing in all these crazy
+
+723
+00:29:05,920 --> 00:29:08,520
+characters including Death Note
+
+724
+00:29:08,520 --> 00:29:13,240
+interesting one piece yeah one piece and
+
+725
+00:29:13,240 --> 00:29:16,540
+you'll get to you know play as Frieza
+
+726
+00:29:16,540 --> 00:29:19,690
+and and Goku I'm excited for it I can't
+
+727
+00:29:19,690 --> 00:29:22,300
+wait to get my hands on it play it 2019
+
+728
+00:29:22,300 --> 00:29:24,790
+yeah on all platforms so now at this
+
+729
+00:29:24,790 --> 00:29:27,370
+point Xbox has become at this point they
+
+730
+00:29:27,370 --> 00:29:29,530
+just started showing you know trailers
+
+731
+00:29:29,530 --> 00:29:32,290
+everything and now you're just this is a
+
+732
+00:29:32,290 --> 00:29:34,030
+video game awards yeah it's over
+
+733
+00:29:34,030 --> 00:29:36,070
+saturation it's over situation it seems
+
+734
+00:29:36,070 --> 00:29:38,380
+like oh it looks amazing on the Xbox no
+
+735
+00:29:38,380 --> 00:29:41,440
+come by rx but right this one that one
+
+736
+00:29:41,440 --> 00:29:43,360
+phrase which isn't even true that it
+
+737
+00:29:43,360 --> 00:29:44,770
+plays better on xbox a lot of your own
+
+738
+00:29:44,770 --> 00:29:46,129
+all AI true really
+
+739
+00:29:46,129 --> 00:29:49,470
+it wasn't wasn't buying it for me dying
+
+740
+00:29:49,470 --> 00:29:52,230
+light - trailer gameplay demo looking
+
+741
+00:29:52,230 --> 00:29:54,139
+good Chris have along great with story
+
+742
+00:29:54,139 --> 00:29:56,519
+Battletoads is coming back 2019
+
+743
+00:29:56,519 --> 00:29:58,080
+everything to that we'll just see how
+
+744
+00:29:58,080 --> 00:30:00,480
+that goes three player co-op that's us
+
+745
+00:30:00,480 --> 00:30:02,039
+right here we'll play it together
+
+746
+00:30:02,039 --> 00:30:05,220
+Just Cause for they showed they said
+
+747
+00:30:05,220 --> 00:30:07,049
+December they show the trailer for it I
+
+748
+00:30:07,049 --> 00:30:09,149
+got some behind-the-scenes look at it
+
+749
+00:30:09,149 --> 00:30:11,129
+really awesome guys
+
+750
+00:30:11,129 --> 00:30:15,749
+hurricane physics I'm excited a war yes
+
+751
+00:30:15,749 --> 00:30:17,759
+Rico you don't when people say you're
+
+752
+00:30:17,759 --> 00:30:19,230
+gonna be in the middle of this war and
+
+753
+00:30:19,230 --> 00:30:21,029
+there's two South American factions
+
+754
+00:30:21,029 --> 00:30:23,309
+fighting and just little things here and
+
+755
+00:30:23,309 --> 00:30:26,369
+there no he flies and it's a fucking war
+
+756
+00:30:26,369 --> 00:30:27,570
+are we talking like we're talking
+
+757
+00:30:27,570 --> 00:30:30,869
+missiles MERS no we're talking two
+
+758
+00:30:30,869 --> 00:30:34,080
+armies fighting each other over tons and
+
+759
+00:30:34,080 --> 00:30:36,779
+tons and tons of land and there's
+
+760
+00:30:36,779 --> 00:30:39,480
+rockets there's machine-gun fire there's
+
+761
+00:30:39,480 --> 00:30:41,879
+emplacements and he's just flying over
+
+762
+00:30:41,879 --> 00:30:43,649
+it like you can jump probably join one
+
+763
+00:30:43,649 --> 00:30:45,720
+sinus and this got me so excited cuz I
+
+764
+00:30:45,720 --> 00:30:47,999
+was like there's so much going on right
+
+765
+00:30:47,999 --> 00:30:50,460
+now you're like fucking exercise in that
+
+766
+00:30:50,460 --> 00:30:53,429
+Xbox that ps4 it looks gonna probably be
+
+767
+00:30:53,429 --> 00:30:56,429
+best on the foot on the PC but anyways
+
+768
+00:30:56,429 --> 00:31:00,799
+so there was that then we got just gears
+
+769
+00:31:00,799 --> 00:31:04,440
+but it was pop mobile that made people
+
+770
+00:31:04,440 --> 00:31:08,940
+hurt yeah everybody was like yeah dead
+
+771
+00:31:08,940 --> 00:31:11,820
+silent little pop figures these things
+
+772
+00:31:11,820 --> 00:31:15,600
+are so popular and and we're tapping
+
+773
+00:31:15,600 --> 00:31:17,549
+into that a little bit with our
+
+774
+00:31:17,549 --> 00:31:20,580
+miniatures game I guess but I don't find
+
+775
+00:31:20,580 --> 00:31:24,179
+the Funko one's cute you know a little
+
+776
+00:31:24,179 --> 00:31:26,039
+energized yeah I've seen I've seen
+
+777
+00:31:26,039 --> 00:31:27,509
+people collected like I collect board
+
+778
+00:31:27,509 --> 00:31:28,980
+games they collect that I'm just not
+
+779
+00:31:28,980 --> 00:31:30,749
+into a man I understand it because I'm
+
+780
+00:31:30,749 --> 00:31:32,519
+collecting a little street fighter you
+
+781
+00:31:32,519 --> 00:31:34,379
+know and I want everybody to buy that so
+
+782
+00:31:34,379 --> 00:31:36,240
+I understand it but that's not all the
+
+783
+00:31:36,240 --> 00:31:37,409
+people who are wanting it's not where
+
+784
+00:31:37,409 --> 00:31:38,940
+they were and you don't lead with that
+
+785
+00:31:38,940 --> 00:31:42,179
+you say here's Gears 5 oh yeah and while
+
+786
+00:31:42,179 --> 00:31:43,740
+you wait for Gears 5 here's a little
+
+787
+00:31:43,740 --> 00:31:46,019
+mobile game here's another little RTS
+
+788
+00:31:46,019 --> 00:31:47,450
+because that's what they announced in
+
+789
+00:31:47,450 --> 00:31:51,119
+Gears tactics better squad it's gonna be
+
+790
+00:31:51,119 --> 00:31:53,940
+a completely new squad it's a prequel so
+
+791
+00:31:53,940 --> 00:31:55,200
+I'm kind of interested in what happened
+
+792
+00:31:55,200 --> 00:31:55,740
+and there's a mer
+
+793
+00:31:55,740 --> 00:31:59,610
+day and before that and turn-based but
+
+794
+00:31:59,610 --> 00:32:01,200
+with faster gameplay so we're talking
+
+795
+00:32:01,200 --> 00:32:04,710
+XCOM but with the gear spin and faster
+
+796
+00:32:04,710 --> 00:32:06,240
+yeah I don't know how they're gonna do
+
+797
+00:32:06,240 --> 00:32:07,860
+it but that one I'm interested in
+
+798
+00:32:07,860 --> 00:32:10,440
+here's five they stop calling it years
+
+799
+00:32:10,440 --> 00:32:14,070
+of wars just gears gears yeah I think
+
+800
+00:32:14,070 --> 00:32:15,870
+yours is suffering from the same thing
+
+801
+00:32:15,870 --> 00:32:17,760
+like Call of Duty on screen does like
+
+802
+00:32:17,760 --> 00:32:18,900
+you just at this point you're like
+
+803
+00:32:18,900 --> 00:32:21,540
+trailer gameplay 2019 I don't care is
+
+804
+00:32:21,540 --> 00:32:24,660
+that because I'm not an Xbox family but
+
+805
+00:32:24,660 --> 00:32:27,090
+even when I was an Xbox fanboy when I
+
+806
+00:32:27,090 --> 00:32:28,830
+was doing Gears videos and you can watch
+
+807
+00:32:28,830 --> 00:32:31,890
+them really really bad I I was like
+
+808
+00:32:31,890 --> 00:32:33,420
+yours is cool but like it's not like
+
+809
+00:32:33,420 --> 00:32:36,360
+yeah years fuck yeah but I guess there's
+
+810
+00:32:36,360 --> 00:32:38,220
+new players younger players that have
+
+811
+00:32:38,220 --> 00:32:42,929
+come in there's like after the second
+
+812
+00:32:42,929 --> 00:32:44,970
+game I just kind of was like it's the
+
+813
+00:32:44,970 --> 00:32:46,860
+same this story's done with yeah its own
+
+814
+00:32:46,860 --> 00:32:49,320
+I don't care about these because the
+
+815
+00:32:49,320 --> 00:32:51,150
+monster designs aren't particularly
+
+816
+00:32:51,150 --> 00:32:53,070
+interesting to me they're all too fat
+
+817
+00:32:53,070 --> 00:32:55,230
+too bulky in this space money won't be
+
+818
+00:32:55,230 --> 00:32:58,760
+so generic the story's so generic and
+
+819
+00:32:58,760 --> 00:33:01,500
+I'm not really sure how they've made sit
+
+820
+00:33:01,500 --> 00:33:03,270
+and the guy was up on stage and said I'm
+
+821
+00:33:03,270 --> 00:33:05,520
+so we never imagined all this success
+
+822
+00:33:05,520 --> 00:33:06,420
+and I was like I know what you mean
+
+823
+00:33:06,420 --> 00:33:07,550
+buddy
+
+824
+00:33:07,550 --> 00:33:10,500
+13 years ago when I began my Gears of
+
+825
+00:33:10,500 --> 00:33:12,990
+War journey we had no idea how big this
+
+826
+00:33:12,990 --> 00:33:19,620
+franchise would become Gears 5
+
+827
+00:33:19,620 --> 00:33:24,549
+it's a great ranch I come I'm sorry well
+
+828
+00:33:24,549 --> 00:33:26,440
+I just shit all over here's probably
+
+829
+00:33:26,440 --> 00:33:28,299
+upset a lot of people but this is just
+
+830
+00:33:28,299 --> 00:33:29,950
+my honest opinion I'm really not that
+
+831
+00:33:29,950 --> 00:33:31,779
+excited like you so when you bring yet
+
+832
+00:33:31,779 --> 00:33:33,720
+another halo yet in other gears I'm like
+
+833
+00:33:33,720 --> 00:33:38,590
+you know we say yeah but no prove us
+
+834
+00:33:38,590 --> 00:33:40,690
+wrong we'll probably play it I skip for
+
+835
+00:33:40,690 --> 00:33:42,610
+I'm gonna be fucking law let's go three
+
+836
+00:33:42,610 --> 00:33:44,770
+more me I'm not sure if I'll play I do
+
+837
+00:33:44,770 --> 00:33:46,510
+be perfectly honest I don't know if I'll
+
+838
+00:33:46,510 --> 00:33:48,580
+play it because I know gears gameplay
+
+839
+00:33:48,580 --> 00:33:50,500
+and I know and I've already played gears
+
+840
+00:33:50,500 --> 00:33:52,330
+gameplay the only reason why I play it
+
+841
+00:33:52,330 --> 00:33:54,190
+is another game prestream to play with
+
+842
+00:33:54,190 --> 00:33:58,480
+us yeah anyways finally we end on one of
+
+843
+00:33:58,480 --> 00:34:00,940
+the more exciting reveals but again not
+
+844
+00:34:00,940 --> 00:34:02,770
+an xbox exclusive so you're just really
+
+845
+00:34:02,770 --> 00:34:04,600
+doing Sony's job for them you're doing a
+
+846
+00:34:04,600 --> 00:34:06,370
+computers job for them you're doing
+
+847
+00:34:06,370 --> 00:34:08,770
+everybody's job for them you know but I
+
+848
+00:34:08,770 --> 00:34:10,330
+guess you think since it's on your stage
+
+849
+00:34:10,330 --> 00:34:12,429
+everybody's gonna buy Xbox not true not
+
+850
+00:34:12,429 --> 00:34:14,530
+true but thank you very much for
+
+851
+00:34:14,530 --> 00:34:16,629
+revealing this and hopefully you paid
+
+852
+00:34:16,629 --> 00:34:19,030
+the money I want everybody to pay red
+
+853
+00:34:19,030 --> 00:34:22,169
+city project ready play this right here
+
+854
+00:34:22,169 --> 00:34:27,490
+fucking cyberpunk 2077 we got more not
+
+855
+00:34:27,490 --> 00:34:29,800
+exactly what I wanted what I wanted is
+
+856
+00:34:29,800 --> 00:34:32,619
+you guys to see this behind the scenes
+
+857
+00:34:32,619 --> 00:34:35,530
+45 minute demo I said the same thing
+
+858
+00:34:35,530 --> 00:34:37,599
+about what your three when I went in
+
+859
+00:34:37,599 --> 00:34:39,609
+that interview as I please release this
+
+860
+00:34:39,609 --> 00:34:40,599
+to the public
+
+861
+00:34:40,599 --> 00:34:42,760
+they never did you know what I mean this
+
+862
+00:34:42,760 --> 00:34:44,470
+is only for people and they even told
+
+863
+00:34:44,470 --> 00:34:45,820
+someone over there this is only for you
+
+864
+00:34:45,820 --> 00:34:47,230
+guys we're not showing this and I'm like
+
+865
+00:34:47,230 --> 00:34:49,540
+normal man I mean to sneak a camera up
+
+866
+00:34:49,540 --> 00:34:53,260
+in here because that trailer would sell
+
+867
+00:34:53,260 --> 00:34:57,070
+so many copies and it hurts me to then
+
+868
+00:34:57,070 --> 00:34:59,230
+watch them show other things and it's
+
+869
+00:34:59,230 --> 00:35:00,670
+not as good as a trailer and that's
+
+870
+00:35:00,670 --> 00:35:01,990
+what's happening with battlefield 5
+
+871
+00:35:01,990 --> 00:35:05,710
+right now right but that trailer was
+
+872
+00:35:05,710 --> 00:35:07,630
+amazing and I wish and and you know what
+
+873
+00:35:07,630 --> 00:35:10,450
+young yeah has a video on it it's an
+
+874
+00:35:10,450 --> 00:35:12,369
+hour long of him just talking about it
+
+875
+00:35:12,369 --> 00:35:15,220
+but his memory is so good and detailed
+
+876
+00:35:15,220 --> 00:35:17,380
+go watch that hour and 20 minute video
+
+877
+00:35:17,380 --> 00:35:19,390
+where he describes everything that we
+
+878
+00:35:19,390 --> 00:35:21,700
+saw in that demo together I saw that
+
+879
+00:35:21,700 --> 00:35:22,660
+demo as well
+
+880
+00:35:22,660 --> 00:35:24,400
+and was it mind-blowing it was
+
+881
+00:35:24,400 --> 00:35:27,670
+mind-blowing it was so mind-blowing that
+
+882
+00:35:27,670 --> 00:35:29,320
+I didn't think it was real I was like
+
+883
+00:35:29,320 --> 00:35:31,810
+and they handed out all these surveys
+
+884
+00:35:31,810 --> 00:35:32,330
+after
+
+885
+00:35:32,330 --> 00:35:34,160
+like a you know how do we do is this
+
+886
+00:35:34,160 --> 00:35:36,800
+good you know I guess maybe I got this
+
+887
+00:35:36,800 --> 00:35:38,450
+feeling that they work and they like Joe
+
+888
+00:35:38,450 --> 00:35:40,820
+can we get a video of you talking about
+
+889
+00:35:40,820 --> 00:35:42,230
+what you thought about the game we'll
+
+890
+00:35:42,230 --> 00:35:43,640
+give it to the office cuz if y'all don't
+
+891
+00:35:43,640 --> 00:35:45,380
+know CD Projekt RED or big fans of the
+
+892
+00:35:45,380 --> 00:35:48,800
+age we first started talking to them
+
+893
+00:35:48,800 --> 00:35:51,260
+like at the tail end like which which
+
+894
+00:35:51,260 --> 00:35:55,220
+are too so so they got a lot of fans of
+
+895
+00:35:55,220 --> 00:35:56,840
+the images show there we're huge fans of
+
+896
+00:35:56,840 --> 00:35:59,510
+them and but it kind of gave me this
+
+897
+00:35:59,510 --> 00:36:00,950
+feeling like they're worried or
+
+898
+00:36:00,950 --> 00:36:02,300
+something or they don't know what
+
+899
+00:36:02,300 --> 00:36:05,330
+direction to take whatever direction is
+
+900
+00:36:05,330 --> 00:36:08,210
+in the fucking demo stick with that go
+
+901
+00:36:08,210 --> 00:36:10,160
+in that and I I'm actually probably
+
+902
+00:36:10,160 --> 00:36:11,840
+totally wrong because they probably have
+
+903
+00:36:11,840 --> 00:36:13,820
+a design direction and that just shows
+
+904
+00:36:13,820 --> 00:36:15,320
+how awesome these guys aren't that they
+
+905
+00:36:15,320 --> 00:36:16,970
+care that much they're like please give
+
+906
+00:36:16,970 --> 00:36:18,020
+us feedback here
+
+907
+00:36:18,020 --> 00:36:19,970
+take these little shit on really they're
+
+908
+00:36:19,970 --> 00:36:21,950
+really passionate and these are the only
+
+909
+00:36:21,950 --> 00:36:25,340
+guys there you go over to the CD Projekt
+
+910
+00:36:25,340 --> 00:36:27,920
+RED area and there's a big fucking crowd
+
+911
+00:36:27,920 --> 00:36:29,360
+and you're like what's going on because
+
+912
+00:36:29,360 --> 00:36:30,860
+it's up in the areas meeting rooms
+
+913
+00:36:30,860 --> 00:36:32,420
+nobody goes up to the meeting rooms
+
+914
+00:36:32,420 --> 00:36:34,520
+unless you got a funk and you got this
+
+915
+00:36:34,520 --> 00:36:36,260
+and there's suits everywhere and they're
+
+916
+00:36:36,260 --> 00:36:37,310
+like you have an appointment
+
+917
+00:36:37,310 --> 00:36:40,010
+CD Projekt RED was letting just rant who
+
+918
+00:36:40,010 --> 00:36:42,380
+Fant random fans in once they got all
+
+919
+00:36:42,380 --> 00:36:43,700
+the press for their appointment if there
+
+920
+00:36:43,700 --> 00:36:45,200
+was any open seats and people just
+
+921
+00:36:45,200 --> 00:36:46,700
+standing they would just let them in and
+
+922
+00:36:46,700 --> 00:36:49,340
+and I'm like man these guys are so cool
+
+923
+00:36:49,340 --> 00:36:51,850
+they fucking get it
+
+924
+00:36:51,850 --> 00:36:54,710
+ya know I didn't know I didn't play the
+
+925
+00:36:54,710 --> 00:36:56,780
+demo the guy right next to me was
+
+926
+00:36:56,780 --> 00:36:58,820
+playing I could grab the controller from
+
+927
+00:36:58,820 --> 00:37:00,710
+this yeah I know I quote him he actually
+
+928
+00:37:00,710 --> 00:37:02,570
+was playing I saw him they sat me right
+
+929
+00:37:02,570 --> 00:37:04,910
+next to his gay guy I recognized and he
+
+930
+00:37:04,910 --> 00:37:07,310
+was playing the demo and guys are I
+
+931
+00:37:07,310 --> 00:37:10,190
+can't talk about it you go watch young
+
+932
+00:37:10,190 --> 00:37:12,860
+ya video because it's so detailed it's
+
+933
+00:37:12,860 --> 00:37:15,460
+there it's everything that I ever wanted
+
+934
+00:37:15,460 --> 00:37:19,000
+I'll just sum it up like this Deus Ex
+
+935
+00:37:19,000 --> 00:37:25,750
+Grand Theft Auto Witcher 3 Blade Runner
+
+936
+00:37:25,750 --> 00:37:30,380
+cyberpunk mashed all together you know
+
+937
+00:37:30,380 --> 00:37:32,180
+how I need a sexually Wow look at that
+
+938
+00:37:32,180 --> 00:37:34,520
+background that's so cool and in
+
+939
+00:37:34,520 --> 00:37:36,500
+cyberpunk wow look at that background
+
+940
+00:37:36,500 --> 00:37:41,540
+let's go there
+
+941
+00:37:41,540 --> 00:37:43,500
+how do you want to approach this you
+
+942
+00:37:43,500 --> 00:37:44,730
+want to go in or do you want to go still
+
+943
+00:37:44,730 --> 00:37:45,990
+you want to hack into it you want to do
+
+944
+00:37:45,990 --> 00:37:47,700
+this you want to do that it's like and
+
+945
+00:37:47,700 --> 00:37:49,410
+then there's dialogue options the first
+
+946
+00:37:49,410 --> 00:37:51,510
+person change was absolutely the right
+
+947
+00:37:51,510 --> 00:37:53,339
+decision because people get up in your
+
+948
+00:37:53,339 --> 00:37:57,770
+face one yeah it's good it's good
+
+949
+00:37:57,770 --> 00:38:01,190
+multiplayer no no multiplayer no
+
+950
+00:38:01,190 --> 00:38:04,820
+multiplayer co-op they are talking about
+
+951
+00:38:04,820 --> 00:38:08,910
+online integrations and I have a feeling
+
+952
+00:38:08,910 --> 00:38:11,250
+that they're looking into it now but
+
+953
+00:38:11,250 --> 00:38:13,020
+they're working on this game if you knew
+
+954
+00:38:13,020 --> 00:38:14,880
+the scope of this game and what you can
+
+955
+00:38:14,880 --> 00:38:16,980
+do not only is their exploration we're
+
+956
+00:38:16,980 --> 00:38:18,780
+talking witcher 3 open world exploration
+
+957
+00:38:18,780 --> 00:38:22,430
+but imagine a fucking city that it's
+
+958
+00:38:22,430 --> 00:38:25,109
+crammed with people and they have
+
+959
+00:38:25,109 --> 00:38:26,970
+different walking animations people in
+
+960
+00:38:26,970 --> 00:38:28,980
+corporates are all walking on corporate
+
+961
+00:38:28,980 --> 00:38:30,119
+and then you got the gangsters on
+
+962
+00:38:30,119 --> 00:38:31,740
+walking gangsta you got all the drug
+
+963
+00:38:31,740 --> 00:38:34,770
+addicts on drew like I'm like oh god D
+
+964
+00:38:34,770 --> 00:38:37,589
+huh no wonder it's taken three four
+
+965
+00:38:37,589 --> 00:38:38,940
+fuckin years and that's what I was
+
+966
+00:38:38,940 --> 00:38:40,440
+thinking the trailer was fucking fake
+
+967
+00:38:40,440 --> 00:38:43,170
+the demo was fake I had a half a mind to
+
+968
+00:38:43,170 --> 00:38:45,990
+push his controller but I wanted to see
+
+969
+00:38:45,990 --> 00:38:52,830
+yeah I watched it it was in Egypt so
+
+970
+00:38:52,830 --> 00:38:54,270
+what they were working hard on the whole
+
+971
+00:38:54,270 --> 00:38:55,890
+fuckin time and the fact that you can
+
+972
+00:38:55,890 --> 00:38:57,240
+approach it in so many different ways
+
+973
+00:38:57,240 --> 00:38:59,400
+it's like Witcher 3 how many hours you
+
+974
+00:38:59,400 --> 00:39:01,410
+poured into that times three because you
+
+975
+00:39:01,410 --> 00:39:03,180
+could do it in all different ways and
+
+976
+00:39:03,180 --> 00:39:05,250
+there was this one corporate late I
+
+977
+00:39:05,250 --> 00:39:06,390
+don't know I should get in there was a
+
+978
+00:39:06,390 --> 00:39:08,609
+corporate lady and and she was gonna
+
+979
+00:39:08,609 --> 00:39:10,260
+give you money to buy the bot from these
+
+980
+00:39:10,260 --> 00:39:13,320
+guys that stole this tech bot but you
+
+981
+00:39:13,320 --> 00:39:15,150
+could have just you know you walked up
+
+982
+00:39:15,150 --> 00:39:16,890
+on that little meeting you could've just
+
+983
+00:39:16,890 --> 00:39:20,040
+and just like killed her and all over
+
+984
+00:39:20,040 --> 00:39:22,680
+the security and then took her money and
+
+985
+00:39:22,680 --> 00:39:24,750
+then never even win over there to do
+
+986
+00:39:24,750 --> 00:39:26,490
+that it's amazing and I was like why
+
+987
+00:39:26,490 --> 00:39:27,960
+would you do this cuz there's amazing
+
+988
+00:39:27,960 --> 00:39:30,359
+story cuz once you get to those guys we
+
+989
+00:39:30,359 --> 00:39:32,190
+were like let's do the talking way cuz
+
+990
+00:39:32,190 --> 00:39:34,080
+you could've came in you know again
+
+991
+00:39:34,080 --> 00:39:35,820
+right but no way we didn't talking and
+
+992
+00:39:35,820 --> 00:39:37,320
+they're like follow us and like fuck you
+
+993
+00:39:37,320 --> 00:39:39,330
+bitch you know as you're walking in you
+
+994
+00:39:39,330 --> 00:39:41,010
+know they're like don't you do anything
+
+995
+00:39:41,010 --> 00:39:43,140
+you know and then we start arguing over
+
+996
+00:39:43,140 --> 00:39:45,000
+the prize and there's different multiple
+
+997
+00:39:45,000 --> 00:39:46,770
+options on how to argue how do those
+
+998
+00:39:46,770 --> 00:39:48,960
+turn out but it turns out we did take
+
+999
+00:39:48,960 --> 00:39:50,849
+the girl and she betrayed us she put a
+
+1000
+00:39:50,849 --> 00:39:51,840
+chip in the
+
+1001
+00:39:51,840 --> 00:39:53,760
+and a tracker and then the big expose to
+
+1002
+00:39:53,760 --> 00:39:59,490
+a guy it's good it's good amazing all
+
+1003
+00:39:59,490 --> 00:39:59,790
+right
+
+1004
+00:39:59,790 --> 00:40:02,760
+oh hey thanks IRA plug so but can I take
+
+1005
+00:40:02,760 --> 00:40:04,770
+all that excitement and give credit to X
+
+1006
+00:40:04,770 --> 00:40:07,470
+marks no because it's that's that CD
+
+1007
+00:40:07,470 --> 00:40:10,500
+Projekt's Reds work so what I have to
+
+1008
+00:40:10,500 --> 00:40:12,000
+say about Xbox let's give it a final
+
+1009
+00:40:12,000 --> 00:40:15,300
+rating you're planning the seeds that's
+
+1010
+00:40:15,300 --> 00:40:16,080
+what I saw
+
+1011
+00:40:16,080 --> 00:40:17,850
+the studios this is the biggest thing
+
+1012
+00:40:17,850 --> 00:40:22,440
+they got five new studios that are Xbox
+
+1013
+00:40:22,440 --> 00:40:24,660
+only now that will create first party
+
+1014
+00:40:24,660 --> 00:40:25,950
+titles you know God of War in all this
+
+1015
+00:40:25,950 --> 00:40:27,990
+shit and last it was in the PlayStation
+
+1016
+00:40:27,990 --> 00:40:30,420
+Xbox is like we're gonna have that in
+
+1017
+00:40:30,420 --> 00:40:32,700
+and how long does it take to make real
+
+1018
+00:40:32,700 --> 00:40:36,420
+good games in a teacher 3 years what the
+
+1019
+00:40:36,420 --> 00:40:37,860
+fuck what the fuck you've been doing for
+
+1020
+00:40:37,860 --> 00:40:40,050
+the past 2 or 3 years why don't you can
+
+1021
+00:40:40,050 --> 00:40:42,390
+easily scale down that's what they all
+
+1022
+00:40:42,390 --> 00:40:45,060
+right so this is why I said no I'm Jeff
+
+1023
+00:40:45,060 --> 00:40:48,020
+Jeff Kelly's thing so the initiative
+
+1024
+00:40:48,020 --> 00:40:50,820
+former head of Crystal Dynamics so the
+
+1025
+00:40:50,820 --> 00:40:52,470
+Tomb Raider games we like they're good
+
+1026
+00:40:52,470 --> 00:40:54,960
+so that one might result in a brand new
+
+1027
+00:40:54,960 --> 00:40:57,060
+IP that's really good but if you really
+
+1028
+00:40:57,060 --> 00:40:58,740
+looked at these five studios you're
+
+1029
+00:40:58,740 --> 00:41:01,170
+starting to say wait a minute you're
+
+1030
+00:41:01,170 --> 00:41:02,700
+trying to trick us a little bit
+
+1031
+00:41:02,700 --> 00:41:04,830
+bamboozling bamboo because what's one of
+
+1032
+00:41:04,830 --> 00:41:06,930
+the other studios undead labs what do
+
+1033
+00:41:06,930 --> 00:41:08,790
+they make state of decay wait a minute
+
+1034
+00:41:08,790 --> 00:41:10,980
+stated the king was already exclusive to
+
+1035
+00:41:10,980 --> 00:41:13,650
+the Xbox stayed at the k2 is kind of a
+
+1036
+00:41:13,650 --> 00:41:16,880
+remake of the first was not it's sorry
+
+1037
+00:41:16,880 --> 00:41:19,320
+so it's one of those sea of thieves kind
+
+1038
+00:41:19,320 --> 00:41:20,520
+of things are knowing are we I mean
+
+1039
+00:41:20,520 --> 00:41:22,020
+disappointing you already have that
+
+1040
+00:41:22,020 --> 00:41:24,060
+studio that's weird and then what's the
+
+1041
+00:41:24,060 --> 00:41:26,370
+other one playground games guess what
+
+1042
+00:41:26,370 --> 00:41:29,010
+they make the Forza horizon wait a
+
+1043
+00:41:29,010 --> 00:41:33,210
+minute all you're doing is you're just
+
+1044
+00:41:33,210 --> 00:41:35,250
+putting a little line on a contract
+
+1045
+00:41:35,250 --> 00:41:39,360
+that's all it is so so there's the oh
+
+1046
+00:41:39,360 --> 00:41:41,640
+here's here is one though ninja theory
+
+1047
+00:41:41,640 --> 00:41:44,940
+that is one they had hell-blade which
+
+1048
+00:41:44,940 --> 00:41:47,010
+was critically acclaimed but they also
+
+1049
+00:41:47,010 --> 00:41:49,770
+did DM C DM C that will make cried know
+
+1050
+00:41:49,770 --> 00:41:51,120
+who make cry you don't I mean right I
+
+1051
+00:41:51,120 --> 00:41:53,790
+think I think they did that but but so
+
+1052
+00:41:53,790 --> 00:41:55,950
+that one might result in a brand new IP
+
+1053
+00:41:55,950 --> 00:41:57,660
+that's good and then there's compulsion
+
+1054
+00:41:57,660 --> 00:42:00,270
+games which is we happy few which I'm
+
+1055
+00:42:00,270 --> 00:42:01,800
+tired of and I'm like what the fuck well
+
+1056
+00:42:01,800 --> 00:42:03,810
+it's not gonna apply to me yeah for like
+
+1057
+00:42:03,810 --> 00:42:04,829
+four years
+
+1058
+00:42:04,829 --> 00:42:06,660
+oh shit it's been an early access for
+
+1059
+00:42:06,660 --> 00:42:08,880
+like - yeah and so yeah what the fuck
+
+1060
+00:42:08,880 --> 00:42:10,920
+and and that's gonna be multi-platform
+
+1061
+00:42:10,920 --> 00:42:12,539
+so I guess the next project then we're
+
+1062
+00:42:12,539 --> 00:42:14,369
+gone so if you really break it down it's
+
+1063
+00:42:14,369 --> 00:42:17,009
+not five studios it's really only three
+
+1064
+00:42:17,009 --> 00:42:20,279
+and really only two that I that I care
+
+1065
+00:42:20,279 --> 00:42:21,959
+about you know what I'm saying but
+
+1066
+00:42:21,959 --> 00:42:23,880
+you'll have to prove me wrong Microsoft
+
+1067
+00:42:23,880 --> 00:42:27,170
+oh yeah where we rating it will go with
+
+1068
+00:42:27,170 --> 00:42:31,559
+Dell first okay give Sony five
+
+1069
+00:42:31,559 --> 00:42:33,569
+I gave Sony of five do you think
+
+1070
+00:42:33,569 --> 00:42:35,099
+Microsoft did better I think they did
+
+1071
+00:42:35,099 --> 00:42:36,539
+better come on are the technical
+
+1072
+00:42:36,539 --> 00:42:40,650
+disaster and Microsoft was it about
+
+1073
+00:42:40,650 --> 00:42:42,959
+Microsoft's thing I have to rate it
+
+1074
+00:42:42,959 --> 00:42:44,789
+based on what Microsoft is bringing to
+
+1075
+00:42:44,789 --> 00:42:47,400
+the table as Microsoft and so to me it's
+
+1076
+00:42:47,400 --> 00:42:48,900
+like otherwise you're just rating
+
+1077
+00:42:48,900 --> 00:42:50,640
+trainers rating trailers and it's like
+
+1078
+00:42:50,640 --> 00:42:52,349
+okay yeah they showed off fallout but
+
+1079
+00:42:52,349 --> 00:42:53,670
+I'm not giving him credit for it that's
+
+1080
+00:42:53,670 --> 00:42:55,499
+a Bethesda yeah they showed up cyberpunk
+
+1081
+00:42:55,499 --> 00:42:57,930
+that's not Microsoft I'm not giving them
+
+1082
+00:42:57,930 --> 00:42:59,640
+pretty for Kingdom Hearts 3 is I'm both
+
+1083
+00:42:59,640 --> 00:43:01,709
+but everything's like the fact that they
+
+1084
+00:43:01,709 --> 00:43:03,839
+got an onyx mucks good the thing is I
+
+1085
+00:43:03,839 --> 00:43:05,729
+agree with you was overloaded and from a
+
+1086
+00:43:05,729 --> 00:43:07,259
+technical standpoint they nailed it I
+
+1087
+00:43:07,259 --> 00:43:08,819
+thought it was well done it was clean it
+
+1088
+00:43:08,819 --> 00:43:11,069
+wasn't awful it was good and their games
+
+1089
+00:43:11,069 --> 00:43:13,559
+were ok but to me like things like Halo
+
+1090
+00:43:13,559 --> 00:43:16,499
+and Gears I don't care mm-hmm and it's
+
+1091
+00:43:16,499 --> 00:43:17,910
+not that I don't think they're ok games
+
+1092
+00:43:17,910 --> 00:43:20,039
+they've always been ok or good games
+
+1093
+00:43:20,039 --> 00:43:21,449
+it's just there's too many of them in
+
+1094
+00:43:21,449 --> 00:43:23,160
+their net there's no system cellar
+
+1095
+00:43:23,160 --> 00:43:25,140
+there's no system cellar anymore and
+
+1096
+00:43:25,140 --> 00:43:26,309
+because of that you know I got to give
+
+1097
+00:43:26,309 --> 00:43:30,599
+the Xbox conference like a 10 to tip 7
+
+1098
+00:43:30,599 --> 00:43:33,029
+as far as like what I because it was
+
+1099
+00:43:33,029 --> 00:43:35,099
+enjoyable it wasn't bad in any way it
+
+1100
+00:43:35,099 --> 00:43:38,309
+was just not it didn't captivate me into
+
+1101
+00:43:38,309 --> 00:43:40,319
+boys it was good points higher than Sony
+
+1102
+00:43:40,319 --> 00:43:41,789
+it wasn't it was good but it wasn't
+
+1103
+00:43:41,789 --> 00:43:45,809
+amazing huh ok all right Joe I'm gonna i
+
+1104
+00:43:45,809 --> 00:43:48,390
+like sony better even though it did have
+
+1105
+00:43:48,390 --> 00:43:50,930
+those long things yeah good job sony
+
+1106
+00:43:50,930 --> 00:43:53,160
+actually brought something to the dan
+
+1107
+00:43:53,160 --> 00:43:55,199
+yeah and i'm with you lots first party
+
+1108
+00:43:55,199 --> 00:43:57,690
+something microsoft from the guy this is
+
+1109
+00:43:57,690 --> 00:43:58,199
+your year
+
+1110
+00:43:58,199 --> 00:44:01,319
+this is gonna make me upgrade my xbox to
+
+1111
+00:44:01,319 --> 00:44:03,269
+make me get another console or something
+
+1112
+00:44:03,269 --> 00:44:05,910
+and like yeah the titles around look
+
+1113
+00:44:05,910 --> 00:44:08,009
+cool but not enough to persuade me to
+
+1114
+00:44:08,009 --> 00:44:10,289
+pick it up yeah i would say probably a
+
+1115
+00:44:10,289 --> 00:44:12,779
+six the only thing i could take away is
+
+1116
+00:44:12,779 --> 00:44:14,039
+that everything that i want to play is
+
+1117
+00:44:14,039 --> 00:44:15,380
+on pc
+
+1118
+00:44:15,380 --> 00:44:17,180
+and like I said as much as that fucking
+
+1119
+00:44:17,180 --> 00:44:19,760
+hurts Xbox props to Microsoft for
+
+1120
+00:44:19,760 --> 00:44:21,200
+knowing that there's like thirty to
+
+1121
+00:44:21,200 --> 00:44:22,400
+forty percent of their player base
+
+1122
+00:44:22,400 --> 00:44:23,990
+doesn't give a shit about consoles I
+
+1123
+00:44:23,990 --> 00:44:26,690
+just want to play on PC like we've got
+
+1124
+00:44:26,690 --> 00:44:28,490
+what like thousand dollar systems you
+
+1125
+00:44:28,490 --> 00:44:29,960
+know we don't want to buy another system
+
+1126
+00:44:29,960 --> 00:44:31,880
+and they're catering to that I'm gonna
+
+1127
+00:44:31,880 --> 00:44:33,620
+change my opinion here as I have it
+
+1128
+00:44:33,620 --> 00:44:35,630
+written down different I am gonna after
+
+1129
+00:44:35,630 --> 00:44:38,180
+talking about it seeing what specific
+
+1130
+00:44:38,180 --> 00:44:41,150
+games were I'm actually rating Microsoft
+
+1131
+00:44:41,150 --> 00:44:42,740
+it's tough
+
+1132
+00:44:42,740 --> 00:44:51,160
+Microsoft won unprecedented disaster
+
+1133
+00:44:51,160 --> 00:44:53,480
+presentation I've run it down some
+
+1134
+00:44:53,480 --> 00:44:56,600
+points interesting games so but what
+
+1135
+00:44:56,600 --> 00:44:59,900
+matters the most when you're doing Sony
+
+1136
+00:44:59,900 --> 00:45:03,470
+Microsoft they want you to buy their
+
+1137
+00:45:03,470 --> 00:45:06,740
+products and and Microsoft well they
+
+1138
+00:45:06,740 --> 00:45:08,840
+showed off all the products come into
+
+1139
+00:45:08,840 --> 00:45:10,910
+every platform ever and they had world
+
+1140
+00:45:10,910 --> 00:45:13,430
+premieres and it was a great show and
+
+1141
+00:45:13,430 --> 00:45:16,040
+the game pass it's not something like
+
+1142
+00:45:16,040 --> 00:45:18,020
+joe said that it gets me live fire up
+
+1143
+00:45:18,020 --> 00:45:19,910
+and turn on my xbox to stop playing my
+
+1144
+00:45:19,910 --> 00:45:22,370
+ps4 and start recording footage on the
+
+1145
+00:45:22,370 --> 00:45:24,170
+Xbox from now and it just didn't you
+
+1146
+00:45:24,170 --> 00:45:27,770
+know it's so so they lose in terms of
+
+1147
+00:45:27,770 --> 00:45:30,320
+games because gears and halo can only go
+
+1148
+00:45:30,320 --> 00:45:32,090
+on for so long can only make you excited
+
+1149
+00:45:32,090 --> 00:45:34,310
+for so long and they really had nothing
+
+1150
+00:45:34,310 --> 00:45:37,070
+else besides gears and and Halo that
+
+1151
+00:45:37,070 --> 00:45:39,850
+isn't on other things
+
+1152
+00:45:39,850 --> 00:45:43,580
+42 and for Forza horizon for and guess
+
+1153
+00:45:43,580 --> 00:45:45,740
+what I'm gonna get that Xbox game past
+
+1154
+00:45:45,740 --> 00:45:47,300
+and I'm gonna play those games for a
+
+1155
+00:45:47,300 --> 00:45:49,070
+little bit and I'm gonna cancel my Xbox
+
+1156
+00:45:49,070 --> 00:45:50,960
+game fast cuz that's how I think most
+
+1157
+00:45:50,960 --> 00:45:54,020
+people should run that right don't
+
+1158
+00:45:54,020 --> 00:45:56,660
+forget to cancel you know I'll call you
+
+1159
+00:45:56,660 --> 00:45:58,250
+angry Joe calling you I used to do that
+
+1160
+00:45:58,250 --> 00:46:00,110
+he's this so cable a long time ago for
+
+1161
+00:46:00,110 --> 00:46:02,270
+Time Warner and I was like digital cable
+
+1162
+00:46:02,270 --> 00:46:03,740
+is like you know what you sign up for
+
+1163
+00:46:03,740 --> 00:46:06,080
+digital cable right now and then you
+
+1164
+00:46:06,080 --> 00:46:07,880
+cancel within 30 days they don't charge
+
+1165
+00:46:07,880 --> 00:46:10,190
+you so I'll remind you and I'll give you
+
+1166
+00:46:10,190 --> 00:46:14,960
+a cost I remind all of y'all hey cancel
+
+1167
+00:46:14,960 --> 00:46:17,870
+it begins from I got wonder if that
+
+1168
+00:46:17,870 --> 00:46:20,360
+hurts the developers though Mike if you
+
+1169
+00:46:20,360 --> 00:46:22,490
+don't give the full truth does it hurt a
+
+1170
+00:46:22,490 --> 00:46:25,200
+little upper that's the rule
+
+1171
+00:46:25,200 --> 00:46:27,630
+why what I'm hoping is in Microsoft gave
+
+1172
+00:46:27,630 --> 00:46:29,370
+them some money to put them on their
+
+1173
+00:46:29,370 --> 00:46:31,200
+service I'm hoping because I don't want
+
+1174
+00:46:31,200 --> 00:46:33,090
+that to hack a developers tell me if
+
+1175
+00:46:33,090 --> 00:46:34,440
+that's the case then I want you to know
+
+1176
+00:46:34,440 --> 00:46:36,300
+because as I will love supporting
+
+1177
+00:46:36,300 --> 00:46:38,640
+developers yeah anyways so Microsoft
+
+1178
+00:46:38,640 --> 00:46:40,920
+final verdict I changed my rating
+
+1179
+00:46:40,920 --> 00:46:42,720
+initially I thought Microsoft was above
+
+1180
+00:46:42,720 --> 00:46:45,570
+Sony and that's only true for the show
+
+1181
+00:46:45,570 --> 00:46:48,780
+but for games I still I think Sony is
+
+1182
+00:46:48,780 --> 00:46:51,360
+above but I really have slapped Sony in
+
+1183
+00:46:51,360 --> 00:46:52,950
+the fucking face because I'm really
+
+1184
+00:46:52,950 --> 00:46:55,650
+feeling like don't do that again I'm
+
+1185
+00:46:55,650 --> 00:46:57,600
+really feeling like they're losing it so
+
+1186
+00:46:57,600 --> 00:47:00,240
+I also have to give Microsoft props cuz
+
+1187
+00:47:00,240 --> 00:47:01,440
+they're better than all their other
+
+1188
+00:47:01,440 --> 00:47:01,890
+years
+
+1189
+00:47:01,890 --> 00:47:03,770
+yeah might would they did a great job
+
+1190
+00:47:03,770 --> 00:47:06,660
+but in terms of games I'm not sure they
+
+1191
+00:47:06,660 --> 00:47:09,240
+didn't just talk about TVs so yeah so
+
+1192
+00:47:09,240 --> 00:47:14,180
+we'll see so we got 6 out of 10 for Sony
+
+1193
+00:47:14,180 --> 00:47:17,160
+I'm gonna go 6 out of 10 for Microsoft
+
+1194
+00:47:17,160 --> 00:47:20,340
+that that reflects the sort of way you
+
+1195
+00:47:20,340 --> 00:47:22,650
+know flip of better presentation because
+
+1196
+00:47:22,650 --> 00:47:24,320
+I have to factor in the presentation and
+
+1197
+00:47:24,320 --> 00:47:27,060
+planting the seed and and them seeming
+
+1198
+00:47:27,060 --> 00:47:28,680
+to understand that we need to talk about
+
+1199
+00:47:28,680 --> 00:47:30,360
+games we need something all this shit
+
+1200
+00:47:30,360 --> 00:47:32,070
+about and there's no more connect you
+
+1201
+00:47:32,070 --> 00:47:34,530
+know there's no there's no VR there's no
+
+1202
+00:47:34,530 --> 00:47:36,840
+nothing there's games and guess what
+
+1203
+00:47:36,840 --> 00:47:38,460
+guys we understand you want more first
+
+1204
+00:47:38,460 --> 00:47:40,080
+party titles so we're buying this we're
+
+1205
+00:47:40,080 --> 00:47:41,880
+buying that we're buying that hey also
+
+1206
+00:47:41,880 --> 00:47:45,750
+you want greater deals Xbox game Pass so
+
+1207
+00:47:45,750 --> 00:47:48,990
+I must say a tie with Sony and it was
+
+1208
+00:47:48,990 --> 00:47:51,210
+this year Sony year to fucking blow them
+
+1209
+00:47:51,210 --> 00:47:53,640
+out of the water and and Microsoft to
+
+1210
+00:47:53,640 --> 00:47:54,300
+fuck it up
+
+1211
+00:47:54,300 --> 00:47:56,850
+Microsoft didn't fuck it up and Sony
+
+1212
+00:47:56,850 --> 00:47:59,490
+fucked it up and and ruin their
+
+1213
+00:47:59,490 --> 00:48:01,740
+presentation and really kind of did a
+
+1214
+00:48:01,740 --> 00:48:04,380
+disservice to some of their games and so
+
+1215
+00:48:04,380 --> 00:48:06,510
+that's why ultimately about the same
+
+1216
+00:48:06,510 --> 00:48:07,560
+well you know what the most biggest
+
+1217
+00:48:07,560 --> 00:48:08,990
+disappointment was about the Xbox
+
+1218
+00:48:08,990 --> 00:48:12,690
+conference but no Star Wars dance-off to
+
+1219
+00:48:12,690 --> 00:48:15,630
+where we get this equal that we deserve
+
+1220
+00:48:15,630 --> 00:48:19,350
+honestly that's what Star Wars connect
+
+1221
+00:48:19,350 --> 00:48:21,930
+to they're done with that Han Solo to I
+
+1222
+00:48:21,930 --> 00:48:27,480
+want to read come on solo okay all right
+
+1223
+00:48:27,480 --> 00:48:29,040
+guys thank you so much for watching the
+
+1224
+00:48:29,040 --> 00:48:33,720
+Microsoft a sort of breakdown and yeah
+
+1225
+00:48:33,720 --> 00:48:35,130
+thank you so much for watching we'll see
+
+1226
+00:48:35,130 --> 00:48:42,080
+you on the next one bye guys
+
+1227
+00:48:42,080 --> 00:48:55,340
+[Music]
+
+1228
+00:48:55,340 --> 00:48:59,000
+[Music]
+

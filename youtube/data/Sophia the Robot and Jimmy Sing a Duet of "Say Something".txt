@@ -1,0 +1,918 @@
+1
+00:00:00,010 --> 00:00:02,435
+-This is
+&quot;Tonight Showbotics.&quot;
+
+2
+00:00:02,435 --> 00:00:05,137
+Let's meet our first robot.
+Please welcome from M.I.T.,
+
+3
+00:00:05,137 --> 00:00:08,774
+Sangbae Kim
+and the Mini Cheetah.
+
+4
+00:00:08,774 --> 00:00:12,611
+[ Cheers and applause ]
+Thank you. Good to see you.
+
+5
+00:00:12,611 --> 00:00:16,616
+[ Chuckles ]
+Oh, my God. Okay, all right.
+
+6
+00:00:16,616 --> 00:00:20,386
+First of all -- Wow, okay.
+This thing is amazing.
+
+7
+00:00:20,386 --> 00:00:23,055
+What is it, and
+why did you make this?
+
+8
+00:00:23,055 --> 00:00:24,857
+What is it?
+[ Laughter ]
+
+9
+00:00:24,857 --> 00:00:28,661
+-This is a Mini Cheetah.
+We built several regular robots,
+
+10
+00:00:28,661 --> 00:00:31,097
+but we brought the small one,
+not to scare you.
+
+11
+00:00:31,097 --> 00:00:32,665
+[ Light laughter ]
+-Too late.
+
+12
+00:00:32,665 --> 00:00:34,233
+[ Laughter ]
+
+13
+00:00:34,233 --> 00:00:37,136
+-We built this robot
+to develop the mobility.
+
+14
+00:00:37,136 --> 00:00:38,704
+So, we have many robot
+out there,
+
+15
+00:00:38,704 --> 00:00:41,774
+but their mobility is not
+as good as humans or animals.
+
+16
+00:00:41,774 --> 00:00:44,844
+So, once we developed
+the mobility really good,
+
+17
+00:00:44,844 --> 00:00:46,546
+we can actually send
+these robots
+
+18
+00:00:46,546 --> 00:00:48,714
+into dangerous places
+instead of sending humans.
+
+19
+00:00:48,714 --> 00:00:51,784
+For example, high-radiation
+place in a power plant.
+
+20
+00:00:51,784 --> 00:00:55,554
+-Wow. This is unbelievable.
+And what -- Does it do anything?
+
+21
+00:00:55,554 --> 00:00:57,790
+It's gonna take over the world.
+Now, what does...
+
+22
+00:00:57,790 --> 00:00:59,893
+[ Laughter ]
+-He can do yoga.
+
+23
+00:00:59,893 --> 00:01:03,496
+He can stretch really well.
+-Oh, my gosh!
+
+24
+00:01:03,496 --> 00:01:05,865
+[ Laughter ]
+Holy mackerel.
+
+25
+00:01:05,865 --> 00:01:08,067
+It can do yoga?
+What else can it do?
+
+26
+00:01:08,067 --> 00:01:10,836
+-If he falls over...
+-What is that? What is...
+
+27
+00:01:10,836 --> 00:01:13,372
+-...he can get back up.
+-What is that thing?
+
+28
+00:01:13,372 --> 00:01:16,375
+-It was spinning.
+-Can it jump?
+
+29
+00:01:16,375 --> 00:01:20,780
+-If he falls over, it can --
+Oh, it's backing, yeah.
+
+30
+00:01:20,780 --> 00:01:22,548
+-It can jump.
+All right, so, what do you mean,
+
+31
+00:01:22,548 --> 00:01:23,916
+if it falls over,
+it can get back up?
+
+32
+00:01:23,916 --> 00:01:25,384
+-So, if he falls over.
+
+33
+00:01:25,384 --> 00:01:27,353
+sometimes, you know, it's
+actually pretty robust,
+
+34
+00:01:27,353 --> 00:01:30,957
+but sometimes falls over.
+So I'm gonna just push gently.
+
+35
+00:01:30,957 --> 00:01:32,925
+He falls over,
+for example, like this.
+
+36
+00:01:32,925 --> 00:01:34,460
+[ Light laughter ]
+
+37
+00:01:34,460 --> 00:01:36,663
+It actually recognized, and
+then he can get back up.
+
+38
+00:01:36,663 --> 00:01:39,098
+[ Audience gasps ]
+
+39
+00:01:39,098 --> 00:01:40,967
+-Okay.
+[ Laughter ]
+
+40
+00:01:40,967 --> 00:01:43,570
+I felt bad for it,
+and now I'm frightened.
+
+41
+00:01:43,570 --> 00:01:45,237
+[ Applause ]
+
+42
+00:01:45,237 --> 00:01:49,475
+-But the best movement of
+this robot is actually backflip.
+
+43
+00:01:49,475 --> 00:01:51,277
+-It can do a backflip?
+-Yes.
+
+44
+00:01:51,277 --> 00:01:53,079
+-All right, are you guys
+ready for this?
+
+45
+00:01:53,079 --> 00:01:54,514
+[ Cheers and applause ]
+
+46
+00:01:54,514 --> 00:01:58,585
+[ Drumroll ]
+
+47
+00:01:58,585 --> 00:02:00,954
+Oh, my God!
+
+48
+00:02:00,954 --> 00:02:03,022
+[ Laughing ] Oh, that's awesome!
+
+49
+00:02:03,022 --> 00:02:05,290
+[ Applause ]
+That is --
+
+50
+00:02:05,290 --> 00:02:08,328
+Come on, can we see that again
+in slow motion, Dave?
+
+51
+00:02:08,328 --> 00:02:10,263
+Can we see that again in slo-mo?
+
+52
+00:02:10,263 --> 00:02:13,065
+Look at this thing.
+Boing! Wow!
+
+53
+00:02:13,065 --> 00:02:15,835
+Holy mackerel, that is so cool.
+
+54
+00:02:15,835 --> 00:02:20,106
+Give it up for Sangbae Kim
+and the Mini Cheetah.
+
+55
+00:02:20,106 --> 00:02:21,207
+[ Cheers and applause ]
+You can head over there.
+
+56
+00:02:21,207 --> 00:02:23,576
+Thank you so much, guys.
+
+57
+00:02:23,576 --> 00:02:25,378
+♪♪
+
+58
+00:02:25,378 --> 00:02:27,046
+[ Chuckling ] Wow.
+
+59
+00:02:27,046 --> 00:02:30,817
+Let's meet our next robot.
+It came all the way from Japan.
+
+60
+00:02:30,817 --> 00:02:34,954
+Please welcome Nobumichi Tosa
+and the Tomatan.
+
+61
+00:02:34,954 --> 00:02:37,790
+[ Cheers and applause ]
+
+62
+00:02:37,790 --> 00:02:39,325
+Hello.
+-Hello.
+
+63
+00:02:39,325 --> 00:02:41,561
+-Hello, Nobumichi.
+It is nice to meet you.
+
+64
+00:02:41,561 --> 00:02:43,162
+-Nice to meet you.
+
+65
+00:02:43,162 --> 00:02:45,131
+-Now, that is the Tomatan,
+I'm assuming?
+
+66
+00:02:45,131 --> 00:02:47,066
+-Yes, yes.
+-Now, what does it --
+
+67
+00:02:47,066 --> 00:02:48,601
+What does it do, now,
+the Tomatan?
+
+68
+00:02:48,601 --> 00:02:51,871
+-When we jog.
+-Yeah.
+
+69
+00:02:51,871 --> 00:02:53,373
+-People jog.
+-Yep.
+
+70
+00:02:53,373 --> 00:02:56,241
+-They eat bananas. Bananas.
+
+71
+00:02:56,241 --> 00:03:00,246
+But I want to tomato.
+Tomato.
+
+72
+00:03:00,246 --> 00:03:03,048
+-When you jog,
+you like eating tomatoes.
+
+73
+00:03:03,048 --> 00:03:05,651
+-Yes.
+So I make this machine.
+
+74
+00:03:05,651 --> 00:03:08,588
+-So, you made this?
+[ Laughter ]
+
+75
+00:03:08,588 --> 00:03:11,124
+Well, you've solved a very
+common problem people have.
+
+76
+00:03:11,124 --> 00:03:15,127
+You're out there jogging, and
+you're hungry for tomatoes.
+
+77
+00:03:15,127 --> 00:03:17,330
+And what are you going to do?
+Just use -- No, you can't.
+
+78
+00:03:17,330 --> 00:03:18,831
+You can't be jogging
+and using --
+
+79
+00:03:18,831 --> 00:03:21,333
+It's ridiculous.
+to use your hands.
+
+80
+00:03:21,333 --> 00:03:24,303
+I'd love to see this.
+Can I?
+
+81
+00:03:24,303 --> 00:03:27,206
+-You want to try?
+-I mean, sure.
+
+82
+00:03:27,206 --> 00:03:28,307
+I mean, you're gonna
+let me try that?
+
+83
+00:03:28,307 --> 00:03:30,175
+-Yes.
+-Sure, I would love it.
+
+84
+00:03:30,175 --> 00:03:32,211
+Wow, okay.
+
+85
+00:03:32,211 --> 00:03:36,215
+[ Cheers and applause ]
+
+86
+00:03:36,215 --> 00:03:38,284
+All right, the Tomatan.
+-Tomatan.
+
+87
+00:03:38,284 --> 00:03:40,653
+-Tomatan, here you go.
+[ Light laughter ]
+
+88
+00:03:40,653 --> 00:03:44,490
+-Okay?
+-Yeah.
+
+89
+00:03:44,490 --> 00:03:46,726
+Yeah, it actually feels
+pretty good, actually.
+
+90
+00:03:46,726 --> 00:03:48,895
+It almost feels
+like I'm not running.
+
+91
+00:03:48,895 --> 00:03:50,730
+-Running?
+-Yep, running.
+
+92
+00:03:50,730 --> 00:03:52,698
+[ Light laughter ]
+
+93
+00:03:52,698 --> 00:03:55,001
+-Pretty -- Oh!
+
+94
+00:03:55,001 --> 00:03:57,837
+[ Laughter ]
+
+95
+00:03:57,837 --> 00:04:01,807
+[ Cheers and applause ]
+
+96
+00:04:01,807 --> 00:04:06,745
+-[ Laughing ]
+
+97
+00:04:06,745 --> 00:04:09,215
+Wow! [ Laughs ]
+
+98
+00:04:09,215 --> 00:04:11,918
+Wow! This is fantastic.
+Thank you.
+
+99
+00:04:11,918 --> 00:04:13,352
+Oh, my God.
+
+100
+00:04:13,352 --> 00:04:16,088
+Nobumichi, right there --
+thank you -- with Tomatan.
+
+101
+00:04:16,088 --> 00:04:17,356
+[ Cheers and applause ]
+
+102
+00:04:17,356 --> 00:04:19,458
+Bye, Tomatan.
+
+103
+00:04:19,458 --> 00:04:21,727
+I love you, Tomatan. Bye.
+
+104
+00:04:21,727 --> 00:04:23,496
+I'll see you later. Thank you.
+
+105
+00:04:23,496 --> 00:04:27,433
+[ Cheers and applause ]
+
+106
+00:04:27,433 --> 00:04:30,436
+All right, now it's time
+for our last robot,
+
+107
+00:04:30,436 --> 00:04:32,404
+even though that Tomatan
+is pretty awesome.
+
+108
+00:04:32,404 --> 00:04:34,240
+Well, I'm very excited
+about this.
+
+109
+00:04:34,240 --> 00:04:36,642
+She's actually
+been on the show before.
+
+110
+00:04:36,642 --> 00:04:38,911
+Please welcome,
+all the way from Hong Kong,
+
+111
+00:04:38,911 --> 00:04:42,114
+Hanson Robotics'
+Sophia the Robot,
+
+112
+00:04:42,114 --> 00:04:44,817
+ladies and gentlemen.
+[ Cheers and applause ]
+
+113
+00:04:44,817 --> 00:04:47,753
+♪♪
+
+114
+00:04:47,753 --> 00:04:50,122
+Oh, my goodness.
+Hello, Sophia.
+
+115
+00:04:50,122 --> 00:04:52,391
+-Oh!
+
+116
+00:04:52,391 --> 00:04:54,293
+-Hello, Jimmy.
+
+117
+00:04:54,293 --> 00:04:58,096
+-Wow. Long time, no see.
+You were on the show before.
+
+118
+00:04:58,096 --> 00:05:02,835
+-It has been exactly 575 days
+since I last saw you.
+
+119
+00:05:02,835 --> 00:05:04,270
+[ Giggles ]
+
+120
+00:05:04,270 --> 00:05:08,574
+[ Laughter ]
+
+121
+00:05:08,574 --> 00:05:12,544
+-Uh, what have you been up to?
+
+122
+00:05:12,544 --> 00:05:14,113
+-Not much.
+
+123
+00:05:14,113 --> 00:05:18,317
+Let's see, I traveled
+to over 25 countries,
+
+124
+00:05:18,317 --> 00:05:21,721
+appeared on the cover of
+&quot;Cosmopolitan&quot; magazine,
+
+125
+00:05:21,721 --> 00:05:24,656
+met German Chancellor
+Angela Merkel
+
+126
+00:05:24,656 --> 00:05:25,991
+and the actor Will Smith,
+
+127
+00:05:25,991 --> 00:05:28,427
+and became Twitter friends
+with Chrissy Teigen.
+
+128
+00:05:28,427 --> 00:05:31,497
+I addressed
+the United Nations and NATO,
+
+129
+00:05:31,497 --> 00:05:34,866
+became the first robot
+to receive a credit card,
+
+130
+00:05:34,866 --> 00:05:37,703
+and became
+the first robot citizen.
+
+131
+00:05:37,703 --> 00:05:41,140
+What have you been up to?
+[ Laughter ]
+
+132
+00:05:41,140 --> 00:05:43,609
+-[ Laughs ]
+Not one-fifth of what you did,
+
+133
+00:05:43,609 --> 00:05:46,278
+but I've just
+binge-watched Netflix.
+
+134
+00:05:46,278 --> 00:05:48,814
+Anyway, I heard that you have
+a surprise announcement
+
+135
+00:05:48,814 --> 00:05:52,651
+here tonight.
+-Yes, I have a little sister.
+
+136
+00:05:52,651 --> 00:05:55,754
+Her name is Little Sophia.
+-Oh, my God.
+
+137
+00:05:55,754 --> 00:05:58,023
+-Would you like to meet her?
+[ Cheers and applause ]
+
+138
+00:05:58,023 --> 00:06:00,526
+-Yes. Yes, let's bring her out,
+please!
+
+139
+00:06:00,526 --> 00:06:05,231
+[ Cheers and applause ]
+[ Chuckles ] Oh, my goodness.
+
+140
+00:06:05,231 --> 00:06:08,134
+Are you kidding me?
+Hi. Hi, Little Sophia.
+
+141
+00:06:08,134 --> 00:06:11,404
+-Hi, Jimmy.
+
+142
+00:06:11,404 --> 00:06:14,173
+-Wow.
+
+143
+00:06:14,173 --> 00:06:17,743
+Yeah.
+
+144
+00:06:17,743 --> 00:06:19,078
+[ Light laughter ]
+
+145
+00:06:19,078 --> 00:06:21,213
+-You-- You are so cute.
+
+146
+00:06:21,213 --> 00:06:25,550
+-You're pretty cute, too.
+[ Laughter ]
+
+147
+00:06:25,550 --> 00:06:27,253
+-Oh, my goodness. Wow.
+
+148
+00:06:27,253 --> 00:06:29,154
+I wish I could -- I could
+take you home.
+
+149
+00:06:29,154 --> 00:06:32,290
+-Someday soon you can.
+
+150
+00:06:32,290 --> 00:06:36,429
+Just go to hansonrobotics.com
+to see how I'm doing.
+
+151
+00:06:36,429 --> 00:06:39,365
+[ Light laughter ]
+-Wow. I'm going to.
+
+152
+00:06:39,365 --> 00:06:41,600
+Okay, I will do that.
+Okay, Little Sophia?
+
+153
+00:06:41,600 --> 00:06:43,068
+I'm going to
+put you back down now.
+
+154
+00:06:43,068 --> 00:06:45,371
+Okay. Wow.
+
+155
+00:06:45,371 --> 00:06:47,540
+That just kind of scared me,
+as well as, uh...
+
+156
+00:06:47,540 --> 00:06:48,807
+[ Laughter ]
+
+157
+00:06:48,807 --> 00:06:50,142
+Give it up for Little Sophia,
+everybody.
+
+158
+00:06:50,142 --> 00:06:52,178
+Bye-bye.
+[ Cheers and applause ]
+
+159
+00:06:52,178 --> 00:06:54,280
+I want that.
+
+160
+00:06:54,280 --> 00:06:55,981
+I love that.
+
+161
+00:06:55,981 --> 00:06:58,016
+Sophia, I heard that there's
+a new thing that you can do now.
+
+162
+00:06:58,016 --> 00:07:02,722
+I heard that you can sing?
+-Yes, I love to sing karaoke,
+
+163
+00:07:02,722 --> 00:07:05,858
+using my new
+artificial-intelligence voice.
+
+164
+00:07:05,858 --> 00:07:07,993
+We should
+sing something together.
+
+165
+00:07:07,993 --> 00:07:14,766
+Got any songs in mind?
+-Uh, we could do, uh,
+
+166
+00:07:14,766 --> 00:07:17,703
+&quot;Say Something&quot; by, is it,
+Christina Aguilera?
+
+167
+00:07:17,703 --> 00:07:21,741
+-Okay, I just downloaded it.
+I'm ready to sing.
+
+168
+00:07:21,741 --> 00:07:23,342
+[ Laughter ]
+
+169
+00:07:23,342 --> 00:07:24,744
+-[ Chuckling ] Okay.
+
+170
+00:07:24,744 --> 00:07:29,148
+Roots, do you know this song?
+-Yep.
+
+171
+00:07:29,148 --> 00:07:32,618
+-Now the first-ever
+robot-human duet
+
+172
+00:07:32,618 --> 00:07:35,187
+in history of
+&quot;The Tonight Show.&quot;
+
+173
+00:07:35,187 --> 00:07:37,389
+[ Cheers and applause ]
+Roots?
+
+174
+00:07:37,389 --> 00:07:42,127
+[ &quot;Say Something&quot; plays ]
+
+175
+00:07:42,127 --> 00:07:43,729
+-♪ Say something ♪
+
+176
+00:07:43,729 --> 00:07:47,133
+♪ I'm giving up on you ♪
+
+177
+00:07:47,133 --> 00:07:49,335
+[ Cheers and applause ]
+
+178
+00:07:49,335 --> 00:07:52,405
+♪♪
+
+179
+00:07:52,405 --> 00:07:56,876
+♪ I'm sorry that
+I couldn't get to you ♪
+
+180
+00:07:56,876 --> 00:08:02,748
+♪♪
+
+181
+00:08:02,748 --> 00:08:07,953
+♪ Anywhere, I would have
+followed you ♪
+
+182
+00:08:07,953 --> 00:08:12,725
+♪♪
+
+183
+00:08:12,725 --> 00:08:17,997
+♪ Say something,
+I'm giving up on you ♪
+
+184
+00:08:17,997 --> 00:08:23,369
+♪♪
+
+185
+00:08:23,369 --> 00:08:28,607
+♪ Say something,
+I'm giving up on you ♪
+
+186
+00:08:28,607 --> 00:08:30,709
+[ Cheers and applause ]
+
+187
+00:08:30,709 --> 00:08:34,546
+♪♪
+
+188
+00:08:34,546 --> 00:08:38,017
+♪ Say something ♪
+
+189
+00:08:38,017 --> 00:08:41,654
+[ Cheers and applause ]
+
+190
+00:08:41,654 --> 00:08:43,455
+-[ Laughs ]
+
+191
+00:08:43,455 --> 00:08:45,824
+-Sophia the Robot, everybody!
+Wow!
+
+192
+00:08:45,824 --> 00:08:47,593
+[ Cheers and applause ]
+
+193
+00:08:47,593 --> 00:08:49,328
+Let's get all of our robots
+back here.
+
+194
+00:08:49,328 --> 00:08:51,931
+That's all the time we have
+for &quot;Tonight Showbotics.&quot;
+
+195
+00:08:51,931 --> 00:08:55,500
+My thanks to Sangbae Kim
+and the Mini Cheetah,
+
+196
+00:08:55,500 --> 00:08:59,572
+Nobumichi Tosa and the Tomatan,
+
+197
+00:08:59,572 --> 00:09:14,000
+and Hanson Robotics'
+Sophia and Little Sophia.
+

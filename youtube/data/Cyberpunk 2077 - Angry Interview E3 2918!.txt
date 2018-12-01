@@ -1,0 +1,1856 @@
+1
+00:00:00,010 --> 00:00:02,970
+hey guys angry Joe here and I'm with the
+
+2
+00:00:02,970 --> 00:00:04,920
+creator of cyberpunk
+
+3
+00:00:04,920 --> 00:00:07,649
+and the associate design director for
+
+4
+00:00:07,649 --> 00:00:11,040
+the game I just got out of a 45 minute
+
+5
+00:00:11,040 --> 00:00:14,070
+demo and if you guys are wondering what
+
+6
+00:00:14,070 --> 00:00:20,279
+I thought wow that's what I think that I
+
+7
+00:00:20,279 --> 00:00:23,220
+guess we pass yes you passed from what
+
+8
+00:00:23,220 --> 00:00:25,380
+I've seen so far you pass now there were
+
+9
+00:00:25,380 --> 00:00:27,990
+a few surprising things to me I I don't
+
+10
+00:00:27,990 --> 00:00:30,810
+know why I expected it to be dark or at
+
+11
+00:00:30,810 --> 00:00:32,700
+night or something like that but it's
+
+12
+00:00:32,700 --> 00:00:34,320
+actually kind of bright at least that
+
+13
+00:00:34,320 --> 00:00:37,770
+particular demo was in the daytime will
+
+14
+00:00:37,770 --> 00:00:40,620
+we see stuff in the night oh yeah you'll
+
+15
+00:00:40,620 --> 00:00:42,360
+definitely see stuff in the night okay
+
+16
+00:00:42,360 --> 00:00:44,640
+so that there's a whole different Club
+
+17
+00:00:44,640 --> 00:00:46,350
+kind of vibe and a whole different thing
+
+18
+00:00:46,350 --> 00:00:50,250
+that comes with the night time the games
+
+19
+00:00:50,250 --> 00:00:54,180
+gonna have a day/night cycle yes which
+
+20
+00:00:54,180 --> 00:00:55,680
+means one of the cool things about it is
+
+21
+00:00:55,680 --> 00:00:57,899
+that you're going to not just see that
+
+22
+00:00:57,899 --> 00:00:59,520
+day night day night but you're also
+
+23
+00:00:59,520 --> 00:01:02,670
+gonna see dawn dusk bad weather good
+
+24
+00:01:02,670 --> 00:01:03,359
+weather
+
+25
+00:01:03,359 --> 00:01:06,119
+acid rain you name oh my god that's
+
+26
+00:01:06,119 --> 00:01:08,280
+gonna happen that's freakin awesome so
+
+27
+00:01:08,280 --> 00:01:12,420
+this this it's like a mixture of all the
+
+28
+00:01:12,420 --> 00:01:15,110
+best from a lot of different games and
+
+29
+00:01:15,110 --> 00:01:18,780
+I'm just shocked that's that's real
+
+30
+00:01:18,780 --> 00:01:20,310
+right that wasn't script now of course
+
+31
+00:01:20,310 --> 00:01:21,960
+the whole thing was opening yeah they
+
+32
+00:01:21,960 --> 00:01:24,060
+actually had me sit next to dude who he
+
+33
+00:01:24,060 --> 00:01:26,100
+was running the demos on convey he was
+
+34
+00:01:26,100 --> 00:01:28,829
+actually we've got shit ex-pro
+
+35
+00:01:28,829 --> 00:01:32,939
+counter-strike playable moves but okay
+
+36
+00:01:32,939 --> 00:01:34,979
+so let's talk a little bit about this
+
+37
+00:01:34,979 --> 00:01:36,689
+cyberpunk world do you think that
+
+38
+00:01:36,689 --> 00:01:39,240
+they've nailed this this world what can
+
+39
+00:01:39,240 --> 00:01:39,570
+they do
+
+40
+00:01:39,570 --> 00:01:42,659
+hell yeah they they nailed it it's like
+
+41
+00:01:42,659 --> 00:01:44,280
+they've poured it in you know the part
+
+42
+00:01:44,280 --> 00:01:45,270
+where they stick the poured into her
+
+43
+00:01:45,270 --> 00:01:47,220
+head you know I put in my head and got
+
+44
+00:01:47,220 --> 00:01:50,130
+everything out hell yes that is HUGE
+
+45
+00:01:50,130 --> 00:01:53,189
+okay guys I'm serious and in with with
+
+46
+00:01:53,189 --> 00:01:55,079
+the world so fleshed out and what you've
+
+47
+00:01:55,079 --> 00:01:57,060
+built it I think all that extra
+
+48
+00:01:57,060 --> 00:01:59,430
+development time or time that would have
+
+49
+00:01:59,430 --> 00:02:02,040
+been creating that you guys get to focus
+
+50
+00:02:02,040 --> 00:02:04,680
+on building it refining it and turning
+
+51
+00:02:04,680 --> 00:02:06,720
+- fun gameplay mechanics I mean can you
+
+52
+00:02:06,720 --> 00:02:09,470
+talk a little bit about the decision to
+
+53
+00:02:09,470 --> 00:02:12,300
+do this first-person perspective because
+
+54
+00:02:12,300 --> 00:02:14,400
+I think some I guess just the perception
+
+55
+00:02:14,400 --> 00:02:16,320
+because of Witcher 3 is that it would be
+
+56
+00:02:16,320 --> 00:02:18,150
+a third person or something but I mean
+
+57
+00:02:18,150 --> 00:02:19,860
+like from when we were building the
+
+58
+00:02:19,860 --> 00:02:21,360
+world up and we're kind of looking over
+
+59
+00:02:21,360 --> 00:02:23,310
+the law that Mike sprayed and we know
+
+60
+00:02:23,310 --> 00:02:24,870
+that night city is going to be on an
+
+61
+00:02:24,870 --> 00:02:26,130
+epic scale was going to have massive
+
+62
+00:02:26,130 --> 00:02:28,560
+skyscrapers it's going to have because
+
+63
+00:02:28,560 --> 00:02:30,150
+we really wanted to make the feeling of
+
+64
+00:02:30,150 --> 00:02:31,740
+like you being oppressed it's a
+
+65
+00:02:31,740 --> 00:02:34,050
+dystopian society and with lots of
+
+66
+00:02:34,050 --> 00:02:36,600
+atmosphere so we really wanted the best
+
+67
+00:02:36,600 --> 00:02:38,970
+way for experience to kind of soak that
+
+68
+00:02:38,970 --> 00:02:40,800
+all that in to have all the detail and
+
+69
+00:02:40,800 --> 00:02:42,570
+kind of immerse you in that world was
+
+70
+00:02:42,570 --> 00:02:44,450
+from the first-person perspective I mean
+
+71
+00:02:44,450 --> 00:02:47,340
+all of the decisions we've made on the
+
+72
+00:02:47,340 --> 00:02:48,570
+narratives perspective and from a
+
+73
+00:02:48,570 --> 00:02:50,459
+gameplay perspective in I've been built
+
+74
+00:02:50,459 --> 00:02:52,500
+into the idea of being first-person so
+
+75
+00:02:52,500 --> 00:02:53,790
+all of the cyberware that you have a
+
+76
+00:02:53,790 --> 00:02:56,310
+like as you as you saw it kind of we
+
+77
+00:02:56,310 --> 00:02:58,140
+represent that on the HUD it's like
+
+78
+00:02:58,140 --> 00:02:59,520
+we're not from a third-person
+
+79
+00:02:59,520 --> 00:03:01,020
+perspective we didn't feel more like we
+
+80
+00:03:01,020 --> 00:03:02,459
+could create that immersive experience
+
+81
+00:03:02,459 --> 00:03:04,830
+that we know that the cyberpunk game and
+
+82
+00:03:04,830 --> 00:03:06,390
+John were kind of like deserves you know
+
+83
+00:03:06,390 --> 00:03:08,820
+yeah there yeah and ok that's ugly too
+
+84
+00:03:08,820 --> 00:03:11,370
+that when I first saw the demo we first
+
+85
+00:03:11,370 --> 00:03:13,440
+walking through it there was a scene it
+
+86
+00:03:13,440 --> 00:03:15,750
+made me realize exactly why you want to
+
+87
+00:03:15,750 --> 00:03:17,820
+have a first-person I was walking in a
+
+88
+00:03:17,820 --> 00:03:19,980
+car and I was about to get in and I
+
+89
+00:03:19,980 --> 00:03:21,239
+heard some guy talking about his
+
+90
+00:03:21,239 --> 00:03:22,470
+girlfriend out of the corner of my ear
+
+91
+00:03:22,470 --> 00:03:25,019
+just like what was conversations that
+
+92
+00:03:25,019 --> 00:03:27,150
+you have on the street here somebody in
+
+93
+00:03:27,150 --> 00:03:28,560
+background are seeing some like oh then
+
+94
+00:03:28,560 --> 00:03:30,360
+I murdered them or something
+
+95
+00:03:30,360 --> 00:03:33,450
+and I went I want to find out what just
+
+96
+00:03:33,450 --> 00:03:34,709
+happened I don't have enough information
+
+97
+00:03:34,709 --> 00:03:37,080
+I want to turn I want to stop right now
+
+98
+00:03:37,080 --> 00:03:39,480
+and see this well the whole point of is
+
+99
+00:03:39,480 --> 00:03:41,130
+pickly in an incredibly urban
+
+100
+00:03:41,130 --> 00:03:44,040
+environment is stuff happens around your
+
+101
+00:03:44,040 --> 00:03:46,530
+perception all the time and if you're
+
+102
+00:03:46,530 --> 00:03:48,180
+above and out of it and you're just
+
+103
+00:03:48,180 --> 00:03:50,640
+driving a bucket around you don't get
+
+104
+00:03:50,640 --> 00:03:53,670
+that same feeling get of being in the
+
+105
+00:03:53,670 --> 00:03:57,030
+place yeah picking up data looking at
+
+106
+00:03:57,030 --> 00:04:00,269
+opportunities stuff when you are in it
+
+107
+00:04:00,269 --> 00:04:03,180
+impacts you yeah stuff when you're above
+
+108
+00:04:03,180 --> 00:04:05,670
+it or outside of it is tactical
+
+109
+00:04:05,670 --> 00:04:08,190
+information yeah and definitely it
+
+110
+00:04:08,190 --> 00:04:10,320
+really seems like the intimidation when
+
+111
+00:04:10,320 --> 00:04:11,850
+you're walking into these really seedy
+
+112
+00:04:11,850 --> 00:04:14,880
+areas it feels more cramped because you
+
+113
+00:04:14,880 --> 00:04:16,709
+have that perspective and when these
+
+114
+00:04:16,709 --> 00:04:17,590
+Punk's get
+
+115
+00:04:17,590 --> 00:04:19,329
+in your face to try to intimidate you it
+
+116
+00:04:19,329 --> 00:04:23,410
+has more effect is that oh yeah I think
+
+117
+00:04:23,410 --> 00:04:26,050
+it was a right decision obviously we had
+
+118
+00:04:26,050 --> 00:04:27,910
+a we had the we had the conversation and
+
+119
+00:04:27,910 --> 00:04:29,919
+scene system from Witcher 3 from the way
+
+120
+00:04:29,919 --> 00:04:31,300
+we're doing cut lots of cuts between the
+
+121
+00:04:31,300 --> 00:04:33,669
+characters but in silent because we're
+
+122
+00:04:33,669 --> 00:04:34,990
+first-person we've kind of tried to
+
+123
+00:04:34,990 --> 00:04:36,760
+build the narrative into the into the
+
+124
+00:04:36,760 --> 00:04:38,350
+world not necessarily have cutscenes but
+
+125
+00:04:38,350 --> 00:04:40,180
+like everything should be seamless and
+
+126
+00:04:40,180 --> 00:04:41,889
+it should feel like when I'm entering
+
+127
+00:04:41,889 --> 00:04:44,320
+one of these scenes that I'm actually
+
+128
+00:04:44,320 --> 00:04:45,850
+entering it and like these guys actually
+
+129
+00:04:45,850 --> 00:04:47,590
+a dangerous and yes like should all be
+
+130
+00:04:47,590 --> 00:04:49,510
+flowing and seamless as I said the same
+
+131
+00:04:49,510 --> 00:04:51,250
+thing when you guys made Witcher 3 you
+
+132
+00:04:51,250 --> 00:04:53,320
+guys just need to take that demo and put
+
+133
+00:04:53,320 --> 00:04:55,990
+it online because that was amazing you
+
+134
+00:04:55,990 --> 00:04:58,680
+guys have met like so here's the thing I
+
+135
+00:04:58,680 --> 00:05:02,050
+play all these types of sci-fi games and
+
+136
+00:05:02,050 --> 00:05:03,760
+I've always wanted a game and there's
+
+137
+00:05:03,760 --> 00:05:05,620
+been good ones there's been days sex and
+
+138
+00:05:05,620 --> 00:05:07,780
+and some that have never even come out
+
+139
+00:05:07,780 --> 00:05:09,760
+that I was like oh my gosh it was like
+
+140
+00:05:09,760 --> 00:05:13,720
+prey to this takes all of that and it's
+
+141
+00:05:13,720 --> 00:05:15,639
+the thing that I asked for like I want
+
+142
+00:05:15,639 --> 00:05:17,740
+to go there you know oh yeah this is a
+
+143
+00:05:17,740 --> 00:05:20,740
+great you know sort of linear experience
+
+144
+00:05:20,740 --> 00:05:22,690
+and it tells a great story but I would
+
+145
+00:05:22,690 --> 00:05:25,300
+also like that plus I want to drive over
+
+146
+00:05:25,300 --> 00:05:27,010
+there yeah we kind of tried to combine
+
+147
+00:05:27,010 --> 00:05:29,500
+the best of yeah that's like an it's
+
+148
+00:05:29,500 --> 00:05:32,770
+it's an open-world you know there yeah
+
+149
+00:05:32,770 --> 00:05:35,760
+you can go three-dimensional I know
+
+150
+00:05:35,760 --> 00:05:39,280
+Lowe's me away it's not just like I can
+
+151
+00:05:39,280 --> 00:05:42,070
+go out and straight yeah rod Roach robo
+
+152
+00:05:42,070 --> 00:05:44,530
+roaches are now calling em rope stuff
+
+153
+00:05:44,530 --> 00:05:48,880
+yeah roadster like but on top of it yeah
+
+154
+00:05:48,880 --> 00:05:50,710
+that three-dimensional quality for me
+
+155
+00:05:50,710 --> 00:05:52,539
+one things I've always imagined a night
+
+156
+00:05:52,539 --> 00:05:55,120
+city is basically standing like the 45th
+
+157
+00:05:55,120 --> 00:05:57,280
+floor of something and watching the Sun
+
+158
+00:05:57,280 --> 00:05:59,620
+going down and hearing like gunshots in
+
+159
+00:05:59,620 --> 00:06:01,180
+the distance and looking at it and see
+
+160
+00:06:01,180 --> 00:06:04,150
+maybe is going by and I can get that and
+
+161
+00:06:04,150 --> 00:06:06,220
+now we're gonna now you can get it
+
+162
+00:06:06,220 --> 00:06:08,200
+that's amazing hell yeah
+
+163
+00:06:08,200 --> 00:06:11,289
+and it works that way because it gets
+
+164
+00:06:11,289 --> 00:06:14,320
+you the place more than it gets you the
+
+165
+00:06:14,320 --> 00:06:17,200
+game even there's a big long we've
+
+166
+00:06:17,200 --> 00:06:19,090
+compiled a big long list of all the
+
+167
+00:06:19,090 --> 00:06:21,340
+points we put it in in the description
+
+168
+00:06:21,340 --> 00:06:23,470
+of all the nitty-gritty of what was
+
+169
+00:06:23,470 --> 00:06:25,810
+there what the game is so I just want to
+
+170
+00:06:25,810 --> 00:06:27,230
+ask you some some
+
+171
+00:06:27,230 --> 00:06:30,740
+other questions interesting questions to
+
+172
+00:06:30,740 --> 00:06:32,780
+get some more information like what is
+
+173
+00:06:32,780 --> 00:06:35,210
+your favorite character that you've seen
+
+174
+00:06:35,210 --> 00:06:38,150
+them develop and and that you know is it
+
+175
+00:06:38,150 --> 00:06:40,400
+all your characters of their developer
+
+176
+00:06:40,400 --> 00:06:42,020
+that they create some new ones that you
+
+177
+00:06:42,020 --> 00:06:43,790
+like they created some new ones yeah
+
+178
+00:06:43,790 --> 00:06:45,950
+which I like like Dexter's people like
+
+179
+00:06:45,950 --> 00:06:47,750
+that yeah but in addition what I'm
+
+180
+00:06:47,750 --> 00:06:49,310
+looking forward to is some of the
+
+181
+00:06:49,310 --> 00:06:50,990
+characters that were in the fiction that
+
+182
+00:06:50,990 --> 00:06:53,540
+you haven't seen yet you haven't seen
+
+183
+00:06:53,540 --> 00:06:55,460
+well I'm giving too much way if I give
+
+184
+00:06:55,460 --> 00:07:04,910
+something scary good question like
+
+185
+00:07:04,910 --> 00:07:06,650
+Johnny Johnny Johnny Johnny silver hair
+
+186
+00:07:06,650 --> 00:07:09,740
+for example one of our faves actually I
+
+187
+00:07:09,740 --> 00:07:12,290
+really like the feminine version of be
+
+188
+00:07:12,290 --> 00:07:14,780
+yeah yeah it's funny Big Mike my son and
+
+189
+00:07:14,780 --> 00:07:15,980
+I were talking about on the way back and
+
+190
+00:07:15,980 --> 00:07:19,070
+we seen the original demo gosh she's got
+
+191
+00:07:19,070 --> 00:07:21,530
+an awesome voice yeah just carries it
+
+192
+00:07:21,530 --> 00:07:24,050
+and I know I think I'm gonna be her
+
+193
+00:07:24,050 --> 00:07:27,110
+eater which I I never do that I always
+
+194
+00:07:27,110 --> 00:07:28,880
+create my own character I'll probably
+
+195
+00:07:28,880 --> 00:07:30,530
+well here's what's great is that you
+
+196
+00:07:30,530 --> 00:07:33,020
+could do multiple playthroughs because
+
+197
+00:07:33,020 --> 00:07:35,870
+it it does actually result in different
+
+198
+00:07:35,870 --> 00:07:37,580
+paths you can take things differently
+
+199
+00:07:37,580 --> 00:07:40,160
+yeah so in the demo we saw sort of they
+
+200
+00:07:40,160 --> 00:07:42,500
+tried to go in peacefully they use sort
+
+201
+00:07:42,500 --> 00:07:44,300
+of their charm in order to do it
+
+202
+00:07:44,300 --> 00:07:46,430
+eventually there's a little bit of a
+
+203
+00:07:46,430 --> 00:07:49,250
+betrayal and you go into combat but can
+
+204
+00:07:49,250 --> 00:07:50,960
+you tell us like how we could have done
+
+205
+00:07:50,960 --> 00:07:51,890
+that differently
+
+206
+00:07:51,890 --> 00:07:53,960
+I mean sure like we got the money from
+
+207
+00:07:53,960 --> 00:08:01,100
+the military and then just never had
+
+208
+00:08:01,100 --> 00:08:04,070
+seen that amazing scene see that's cool
+
+209
+00:08:04,070 --> 00:08:05,600
+but I don't know why anybody would do
+
+210
+00:08:05,600 --> 00:08:06,890
+that because what they created there was
+
+211
+00:08:06,890 --> 00:08:09,320
+awesome but but that is what I like they
+
+212
+00:08:09,320 --> 00:08:10,700
+should have shown that in the demo just
+
+213
+00:08:10,700 --> 00:08:12,740
+to really shock everybody and like okay
+
+214
+00:08:12,740 --> 00:08:13,850
+we're gonna cut it and we're gonna try a
+
+215
+00:08:13,850 --> 00:08:15,800
+different one or we're yeah but and we
+
+216
+00:08:15,800 --> 00:08:17,360
+could go in obviously when we actually
+
+217
+00:08:17,360 --> 00:08:18,750
+came to the mouth
+
+218
+00:08:18,750 --> 00:08:20,370
+I know we could just decide yeah you
+
+219
+00:08:20,370 --> 00:08:22,050
+know I screw its gonna go show everybody
+
+220
+00:08:22,050 --> 00:08:23,940
+like it's really it's up to the player
+
+221
+00:08:23,940 --> 00:08:26,580
+we really want to give choices the CD
+
+222
+00:08:26,580 --> 00:08:28,620
+Projekt RED like tradition it's like how
+
+223
+00:08:28,620 --> 00:08:30,810
+we make games giving narratives choice
+
+224
+00:08:30,810 --> 00:08:32,729
+and also gameplay choice as well right
+
+225
+00:08:32,729 --> 00:08:35,580
+so we don't want to just thank him in
+
+226
+00:08:35,580 --> 00:08:37,650
+which we obviously had Daryl and he had
+
+227
+00:08:37,650 --> 00:08:39,479
+a cool range of abilities but we kind of
+
+228
+00:08:39,479 --> 00:08:43,380
+make it even we want to do more yeah so
+
+229
+00:08:43,380 --> 00:08:45,990
+many cool roles that might fade in the
+
+230
+00:08:45,990 --> 00:08:49,830
+2020 and nothing else amazing the
+
+231
+00:08:49,830 --> 00:08:51,480
+coolers in this day of me or more
+
+232
+00:08:51,480 --> 00:08:53,340
+internet connection what's gonna happen
+
+233
+00:08:53,340 --> 00:08:54,990
+is somebody will go down one of those
+
+234
+00:08:54,990 --> 00:08:57,090
+paths and they're gonna go you didn't
+
+235
+00:08:57,090 --> 00:08:59,340
+see Roy snows guys yeah oh man and then
+
+236
+00:08:59,340 --> 00:09:00,870
+everybody's gonna run over there and
+
+237
+00:09:00,870 --> 00:09:03,030
+they're going to replay and because of
+
+238
+00:09:03,030 --> 00:09:06,420
+the nature of the design choices Matt
+
+239
+00:09:06,420 --> 00:09:07,140
+mm-hmm
+
+240
+00:09:07,140 --> 00:09:09,150
+and you just can't do the linear fashion
+
+241
+00:09:09,150 --> 00:09:10,770
+which means there are gonna be people
+
+242
+00:09:10,770 --> 00:09:13,590
+exploring every which way and they're
+
+243
+00:09:13,590 --> 00:09:15,840
+gonna find certain things don't work
+
+244
+00:09:15,840 --> 00:09:19,380
+yeah I'm gonna go well yeah I can do
+
+245
+00:09:19,380 --> 00:09:21,990
+this as be in this version of me but
+
+246
+00:09:21,990 --> 00:09:24,839
+this other incarnation had a different
+
+247
+00:09:24,839 --> 00:09:27,480
+life path I for a backrub so it's going
+
+248
+00:09:27,480 --> 00:09:31,140
+to see since a personal is a yeah for
+
+249
+00:09:31,140 --> 00:09:33,450
+every damn run you exactly especially
+
+250
+00:09:33,450 --> 00:09:36,060
+with the flowing class system where it's
+
+251
+00:09:36,060 --> 00:09:38,070
+not you're not locked into one thing you
+
+252
+00:09:38,070 --> 00:09:41,070
+can do whatever you want I was really
+
+253
+00:09:41,070 --> 00:09:43,260
+happy to see that the mature take that
+
+254
+00:09:43,260 --> 00:09:45,390
+Witcher you know is known for is here in
+
+255
+00:09:45,390 --> 00:09:47,910
+this game there's nudity it's in your
+
+256
+00:09:47,910 --> 00:09:50,190
+face okay we got we've got some boobies
+
+257
+00:09:50,190 --> 00:09:52,950
+up in the face but hey that's just a
+
+258
+00:09:52,950 --> 00:09:54,570
+that's the way you found her and we need
+
+259
+00:09:54,570 --> 00:09:56,190
+to get her out of here and ex filler
+
+260
+00:09:56,190 --> 00:09:58,050
+immediately I mean so things don't want
+
+261
+00:09:58,050 --> 00:09:59,700
+to put but community in there for no
+
+262
+00:09:59,700 --> 00:10:02,790
+reason yeah oh no yeah yeah exactly
+
+263
+00:10:02,790 --> 00:10:04,650
+but but I'm happy to see that you guys
+
+264
+00:10:04,650 --> 00:10:06,839
+aren't shying away from that and the
+
+265
+00:10:06,839 --> 00:10:09,720
+mature content can you talk a little bit
+
+266
+00:10:09,720 --> 00:10:13,020
+about you know I noticed sort of a
+
+267
+00:10:13,020 --> 00:10:15,240
+relationship or little romance are we
+
+268
+00:10:15,240 --> 00:10:17,460
+gonna get like romance options in the
+
+269
+00:10:17,460 --> 00:10:20,010
+game oh yeah
+
+270
+00:10:20,010 --> 00:10:21,210
+you couldn't take people back for
+
+271
+00:10:21,210 --> 00:10:25,320
+one-night stands like this live how you
+
+272
+00:10:25,320 --> 00:10:27,270
+want we're not gonna judge right
+
+273
+00:10:27,270 --> 00:10:28,830
+obviously that works for both male and
+
+274
+00:10:28,830 --> 00:10:31,290
+female V so we wrote an original you're
+
+275
+00:10:31,290 --> 00:10:33,240
+gonna get to do it in this game oh man
+
+276
+00:10:33,240 --> 00:10:34,320
+that's awesome
+
+277
+00:10:34,320 --> 00:10:38,400
+for me it's just like we as you saw the
+
+278
+00:10:38,400 --> 00:10:41,580
+the flow through the demo in the opening
+
+279
+00:10:41,580 --> 00:10:43,290
+sequence is quite quite linear because
+
+280
+00:10:43,290 --> 00:10:45,390
+it's the very start of the game and we
+
+281
+00:10:45,390 --> 00:10:47,360
+wanted to really bring that kind of epic
+
+282
+00:10:47,360 --> 00:10:50,250
+combat feel and like how like making
+
+283
+00:10:50,250 --> 00:10:51,720
+sure it feels dynamic and everything
+
+284
+00:10:51,720 --> 00:10:52,920
+like that but as you're progressing
+
+285
+00:10:52,920 --> 00:10:55,890
+through the game we really want to open
+
+286
+00:10:55,890 --> 00:10:57,720
+that up so basically we're and it's the
+
+287
+00:10:57,720 --> 00:10:58,800
+same thing as what we did in Witcher 3
+
+288
+00:10:58,800 --> 00:11:00,390
+where we had like the opening section
+
+289
+00:11:00,390 --> 00:11:01,830
+which you can't like would to teach the
+
+290
+00:11:01,830 --> 00:11:03,390
+play of the same with the game and we're
+
+291
+00:11:03,390 --> 00:11:04,500
+kind of doing the same thing here more
+
+292
+00:11:04,500 --> 00:11:05,700
+linear to begin with and as we unlock
+
+293
+00:11:05,700 --> 00:11:07,380
+more and more abilities additional
+
+294
+00:11:07,380 --> 00:11:08,640
+pathways through the level design open
+
+295
+00:11:08,640 --> 00:11:09,690
+up as well right so we don't just have
+
+296
+00:11:09,690 --> 00:11:10,770
+linear level design when I have like
+
+297
+00:11:10,770 --> 00:11:12,720
+choices you want to approach it in this
+
+298
+00:11:12,720 --> 00:11:14,370
+way I want to people that have never
+
+299
+00:11:14,370 --> 00:11:16,050
+gone on that particular path and that
+
+300
+00:11:16,050 --> 00:11:17,880
+was in your previous game so I know and
+
+301
+00:11:17,880 --> 00:11:19,730
+I believe in another one of my ambitions
+
+302
+00:11:19,730 --> 00:11:21,780
+which I really want us to be able to do
+
+303
+00:11:21,780 --> 00:11:22,710
+yeah and it's something that we're
+
+304
+00:11:22,710 --> 00:11:24,210
+working hard on is kind of to green this
+
+305
+00:11:24,210 --> 00:11:26,550
+kind of Metroidvania style you can go
+
+306
+00:11:26,550 --> 00:11:28,290
+back to a mutant the meat factory and
+
+307
+00:11:28,290 --> 00:11:29,310
+then maybe if you have a new ability
+
+308
+00:11:29,310 --> 00:11:31,050
+discover or something which has Kulu in
+
+309
+00:11:31,050 --> 00:11:34,050
+it you know yes there was another that I
+
+310
+00:11:34,050 --> 00:11:36,690
+saw the inspection mechanic oh I'm so in
+
+311
+00:11:36,690 --> 00:11:37,800
+love with that kind of stuff you know
+
+312
+00:11:37,800 --> 00:11:39,540
+like - like Tomb Raider they had this
+
+313
+00:11:39,540 --> 00:11:40,770
+nice mechanic where you look at
+
+314
+00:11:40,770 --> 00:11:42,990
+something you learn something it makes
+
+315
+00:11:42,990 --> 00:11:45,360
+everything it makes the world feel more
+
+316
+00:11:45,360 --> 00:11:46,980
+alive because at any moment you can run
+
+317
+00:11:46,980 --> 00:11:48,720
+into something in the trash or pick it
+
+318
+00:11:48,720 --> 00:11:50,430
+up or something hiding in a shelf or a
+
+319
+00:11:50,430 --> 00:11:52,170
+safe and then there's this little
+
+320
+00:11:52,170 --> 00:11:54,090
+minigame - look at it and learn
+
+321
+00:11:54,090 --> 00:11:55,950
+information that's in this game damage
+
+322
+00:11:55,950 --> 00:11:57,900
+calculating the usability of that thing
+
+323
+00:11:57,900 --> 00:12:00,720
+later on oh my gosh because okay I got
+
+324
+00:12:00,720 --> 00:12:03,240
+this can I use it later you know so your
+
+325
+00:12:03,240 --> 00:12:05,160
+inventory is gonna shift based on what
+
+326
+00:12:05,160 --> 00:12:09,060
+you know hell yeah and we like like we
+
+327
+00:12:09,060 --> 00:12:10,590
+have a lot of optional ways to solve
+
+328
+00:12:10,590 --> 00:12:13,470
+quests and depending on what skills you
+
+329
+00:12:13,470 --> 00:12:15,060
+have you can get more information about
+
+330
+00:12:15,060 --> 00:12:16,440
+now if I'm an item from the inspector
+
+331
+00:12:16,440 --> 00:12:17,850
+system if you don't have that so and
+
+332
+00:12:17,850 --> 00:12:21,150
+it's that investigation game from your
+
+333
+00:12:21,150 --> 00:12:22,770
+way for a quest based on how much you
+
+334
+00:12:22,770 --> 00:12:24,810
+investigate items and see exactly and we
+
+335
+00:12:24,810 --> 00:12:26,070
+noticed a little bit in that in that
+
+336
+00:12:26,070 --> 00:12:27,720
+impressive boss battle it's good to see
+
+337
+00:12:27,720 --> 00:12:29,550
+that not only is there good gunplay but
+
+338
+00:12:29,550 --> 00:12:31,140
+there's also unique bosses that have
+
+339
+00:12:31,140 --> 00:12:31,529
+different
+
+340
+00:12:31,529 --> 00:12:34,170
+tax but there was a point where you know
+
+341
+00:12:34,170 --> 00:12:35,759
+you could figure out a boss's weakness
+
+342
+00:12:35,759 --> 00:12:38,040
+video your your augmentations and that's
+
+343
+00:12:38,040 --> 00:12:39,329
+another thing that ties into the
+
+344
+00:12:39,329 --> 00:12:41,160
+first-person perspective you could just
+
+345
+00:12:41,160 --> 00:12:42,870
+immediately scan and see it it doesn't
+
+346
+00:12:42,870 --> 00:12:44,579
+have to zoom in and anything your data
+
+347
+00:12:44,579 --> 00:12:46,680
+really locks in to where you are any
+
+348
+00:12:46,680 --> 00:12:49,680
+situational awareness is real and I
+
+349
+00:12:49,680 --> 00:12:50,879
+think one of the important things for us
+
+350
+00:12:50,879 --> 00:12:52,199
+is that we want to create a grounded
+
+351
+00:12:52,199 --> 00:12:55,920
+world and like a grounded experience so
+
+352
+00:12:55,920 --> 00:12:58,230
+we don't want like like it took us a
+
+353
+00:12:58,230 --> 00:12:59,699
+long time to get the point where we were
+
+354
+00:12:59,699 --> 00:13:02,069
+installing the scanner like it was
+
+355
+00:13:02,069 --> 00:13:03,420
+showcased in a way where it has a
+
+356
+00:13:03,420 --> 00:13:04,920
+meaning to you it's like it wasn't just
+
+357
+00:13:04,920 --> 00:13:05,999
+like oh yeah you've unlocked the ability
+
+358
+00:13:05,999 --> 00:13:08,009
+to scan people like a guy takes out your
+
+359
+00:13:08,009 --> 00:13:13,699
+eye smells really cool and you saw your
+
+360
+00:13:13,699 --> 00:13:16,139
+every meaningful mechanic you get in the
+
+361
+00:13:16,139 --> 00:13:17,910
+game will be giving in a meaningful way
+
+362
+00:13:17,910 --> 00:13:20,309
+that was harrowing that was a little
+
+363
+00:13:20,309 --> 00:13:22,800
+jarring and that was the guy that we
+
+364
+00:13:22,800 --> 00:13:24,930
+trust yeah you guys were saying you
+
+365
+00:13:24,930 --> 00:13:28,850
+could go to shade here places like crazy
+
+366
+00:13:28,850 --> 00:13:31,230
+that's what I like but hey one thing I
+
+367
+00:13:31,230 --> 00:13:32,910
+do want to address yeah you brought sort
+
+368
+00:13:32,910 --> 00:13:36,300
+last time and that is that you were
+
+369
+00:13:36,300 --> 00:13:37,860
+saying about the different combinations
+
+370
+00:13:37,860 --> 00:13:39,870
+of kind of game structures like that
+
+371
+00:13:39,870 --> 00:13:42,000
+yeah that was intentional from the
+
+372
+00:13:42,000 --> 00:13:44,220
+beginning of the 20/20 universe yeah I
+
+373
+00:13:44,220 --> 00:13:46,230
+described that when I built nice city as
+
+374
+00:13:46,230 --> 00:13:48,209
+I'm building Disneyland in the dark
+
+375
+00:13:48,209 --> 00:13:50,939
+future and that was to give you the
+
+376
+00:13:50,939 --> 00:13:55,319
+maximum number of possibility of fields
+
+377
+00:13:55,319 --> 00:13:57,509
+it wasn't all going to be a particular
+
+378
+00:13:57,509 --> 00:14:01,230
+way the world operated but anyone from
+
+379
+00:14:01,230 --> 00:14:03,180
+one neighbor to another neighborhood you
+
+380
+00:14:03,180 --> 00:14:06,019
+went from one time to another example in
+
+381
+00:14:06,019 --> 00:14:08,670
+2020 we used to have encounter - I still
+
+382
+00:14:08,670 --> 00:14:10,769
+do but we have encounter tables for
+
+383
+00:14:10,769 --> 00:14:13,980
+areas but we also have times of day and
+
+384
+00:14:13,980 --> 00:14:15,660
+how they change so you'll be going to
+
+385
+00:14:15,660 --> 00:14:17,100
+the corporate Center during the day and
+
+386
+00:14:17,100 --> 00:14:18,480
+it's bright it's sunny and there's guys
+
+387
+00:14:18,480 --> 00:14:20,309
+in suits and babies laughing a little
+
+388
+00:14:20,309 --> 00:14:22,740
+bit like that don't be there at 2:00 in
+
+389
+00:14:22,740 --> 00:14:25,290
+the morning yeah when you know something
+
+390
+00:14:25,290 --> 00:14:26,970
+you hear the laughter or like one of the
+
+391
+00:14:26,970 --> 00:14:28,920
+booster gangs coming out and you go toys
+
+392
+00:14:28,920 --> 00:14:31,990
+oh great this crazy clowns again
+
+393
+00:14:31,990 --> 00:14:34,060
+that's the part that I like is that
+
+394
+00:14:34,060 --> 00:14:36,910
+everything is textually built yeah to
+
+395
+00:14:36,910 --> 00:14:39,790
+not illicit just one kind of cyberpunk
+
+396
+00:14:39,790 --> 00:14:42,160
+but many kinds you you nailed it there
+
+397
+00:14:42,160 --> 00:14:43,750
+because if I were to if I were to use
+
+398
+00:14:43,750 --> 00:14:46,079
+other games like you know I'm saying
+
+399
+00:14:46,079 --> 00:14:48,610
+which or you could see inspirations and
+
+400
+00:14:48,610 --> 00:14:51,190
+they're the investigations the the the
+
+401
+00:14:51,190 --> 00:14:53,620
+open-world you know a little bit of
+
+402
+00:14:53,620 --> 00:14:56,529
+inspiration or feeling of a day sex and
+
+403
+00:14:56,529 --> 00:14:59,500
+but you can actually go there prey to
+
+404
+00:14:59,500 --> 00:15:01,750
+the sort of bounty hunting kind of thing
+
+405
+00:15:01,750 --> 00:15:04,540
+this idea of futuristic blade runners
+
+406
+00:15:04,540 --> 00:15:07,029
+from the movie like it's all here guys
+
+407
+00:15:07,029 --> 00:15:10,029
+and the I'm relatively new to the
+
+408
+00:15:10,029 --> 00:15:11,769
+cyberpunk universe even though I know a
+
+409
+00:15:11,769 --> 00:15:14,709
+lot cuz my friends play that I think
+
+410
+00:15:14,709 --> 00:15:17,949
+that I cannot wait to immerse myself in
+
+411
+00:15:17,949 --> 00:15:20,319
+this world and play a long time which
+
+412
+00:15:20,319 --> 00:15:22,930
+how long is the is this game is it
+
+413
+00:15:22,930 --> 00:15:27,120
+substantial yeah yeah do not be
+
+414
+00:15:27,120 --> 00:15:28,509
+disappointed
+
+415
+00:15:28,509 --> 00:15:32,440
+yeah and then Plus this has if I'm
+
+416
+00:15:32,440 --> 00:15:33,910
+understanding it has almost more
+
+417
+00:15:33,910 --> 00:15:36,639
+replayability than the way oh yeah yeah
+
+418
+00:15:36,639 --> 00:15:38,800
+I mean for sure you can I mean like we
+
+419
+00:15:38,800 --> 00:15:40,870
+said you have cuz you're not just the
+
+420
+00:15:40,870 --> 00:15:43,240
+main storyline things that can change
+
+421
+00:15:43,240 --> 00:15:45,910
+but also the individual missions in the
+
+422
+00:15:45,910 --> 00:15:47,860
+combat because obviously Geralt has you
+
+423
+00:15:47,860 --> 00:15:50,110
+know a specific ways to find but here
+
+424
+00:15:50,110 --> 00:15:51,940
+there's it could be Robocop you can be a
+
+425
+00:15:51,940 --> 00:15:54,459
+that that girl from the trailer with the
+
+426
+00:15:54,459 --> 00:15:56,889
+lay arms and and crawling on the walls
+
+427
+00:15:56,889 --> 00:15:59,350
+it's crazy yeah see the thing is
+
+428
+00:15:59,350 --> 00:16:01,630
+beautiful about it is with Geralt you're
+
+429
+00:16:01,630 --> 00:16:03,310
+playing Witcher and that's your job
+
+430
+00:16:03,310 --> 00:16:04,930
+description you do that thing you do it
+
+431
+00:16:04,930 --> 00:16:07,690
+really well but here you can approach
+
+432
+00:16:07,690 --> 00:16:10,870
+this in so many different ways as almost
+
+433
+00:16:10,870 --> 00:16:12,760
+different characters so it's a much
+
+434
+00:16:12,760 --> 00:16:16,779
+wider because even the same event even
+
+435
+00:16:16,779 --> 00:16:19,120
+the same set of the same thing will be
+
+436
+00:16:19,120 --> 00:16:21,519
+different because of who you are in the
+
+437
+00:16:21,519 --> 00:16:23,850
+game I did bikes yes much sites
+
+438
+00:16:23,850 --> 00:16:25,959
+motorcycles around like a like you know
+
+439
+00:16:25,959 --> 00:16:28,300
+a caret style stuff it was disappointed
+
+440
+00:16:28,300 --> 00:16:29,350
+I was looking forward to seeing the bike
+
+441
+00:16:29,350 --> 00:16:31,120
+again yeah yeah it's not in this
+
+442
+00:16:31,120 --> 00:16:33,009
+particular demo maybe for another one
+
+443
+00:16:33,009 --> 00:16:33,460
+yeah
+
+444
+00:16:33,460 --> 00:16:36,970
+any difficulty options will have the
+
+445
+00:16:36,970 --> 00:16:38,380
+same kind of difficulty options that we
+
+446
+00:16:38,380 --> 00:16:43,710
+had in previous games you've made okay
+
+447
+00:16:43,710 --> 00:16:46,690
+can you just go ham with melee or yes we
+
+448
+00:16:46,690 --> 00:16:48,250
+have four minutes it's the full melee
+
+449
+00:16:48,250 --> 00:16:50,680
+system so if we want to recreate Lord to
+
+450
+00:16:50,680 --> 00:16:52,630
+shanks other Joe loves to play just
+
+451
+00:16:52,630 --> 00:17:01,480
+blades guys are you not excited I am the
+
+452
+00:17:01,480 --> 00:17:05,740
+I am the most well you know you've got
+
+453
+00:17:05,740 --> 00:17:07,750
+to play this come on unemployment I want
+
+454
+00:17:07,750 --> 00:17:15,370
+to play it now but yeah thank you so
+
+455
+00:17:15,370 --> 00:17:17,620
+much for giving me this interview thank
+
+456
+00:17:17,620 --> 00:17:21,059
+you so much guys it's really awesome
+
+457
+00:17:21,059 --> 00:17:23,650
+seriously I cannot wait for you guys to
+
+458
+00:17:23,650 --> 00:17:25,600
+show them more all right thank you so
+
+459
+00:17:25,600 --> 00:17:27,250
+much for your time and we'll see you
+
+460
+00:17:27,250 --> 00:17:30,210
+guys on the next and Greedo bye guys
+
+461
+00:17:30,210 --> 00:18:02,790
+[Music]
+
+462
+00:18:02,790 --> 00:18:07,620
+[Music]
+
+463
+00:18:07,620 --> 00:18:08,670
+you
+
+464
+00:18:08,670 --> 00:18:10,000
+[Music]
+
