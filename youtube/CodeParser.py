@@ -36,9 +36,6 @@ class Review:
         self.reviewed_json[file_name] = finalized
         if not finalized:
             self.to_review[file_name] = details
-        else:
-            if file_name in self.to_review:
-                del self.to_review[file_name]
 
     def write_to_file(self):
         with open('reviewed.json', 'w') as f:
@@ -71,6 +68,7 @@ def main():
     for f in listdir(dirPath):
         text = ''
         file_name = ""
+
         with open(path.join(dirPath, f)) as file:
             file_name = f
             while True:
@@ -93,9 +91,19 @@ def main():
             empty_files.append(file_name)
             continue
 
+        if f in review.reviewed_json and review.reviewed_json[f]:
+            print("reviewed", f)
+            label = review.reviewed_json[f]
+            jsonFile["corpus"].append({
+                'data': text,
+                'label': label,
+            })
+            continue
         offensiveWords, profaneWords = {}, {}
         with open('bad_words.json') as badwords:
             data = json.load(badwords)
+            data['offensive'] = list(set(data['offensive']))
+            data['profane'] = list(set(data['profane']))
 
             for offensiveW in data['offensive']:
                 phrase = offensiveW.split()
