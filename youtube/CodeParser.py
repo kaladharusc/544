@@ -18,6 +18,19 @@ import json
 #             fileName = match.groups()[0]
 #             os.rename(dirPath+"/"+f, dirPath+"/"+fileName)
 #         print(match)
+def transfer_labels():
+    f1 = open("reviewed.json", 'r')
+    to_file = json.loads(f1.read())
+    f2 = open("reviewed2.json", 'r')
+    from_file = json.loads(f2.read())
+
+    for (k, v) in from_file.items():
+        if v:
+            to_file[k] = v
+    f3 = open("reviewed.json", "w")
+    f3.write(json.dumps(to_file))
+
+
 def count_final():
     import json
     with open("final.json", 'r') as f:
@@ -63,6 +76,19 @@ def main():
     jsonFile = {}
 
     jsonFile["description"] = "This project attempt to annotate and classify Youtube videos taking into account the content of the video and its composition. While youtube flags content inappropriate for young audiences by requiring viewers to sign in, a lot of youtube content is generally unaudited if the uploader of the video does not flag it so. Also there is no distinction between which content is appropriate for what age groups. We will classify content based the film rating system: G, PG, PG-13 and R. We will also apply a binary classification for classifying clickbait videos."
+    jsonFile["authors"] = {
+        "author1": "Kaladhar Reddy Mummadi",
+        "author2": "Akshay Bhobe",
+        "author3": "Tanay Shankar",
+        "author4": "Nikhit Mago"
+    }
+    jsonFile["emails"] = {
+        "email1": "mummadi@usc.edu",
+        "email2": "abhobe@usc.edu",
+        "email3": "tshankar@usc.edu",
+        "email4": "mago@usc.edu"
+    }
+
     jsonFile["corpus"] = []
     empty_files = []
     for f in listdir(dirPath):
@@ -220,4 +246,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    count_final()
