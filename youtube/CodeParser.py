@@ -75,7 +75,7 @@ def main():
     dirPath = os.path.dirname(os.path.realpath(__file__))+"/data"
     jsonFile = {}
 
-    jsonFile["description"] = "This project attempt to annotate and classify Youtube videos taking into account the content of the video and its composition. While youtube flags content inappropriate for young audiences by requiring viewers to sign in, a lot of youtube content is generally unaudited if the uploader of the video does not flag it so. Also there is no distinction between which content is appropriate for what age groups. We will classify content based the film rating system: G, PG, PG-13 and R. We will also apply a binary classification for classifying clickbait videos."
+    jsonFile["description"] = ["This project attempt to annotate and classify Youtube videos taking into account the content of the video and its composition. While youtube flags content inappropriate for young audiences by requiring viewers to sign in, a lot of youtube content is generally unaudited if the uploader of the video does not flag it so. Also there is no distinction between which content is appropriate for what age groups. We will classify content based the film rating system: G, PG, PG-13 and R. We will also apply a binary classification for classifying clickbait videos."]
     jsonFile["authors"] = {
         "author1": "Kaladhar Reddy Mummadi",
         "author2": "Akshay Bhobe",
@@ -123,6 +123,7 @@ def main():
             jsonFile["corpus"].append({
                 'data': text,
                 'label': label,
+                'title': file_name
             })
             continue
         offensiveWords, profaneWords = {}, {}
@@ -236,6 +237,7 @@ def main():
             jsonFile["corpus"].append({
                 'data': " ".join(text),
                 'label': label,
+                'title': file_name
             })
     print("empty_files", len(empty_files))
 
@@ -246,4 +248,4 @@ def main():
 
 
 if __name__ == "__main__":
-    count_final()
+    main()
